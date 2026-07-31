@@ -1,10 +1,12 @@
 #!/usr/bin/env node
 /**
  * Discover git repos going viral on GitHub and merge into src/data/viral-repos.json.
+ * Always creates a unique 1200×400 B&W manga cover BEFORE writing/publishing.
  *   node scripts/refresh-viral.cjs
  */
 const fs = require("fs");
 const path = require("path");
+const { ensureCover } = require("./generate-cover.cjs");
 
 const ROOT = path.join(__dirname, "..");
 const OUT = path.join(ROOT, "src/data/viral-repos.json");
@@ -45,7 +47,6 @@ function velocityScore(item) {
   const stars = item.stargazers_count || 0;
   const created = Date.parse(item.created_at || Date.now());
   const ageDays = Math.max(0.5, (Date.now() - created) / 86400000);
-  // stars per day — what “going viral” means
   return stars / ageDays;
 }
 
@@ -66,7 +67,7 @@ function toPin(item, index, spottedAt) {
     stars: item.stargazers_count || 0,
     updatedAt: Date.parse(item.pushed_at || item.updated_at || spottedAt),
     topics: topics.length ? topics : ["trending", "github"],
-    cover: "/covers/viral-default.svg",
+    cover: "",
     sfx: SFX[index % SFX.length],
     height: velocityScore(item) > 200 ? "tall" : "medium",
     godMode: `Going viral (~${v}★/day). Pin it before your AI stack falls behind.`,
@@ -85,13 +86,18 @@ function isAiRelevant(item) {
   );
 }
 
+function hasRealCover(cover) {
+  if (!cover || String(cover).includes("viral-default")) return false;
+  const abs = path.join(ROOT, "public", String(cover).replace(/^\//, ""));
+  return fs.existsSync(abs) && fs.statSync(abs).size > 2000;
+}
+
 async function main() {
   const spottedAt = new Date().toISOString();
   const since14 = daysAgoISO(14);
   const since7 = daysAgoISO(7);
   const since3 = daysAgoISO(3);
 
-  // Focus on NEW repos gaining stars fast — not evergreen titans
   const queries = [
     `created:>${since7} stars:>100`,
     `created:>${since14} stars:>250`,
@@ -119,7 +125,6 @@ async function main() {
     .filter((item) => {
       const ageDays =
         (Date.now() - Date.parse(item.created_at || Date.now())) / 86400000;
-      // Must be young enough to count as "going viral"
       return ageDays <= 45 && (item.stargazers_count || 0) >= 40;
     })
     .sort((a, b) => velocityScore(b) - velocityScore(a));
@@ -138,7 +143,6 @@ async function main() {
   }
 
   const byKey = new Map();
-  // Drop stale evergreen leftovers from prior runs (no spottedAt / too old)
   for (const r of existing.repos || []) {
     const age =
       (Date.now() - Date.parse(r.spottedAt || r.updatedAt || 0)) / 86400000;
@@ -153,20 +157,31 @@ async function main() {
       ...pin,
       spottedAt: prev?.spottedAt || spottedAt,
       stars: Math.max(prev?.stars || 0, pin.stars),
+      cover: hasRealCover(prev?.cover) ? prev.cover : "",
     });
   });
 
   const repos = [...byKey.values()]
     .sort((a, b) => {
-      const va = (a.stars || 0) / Math.max(1, (Date.now() - (a.updatedAt || Date.now())) / 86400000);
-      const vb = (b.stars || 0) / Math.max(1, (Date.now() - (b.updatedAt || Date.now())) / 86400000);
-      // Prefer recently spotted viral
+      const va =
+        (a.stars || 0) /
+        Math.max(1, (Date.now() - (a.updatedAt || Date.now())) / 86400000);
+      const vb =
+        (b.stars || 0) /
+        Math.max(1, (Date.now() - (b.updatedAt || Date.now())) / 86400000);
       const sa = Date.parse(a.spottedAt || 0);
       const sb = Date.parse(b.spottedAt || 0);
       if (Math.abs(sb - sa) > 86400000) return sb - sa;
       return vb - va;
     })
     .slice(0, 60);
+
+  console.log("Generating covers before publish…");
+  for (const repo of repos) {
+    if (!hasRealCover(repo.cover)) {
+      repo.cover = await ensureCover(repo);
+    }
+  }
 
   const payload = {
     updatedAt: spottedAt,
@@ -178,7 +193,7 @@ async function main() {
   console.log(
     repos
       .slice(0, 12)
-      .map((r) => `${r.owner}/${r.name} ★${r.stars}`)
+      .map((r) => `${r.owner}/${r.name} ★${r.stars} ${r.cover}`)
       .join("\n"),
   );
 }

@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "refresh:viral": "node scripts/refresh-viral.cjs"
+    "refresh:viral": "node scripts/refresh-viral.cjs",
+    "covers:viral": "node scripts/generate-cover.cjs --from-json"
   },
   "dependencies": {
     "react": "19.1.0",

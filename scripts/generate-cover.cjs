@@ -2,8 +2,10 @@
 /**
  * Create a unique 1200×400 B&W manga ink cover for a viral repo.
  *
- * Prefer OpenAI Images when OPENAI_API_KEY is set (matches curated cover quality).
- * Otherwise renders a procedural screentone/ink banner so we never ship viral-default.
+ * Image provider priority:
+ *   1. OpenRouter (OPENROUTER_API_KEY) — preferred
+ *   2. OpenAI direct (OPENAI_API_KEY)
+ *   3. Procedural screentone/ink SVG fallback
  *
  *   node scripts/generate-cover.cjs --owner kvcache-ai --name AgentENV --desc "..."
  *   node scripts/generate-cover.cjs --from-json   # fill missing covers in viral-repos.json
@@ -152,6 +154,60 @@ function proceduralSvg({ owner, name }) {
 </svg>`;
 }
 
+async function decodeImageResponse(data, label) {
+  const b64 = data.data?.[0]?.b64_json;
+  if (b64) return Buffer.from(b64, "base64");
+  const url = data.data?.[0]?.url;
+  if (url) {
+    const img = await fetch(url);
+    return Buffer.from(await img.arrayBuffer());
+  }
+  throw new Error(`${label} response missing image data`);
+}
+
+function openRouterHeaders() {
+  return {
+    Authorization: `Bearer ${process.env.OPENROUTER_API_KEY}`,
+    "Content-Type": "application/json",
+    "HTTP-Referer": process.env.OPENROUTER_REFERER || "https://pinrepo.vercel.app",
+    "X-Title": process.env.OPENROUTER_TITLE || "Pinrepo",
+  };
+}
+
+async function generateWithOpenRouter(prompt) {
+  const key = process.env.OPENROUTER_API_KEY;
+  if (!key) return null;
+
+  const model =
+    process.env.OPENROUTER_IMAGE_MODEL || "openai/gpt-image-1-mini";
+  const body = {
+    model,
+    prompt,
+    quality: "high",
+    output_format: "png",
+  };
+
+  // OpenAI image models on OpenRouter accept 3:2, not 16:9 — we crop to 1200×400 later
+  if (model.startsWith("openai/")) {
+    body.aspect_ratio = "3:2";
+  } else {
+    body.aspect_ratio = "16:9";
+  }
+
+  const res = await fetch("https://openrouter.ai/api/v1/images", {
+    method: "POST",
+    headers: openRouterHeaders(),
+    body: JSON.stringify(body),
+  });
+
+  if (!res.ok) {
+    const text = await res.text();
+    throw new Error(`OpenRouter image failed ${res.status}: ${text.slice(0, 280)}`);
+  }
+
+  return decodeImageResponse(await res.json(), "OpenRouter");
+}
+
 async function generateWithOpenAI(prompt) {
   const key = process.env.OPENAI_API_KEY;
   if (!key) return null;
@@ -175,14 +231,29 @@ async function generateWithOpenAI(prompt) {
     throw new Error(`OpenAI image failed ${res.status}: ${text.slice(0, 240)}`);
   }
   const data = await res.json();
-  const b64 = data.data?.[0]?.b64_json;
-  if (b64) return Buffer.from(b64, "base64");
-  const url = data.data?.[0]?.url;
-  if (url) {
-    const img = await fetch(url);
-    return Buffer.from(await img.arrayBuffer());
+  return decodeImageResponse(data, "OpenAI");
+}
+
+async function generateWithAI(prompt) {
+  if (process.env.OPENROUTER_API_KEY) {
+    try {
+      const buf = await generateWithOpenRouter(prompt);
+      if (buf) return { buf, provider: "openrouter" };
+    } catch (err) {
+      console.warn(`  OpenRouter cover skipped: ${err.message}`);
+    }
   }
-  throw new Error("OpenAI image response missing data");
+
+  if (process.env.OPENAI_API_KEY) {
+    try {
+      const buf = await generateWithOpenAI(prompt);
+      if (buf) return { buf, provider: "openai" };
+    } catch (err) {
+      console.warn(`  OpenAI cover skipped: ${err.message}`);
+    }
+  }
+
+  return null;
 }
 
 async function ensureCover(repo, { force = false } = {}) {
@@ -196,11 +267,10 @@ async function ensureCover(repo, { force = false } = {}) {
 
   const prompt = buildPrompt(repo);
   let raw = null;
-  try {
-    raw = await generateWithOpenAI(prompt);
-    if (raw) console.log(`  AI cover → ${path.basename(file)}`);
-  } catch (err) {
-    console.warn(`  OpenAI cover skipped: ${err.message}`);
+  const ai = await generateWithAI(prompt);
+  if (ai) {
+    raw = ai.buf;
+    console.log(`  AI cover (${ai.provider}) → ${path.basename(file)}`);
   }
 
   if (!raw) {

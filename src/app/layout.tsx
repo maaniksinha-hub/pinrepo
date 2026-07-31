@@ -4,19 +4,21 @@ import { Nav } from "@/components/Nav";
 import { ScreentoneDefs } from "@/components/ScreentoneDefs";
 import { JsonLd } from "@/components/JsonLd";
 import { SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/site";
-import { REPOS, formatStars, repoSlug } from "@/data/repos";
+import { repoSlug } from "@/data/repos";
+import { getAllRepos } from "@/lib/catalog";
 import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: `${SITE_NAME} — Best Git Repositories for AI Coding (Claude, Cursor, MCP)`,
+    default: `${SITE_NAME} — Viral Git Repos for AI Coding (Claude, Cursor, MCP)`,
     template: `%s · ${SITE_NAME}`,
   },
   description:
-    "Discover the top, newest, and most popular git repositories for AI coding tools. Curated MCP servers, Claude Code, Cursor rules, agents, RAG, and browser automation — pin your god-mode arsenal.",
+    "Daily board of viral GitHub repositories for AI coding — Claude, Cursor, MCP, agents. Catch breakout git repos as they climb, then pin your god-mode arsenal.",
   keywords: [
-    "git repositories",
+    "viral github repos",
+    "git repositories going viral",
     "AI coding",
     "Claude Code",
     "Cursor IDE",
@@ -37,29 +39,32 @@ export const metadata: Metadata = {
   category: "technology",
   alternates: {
     canonical: "/",
+    types: {
+      "application/rss+xml": [{ url: "/feed.xml", title: "Pinrepo viral digest" }],
+    },
   },
   openGraph: {
     type: "website",
     url: SITE_URL,
     siteName: SITE_NAME,
-    title: `${SITE_NAME} — ${SITE_TAGLINE}`,
+    title: `${SITE_NAME} — Viral git repos for AI coding`,
     description:
-      "Top / newest / popular git repos that power Claude, Cursor, and AI agents. Browse, pin, and build your arsenal.",
+      "Daily-updated viral GitHub board for Claude, Cursor, and AI agents. Catch breakouts early.",
     locale: "en_US",
     images: [
       {
         url: "/covers/mcp-servers.webp",
-        width: 1000,
-        height: 750,
+        width: 1200,
+        height: 400,
         alt: "Pinrepo — AI git repository covers in ink sketch style",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE_NAME} — Best git repos for AI coding`,
+    title: `${SITE_NAME} — Viral git repos for AI coding`,
     description:
-      "Curated git repositories for Claude, Cursor, MCP, and agent stacks. Top, newest, popular.",
+      "Repos going viral today for Claude, Cursor, MCP, and agents — updated every few hours.",
     images: ["/covers/mcp-servers.webp"],
   },
   robots: {
@@ -96,14 +101,17 @@ const orgLd = {
   description: SITE_TAGLINE,
 };
 
+const catalog = getAllRepos();
+
 const itemListLd = {
   "@context": "https://schema.org",
   "@type": "ItemList",
-  name: "Best git repositories for AI coding tools",
+  name: "Viral and curated git repositories for AI coding",
   itemListOrder: "https://schema.org/ItemListOrderDescending",
-  numberOfItems: REPOS.length,
-  itemListElement: [...REPOS]
+  numberOfItems: catalog.length,
+  itemListElement: [...catalog]
     .sort((a, b) => b.stars - a.stars)
+    .slice(0, 40)
     .map((repo, index) => ({
       "@type": "ListItem",
       position: index + 1,
@@ -111,6 +119,37 @@ const itemListLd = {
       name: `${repo.owner}/${repo.name}`,
       description: repo.description,
     })),
+};
+
+const faqLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "What is Pinrepo?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Pinrepo is a daily-updated board of viral GitHub repositories for AI coding tools like Claude, Cursor, and MCP — plus curated essentials you can pin into personal boards.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "How often does Pinrepo find viral git repos?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Pinrepo scans GitHub multiple times per day for young repositories with high star velocity, then publishes them on the home feed, /viral digest, and RSS.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Which AI coding tools are covered?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Claude Code, Cursor, Model Context Protocol (MCP) servers, AI agents, RAG stacks, and browser automation repos that unlock god-mode developer workflows.",
+      },
+    },
+  ],
 };
 
 export default function RootLayout({
@@ -137,6 +176,7 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
         <JsonLd data={websiteLd} />
         <JsonLd data={orgLd} />
         <JsonLd data={itemListLd} />
+        <JsonLd data={faqLd} />
         <ScreentoneDefs />
         <BoardsProvider>
           <div className="shell">
@@ -144,14 +184,13 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
             <main className="shell__main">{children}</main>
           </div>
         </BoardsProvider>
-        {/* Crawlable keyword summary for search engines */}
         <aside className="seo-rail" aria-hidden="false">
           <p>
-            Pinrepo indexes {REPOS.length} high-signal git repositories for AI
-            coding — including Claude Code, Cursor rules, Model Context Protocol
-            (MCP) servers, LangChain, OpenHands, browser-use, and more. Sort by
-            top stars ({formatStars(Math.max(...REPOS.map((r) => r.stars)))}+),
-            newest updates, or popular momentum.
+            Pinrepo tracks viral GitHub repositories and curated git repos for
+            AI coding — Claude Code, Cursor, Model Context Protocol (MCP),
+            agents, and breakout tools. Sort by viral momentum, top stars,
+            newest updates, or popular velocity. Fresh discoveries land every
+            few hours.
           </p>
         </aside>
       </body>

@@ -3,14 +3,18 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import { CoverArt } from "@/components/CoverArt";
-import { REPOS, formatStars } from "@/data/repos";
+import { formatStars } from "@/data/repos";
+import { getAllRepos } from "@/lib/catalog";
 import { useBoards } from "@/hooks/useBoards";
 
 export function BoardsView() {
   const { boards, addBoard, ready } = useBoards();
   const [name, setName] = useState("");
 
-  const byId = useMemo(() => new Map(REPOS.map((r) => [r.id, r])), []);
+  const byId = useMemo(
+    () => new Map(getAllRepos().map((r) => [r.id, r])),
+    [],
+  );
 
   return (
     <div className="boards">

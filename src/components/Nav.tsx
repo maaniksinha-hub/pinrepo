@@ -25,6 +25,13 @@ export function Nav() {
             Feed
           </Link>
           <Link
+            href="/viral"
+            className="nav__link"
+            data-active={pathname.startsWith("/viral") ? "true" : "false"}
+          >
+            Viral
+          </Link>
+          <Link
             href="/boards"
             className="nav__link"
             data-active={pathname.startsWith("/boards") ? "true" : "false"}

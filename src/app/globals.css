@@ -277,7 +277,7 @@ svg {
 
 .feed__sorts {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   border: var(--border-heavy);
   background: var(--panel);
   overflow: hidden;
@@ -529,6 +529,34 @@ svg {
   font-size: 0.82rem;
   font-weight: 700;
   opacity: 0.65;
+}
+
+.pin__viral {
+  font-family: var(--font-sfx);
+  letter-spacing: 0.03em;
+  margin-right: 0.25rem;
+  background: var(--ink);
+  color: var(--newsprint);
+  padding: 0.05rem 0.3rem 0;
+  font-size: 0.75rem;
+}
+
+.feed__count {
+  column-span: all;
+  margin: 0 0 0.85rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  opacity: 0.7;
+}
+
+.repo-page__badge {
+  display: inline-block;
+  margin: 0 0 0.5rem;
+  padding: 0.2rem 0.45rem;
+  font-family: var(--font-sfx);
+  background: var(--ink);
+  color: var(--newsprint);
+  letter-spacing: 0.04em;
 }
 
 .pin__name {

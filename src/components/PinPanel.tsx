@@ -39,7 +39,10 @@ export function PinPanel({ pin, index }: PinPanelProps) {
 
           <div className="pin__body">
             <header className="pin__header">
-              <p className="pin__owner">{pin.owner}/</p>
+              <p className="pin__owner">
+                {pin.viral && <span className="pin__viral">VIRAL </span>}
+                {pin.owner}/
+              </p>
               <h2 className="pin__name">
                 <Link href={`/repo/${repoSlug(pin)}`}>{pin.name}</Link>
               </h2>

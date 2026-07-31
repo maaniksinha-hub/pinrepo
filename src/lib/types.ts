@@ -14,6 +14,11 @@ export type RepoPin = {
   height: "short" | "medium" | "tall";
   /** Why this helps AI tools go god mode */
   godMode: string;
+  /** Discovered via daily viral scanner */
+  viral?: boolean;
+  /** ISO date when first spotted as viral */
+  spottedAt?: string;
+  htmlUrl?: string;
 };
 
 export type Board = {
@@ -23,4 +28,4 @@ export type Board = {
   createdAt: number;
 };
 
-export type FeedSort = "top" | "newest" | "popular";
+export type FeedSort = "top" | "newest" | "popular" | "viral";

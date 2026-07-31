@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "refresh:viral": "node scripts/refresh-viral.cjs"
   },
   "dependencies": {
     "react": "19.1.0",

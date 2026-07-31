@@ -253,15 +253,16 @@ export function formatStars(n: number): string {
   return String(n);
 }
 
+export function repoSlug(repo: { owner: string; name: string }) {
+  return `${repo.owner}-${repo.name}`.toLowerCase().replace(/[^a-z0-9-]+/g, "-");
+}
+
 export function getRepoById(id: string) {
+  // lazy import avoided — catalog imports REPOS; keep lookup here for curated only
   return REPOS.find((r) => r.id === id);
 }
 
 export function getRepoBySlug(slug: string) {
-  return REPOS.find((r) => `${r.owner}-${r.name}`.toLowerCase() === slug.toLowerCase());
-}
-
-export function repoSlug(repo: RepoPin) {
-  return `${repo.owner}-${repo.name}`.toLowerCase().replace(/[^a-z0-9-]+/g, "-");
+  return REPOS.find((r) => repoSlug(r) === slug.toLowerCase());
 }
 

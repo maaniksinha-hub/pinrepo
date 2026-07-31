@@ -16,38 +16,38 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
- steps:
-  - uses: actions/checkout@v4
-    with:
-      persist-credentials: true
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-  - uses: actions/setup-node@v4
-    with:
-      node-version: "22"
-      cache: npm
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
 
-  - name: Install dependencies
-    run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
-  - name: Discover viral GitHub repos + generate covers
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-      CLOUDFLARE_IMAGE_MODEL: ${{ vars.CLOUDFLARE_IMAGE_MODEL }}
-      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-      OPENROUTER_IMAGE_MODEL: ${{ vars.OPENROUTER_IMAGE_MODEL }}
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-    run: node scripts/refresh-viral.cjs
+      - name: Discover viral GitHub repos + generate covers
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_IMAGE_MODEL: ${{ vars.CLOUDFLARE_IMAGE_MODEL }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_IMAGE_MODEL: ${{ vars.OPENROUTER_IMAGE_MODEL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node scripts/refresh-viral.cjs
 
-  - name: Commit & push if changed
-    run: |
-      git config user.name "pinrepo-bot"
-      git config user.email "bot@pinrepo.local"
-      git add src/data/viral-repos.json public/covers/viral-*.webp
-      if git diff --staged --quiet; then
-        echo "No viral catalog changes"
-        exit 0
-      fi
-      git commit -m "chore: refresh viral git repositories $(date -u +%Y-%m-%dT%H:%MZ)"
-      git push
+      - name: Commit & push if changed
+        run: |
+          git config user.name "pinrepo-bot"
+          git config user.email "bot@pinrepo.local"
+          git add src/data/viral-repos.json public/covers/viral-*.webp
+          if git diff --staged --quiet; then
+            echo "No viral catalog changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh viral git repositories $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

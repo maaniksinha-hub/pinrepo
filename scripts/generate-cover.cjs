@@ -3,9 +3,10 @@
  * Create a unique 1200×400 B&W manga ink cover for a viral repo.
  *
  * Image provider priority:
- *   1. OpenRouter (OPENROUTER_API_KEY) — preferred
- *   2. OpenAI direct (OPENAI_API_KEY)
- *   3. Procedural screentone/ink SVG fallback
+ *   1. Cloudflare Workers AI (CLOUDFLARE_API_TOKEN + CLOUDFLARE_ACCOUNT_ID) — free ~230/day
+ *   2. OpenRouter (OPENROUTER_API_KEY)
+ *   3. OpenAI direct (OPENAI_API_KEY)
+ *   4. Procedural screentone/ink SVG fallback
  *
  *   node scripts/generate-cover.cjs --owner kvcache-ai --name AgentENV --desc "..."
  *   node scripts/generate-cover.cjs --from-json   # fill missing covers in viral-repos.json
@@ -174,6 +175,48 @@ function openRouterHeaders() {
   };
 }
 
+async function generateWithCloudflare(prompt, repo) {
+  const token = process.env.CLOUDFLARE_API_TOKEN;
+  const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
+  if (!token || !accountId) return null;
+
+  const model =
+    process.env.CLOUDFLARE_IMAGE_MODEL || "@cf/black-forest-labs/flux-1-schnell";
+  const seed = hash(`${repo?.owner || ""}/${repo?.name || ""}`) % 2147483646;
+
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/${model}`,
+    {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        prompt,
+        steps: Number(process.env.CLOUDFLARE_IMAGE_STEPS || 4),
+        seed,
+      }),
+    },
+  );
+
+  if (!res.ok) {
+    const text = await res.text();
+    throw new Error(`Cloudflare image failed ${res.status}: ${text.slice(0, 280)}`);
+  }
+
+  const data = await res.json();
+  if (!data.success) {
+    throw new Error(
+      `Cloudflare image error: ${JSON.stringify(data.errors || data).slice(0, 280)}`,
+    );
+  }
+
+  const b64 = data.result?.image;
+  if (!b64) throw new Error("Cloudflare response missing result.image");
+  return Buffer.from(b64, "base64");
+}
+
 async function generateWithOpenRouter(prompt) {
   const key = process.env.OPENROUTER_API_KEY;
   if (!key) return null;
@@ -234,7 +277,16 @@ async function generateWithOpenAI(prompt) {
   return decodeImageResponse(data, "OpenAI");
 }
 
-async function generateWithAI(prompt) {
+async function generateWithAI(prompt, repo) {
+  if (process.env.CLOUDFLARE_API_TOKEN && process.env.CLOUDFLARE_ACCOUNT_ID) {
+    try {
+      const buf = await generateWithCloudflare(prompt, repo);
+      if (buf) return { buf, provider: "cloudflare" };
+    } catch (err) {
+      console.warn(`  Cloudflare cover skipped: ${err.message}`);
+    }
+  }
+
   if (process.env.OPENROUTER_API_KEY) {
     try {
       const buf = await generateWithOpenRouter(prompt);
@@ -267,7 +319,7 @@ async function ensureCover(repo, { force = false } = {}) {
 
   const prompt = buildPrompt(repo);
   let raw = null;
-  const ai = await generateWithAI(prompt);
+  const ai = await generateWithAI(prompt, repo);
   if (ai) {
     raw = ai.buf;
     console.log(`  AI cover (${ai.provider}) → ${path.basename(file)}`);

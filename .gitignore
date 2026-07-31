@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local design artifacts / backups (large)
+.impeccable/assets/
+.impeccable/sketches/
+.impeccable/mocks/
+.impeccable/*.json
+.impeccable/

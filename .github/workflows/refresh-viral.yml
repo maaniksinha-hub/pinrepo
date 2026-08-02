@@ -13,6 +13,11 @@ on:
 permissions:
   contents: write
 
+# A delayed run must never race a following one onto the same branch.
+concurrency:
+  group: refresh-viral
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -41,13 +46,41 @@ jobs:
         run: node scripts/refresh-viral.cjs
 
       - name: Commit & push if changed
+        id: commit
         run: |
           git config user.name "pinrepo-bot"
           git config user.email "bot@pinrepo.local"
           git add src/data/viral-repos.json public/covers/viral-*.webp
           if git diff --staged --quiet; then
             echo "No viral catalog changes"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "chore: refresh viral git repositories $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # The site bakes src/data/viral-repos.json in at build time (it is a static
+      # import in src/lib/catalog.ts), so a data commit alone changes nothing that
+      # readers can see — the deployment has to be rebuilt for the refresh to land.
+      - name: Trigger site rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$VERCEL_DEPLOY_HOOK_URL" ]; then
+            echo "::error::VERCEL_DEPLOY_HOOK_URL is not set. The viral catalog was" \
+                 "updated but the published site will keep serving the previously" \
+                 "built data. Create a Deploy Hook in the Vercel project (Settings →" \
+                 "Git → Deploy Hooks, branch main) and save the URL as the" \
+                 "VERCEL_DEPLOY_HOOK_URL repository secret."
+            exit 1
+          fi
+          code=$(curl -sS -X POST -o /tmp/deploy-hook.json -w '%{http_code}' "$VERCEL_DEPLOY_HOOK_URL")
+          cat /tmp/deploy-hook.json
+          echo
+          if [ "$code" -lt 200 ] || [ "$code" -ge 300 ]; then
+            echo "::error::Deploy hook returned HTTP $code — site rebuild was not queued."
+            exit 1
+          fi
+          echo "Rebuild queued (HTTP $code)."

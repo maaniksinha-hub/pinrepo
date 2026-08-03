@@ -39,30 +39,30 @@ jobs:
           OPENROUTER_IMAGE_MODEL: ${{ vars.OPENROUTER_IMAGE_MODEL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node scripts/refresh-viral.cjs
-        
-        - name: Commit & push if changed
+
+      - name: Commit & push if changed
         id: commit
         run: |
-    git config user.name "pinrepo-bot"
-    git config user.email "bot@pinrepo.local"
-    git add src/data/viral-repos.json public/covers/viral-*.webp
-    if git diff --staged --quiet; then
-      echo "No viral catalog changes"
-      echo "changed=false" >> "$GITHUB_OUTPUT"
-      exit 0
-    fi
-    git commit -m "chore: refresh viral git repositories $(date -u +%Y-%m-%dT%H:%MZ)"
-    git push
-    echo "changed=true" >> "$GITHUB_OUTPUT"
+          git config user.name "pinrepo-bot"
+          git config user.email "bot@pinrepo.local"
+          git add src/data/viral-repos.json public/covers/viral-*.webp
+          if git diff --staged --quiet; then
+            echo "No viral catalog changes"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore: refresh viral git repositories $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
-- name: Deploy to Vercel production
-  if: always()
-  env:
-    VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
-  run: |
-    if [ -z "$VERCEL_DEPLOY_HOOK" ]; then
-      echo "VERCEL_DEPLOY_HOOK secret not set — add a Deploy Hook in Vercel project settings"
-      exit 0
-    fi
-    curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"
-    echo "Triggered Vercel production deploy"
+      - name: Deploy to Vercel production
+        if: always()
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$VERCEL_DEPLOY_HOOK" ]; then
+            echo "VERCEL_DEPLOY_HOOK secret not set — add a Deploy Hook in Vercel project settings"
+            exit 0
+          fi
+          curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"
+          echo "Triggered Vercel production deploy"

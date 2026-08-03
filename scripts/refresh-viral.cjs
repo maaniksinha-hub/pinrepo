@@ -161,6 +161,21 @@ async function main() {
     });
   });
 
+  // Refresh star counts + descriptions for repos still visible in GitHub search
+  for (const item of seen.values()) {
+    const key = `${item.full_name}`.toLowerCase();
+    const prev = byKey.get(key);
+    if (!prev) continue;
+    byKey.set(key, {
+      ...prev,
+      stars: Math.max(prev.stars || 0, item.stargazers_count || 0),
+      updatedAt: Date.parse(item.pushed_at || item.updated_at || prev.updatedAt),
+      description: (item.description || prev.description || "").slice(0, 220),
+      language: item.language || prev.language,
+      topics: (item.topics?.length ? item.topics : prev.topics).slice(0, 5),
+    });
+  }
+
   const repos = [...byKey.values()]
     .sort((a, b) => {
       const va =

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T19:02:08.877Z",
+  "updatedAt": "2026-08-03T02:14:41.178Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -8,8 +8,8 @@
       "owner": "trycompai",
       "description": "An open-source, agentic-first CRM.",
       "language": "TypeScript",
-      "stars": 1618,
-      "updatedAt": 1785696547000,
+      "stars": 1866,
+      "updatedAt": 1785698816000,
       "topics": [
         "trending",
         "github"
@@ -17,7 +17,7 @@
       "cover": "/covers/viral-trycompai-crm.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~856★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~851★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-02T19:02:08.877Z",
       "htmlUrl": "https://github.com/trycompai/crm"
@@ -28,8 +28,8 @@
       "owner": "microsoft",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowor",
       "language": "TypeScript",
-      "stars": 687,
-      "updatedAt": 1785696868000,
+      "stars": 835,
+      "updatedAt": 1785705965000,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -40,7 +40,7 @@
       "cover": "/covers/viral-microsoft-skill-recorder.webp",
       "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~170★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~193★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-02T19:02:08.877Z",
       "htmlUrl": "https://github.com/microsoft/skill-recorder"
@@ -51,7 +51,7 @@
       "owner": "0xwilliamortiz",
       "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
       "language": "JavaScript",
-      "stars": 463,
+      "stars": 541,
       "updatedAt": 1785620473000,
       "topics": [
         "ai-slop",
@@ -61,12 +61,32 @@
         "ai-slop-remover"
       ],
       "cover": "/covers/viral-0xwilliamortiz-humanizer-cli.webp",
-      "sfx": "FIRE!",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~495★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~438★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-02T02:12:46.299Z",
       "htmlUrl": "https://github.com/0xwilliamortiz/humanizer-cli"
+    },
+    {
+      "id": "viral-1320101490",
+      "name": "anatomy",
+      "owner": "thebuggeddev",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "language": "TypeScript",
+      "stars": 338,
+      "updatedAt": 1785670169000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-thebuggeddev-anatomy.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~541★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-02T16:16:58.631Z",
+      "htmlUrl": "https://github.com/thebuggeddev/anatomy"
     },
     {
       "id": "viral-1319174653",
@@ -74,7 +94,7 @@
       "owner": "Anionex",
       "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
       "language": "Python",
-      "stars": 196,
+      "stars": 204,
       "updatedAt": 1785690983000,
       "topics": [
         "agent",
@@ -84,92 +104,12 @@
         "kimi"
       ],
       "cover": "/covers/viral-anionex-codex-vision-proxy.webp",
-      "sfx": "RISE!!",
+      "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~142★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~122★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-02T13:08:42.423Z",
       "htmlUrl": "https://github.com/Anionex/codex-vision-proxy"
-    },
-    {
-      "id": "viral-1320101490",
-      "name": "anatomy",
-      "owner": "thebuggeddev",
-      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "language": "TypeScript",
-      "stars": 193,
-      "updatedAt": 1785670169000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-thebuggeddev-anatomy.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~386★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-02T16:16:58.631Z",
-      "htmlUrl": "https://github.com/thebuggeddev/anatomy"
-    },
-    {
-      "id": "viral-1316527318",
-      "name": "qm",
-      "owner": "yc-software",
-      "description": "Multiplayer agent harness for work",
-      "language": "TypeScript",
-      "stars": 6726,
-      "updatedAt": 1785547853000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-yc-software-qm.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~1699★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T19:16:50.831Z",
-      "htmlUrl": "https://github.com/yc-software/qm"
-    },
-    {
-      "id": "viral-1315424242",
-      "name": "waste",
-      "owner": "sqliteai",
-      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
-      "language": "C",
-      "stars": 916,
-      "updatedAt": 1785660876000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-sqliteai-waste.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~186★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-01T02:21:06.523Z",
-      "htmlUrl": "https://github.com/sqliteai/waste"
-    },
-    {
-      "id": "viral-1319174653",
-      "name": "codex-deepseek-vision",
-      "owner": "Anionex",
-      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包 ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit designed for text-only LLMs.",
-      "language": "Python",
-      "stars": 164,
-      "updatedAt": 1785658397000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-anionex-codex-deepseek-vision.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~177★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-01T19:00:59.430Z",
-      "htmlUrl": "https://github.com/Anionex/codex-deepseek-vision"
     },
     {
       "id": "viral-1319154759",
@@ -177,7 +117,7 @@
       "owner": "FareedKhan-dev",
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
-      "stars": 164,
+      "stars": 275,
       "updatedAt": 1785584509000,
       "topics": [
         "avx2",
@@ -189,76 +129,33 @@
       "cover": "/covers/viral-fareedkhan-dev-kimi-k3-in-c.webp",
       "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~117★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-02T16:16:58.631Z",
       "htmlUrl": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
     },
     {
-      "id": "viral-1319563240",
-      "name": "xeno-executor-roblox",
-      "owner": "romanson-xo8",
-      "description": "Xeno v1.4 is a powerful, no‑key Roblox script executor for Windows. It runs scripts instantly, supports all major hubs (Owl Hub, Dark Hub, Infinite Yield), and offers a modern, polished interface. With auto‑execute and l",
+      "id": "viral-1320815060",
+      "name": "Rust-Recoil-Macros-2026",
+      "owner": "LookoutSwordsman",
+      "description": "Mouse macros for Rust game – reduce recoil, improve aim, and automate repetitive clicks. Free download for Windows, Logitech/Razer compatible.",
       "language": "Unknown",
-      "stars": 117,
-      "updatedAt": 1785612736000,
+      "stars": 119,
+      "updatedAt": 1785707853000,
       "topics": [
-        "roblox",
-        "roblox-collection",
-        "roblox-executor-mac",
-        "roblox-help",
-        "roblox-multiclient"
+        "aim-assist-tool",
+        "g-hub",
+        "mouse-emulation",
+        "mouse-macros",
+        "recoil-assist"
       ],
-      "cover": "/covers/viral-romanson-xo8-xeno-executor-roblox.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~118★/day). Pin it before your AI stack falls behind.",
+      "cover": "/covers/viral-lookoutswordsman-rust-recoil-macros-2026.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~238★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-08-02T02:12:46.299Z",
-      "htmlUrl": "https://github.com/romanson-xo8/xeno-executor-roblox"
-    },
-    {
-      "id": "viral-1319585616",
-      "name": "Camtasia-2026",
-      "owner": "kylek-lab1996c2",
-      "description": "Camtasia 2026 is a professional screen recorder and video editor for tutorials, demos, and presentations. This repository includes a fully functional version with premium features unlocked, AI audio cleanup, text-based e",
-      "language": "Unknown",
-      "stars": 116,
-      "updatedAt": 1785614379000,
-      "topics": [
-        "camtasia",
-        "camtasia-key-license",
-        "camtasia-license",
-        "camtasia-safe",
-        "camtasia-script"
-      ],
-      "cover": "/covers/viral-kylek-lab1996c2-camtasia-2026.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~120★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-02T02:12:46.299Z",
-      "htmlUrl": "https://github.com/kylek-lab1996c2/Camtasia-2026"
-    },
-    {
-      "id": "viral-1319580960",
-      "name": "GlassQuota",
-      "owner": "chen10191200-hue",
-      "description": "Native macOS menu bar app for real Codex, Gemini and Claude quota.",
-      "language": "Swift",
-      "stars": 105,
-      "updatedAt": 1785659741000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-chen10191200-hue-glassquota.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~108★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-02T13:08:42.423Z",
-      "htmlUrl": "https://github.com/chen10191200-hue/GlassQuota"
+      "spottedAt": "2026-08-03T02:14:41.178Z",
+      "htmlUrl": "https://github.com/LookoutSwordsman/Rust-Recoil-Macros-2026"
     },
     {
       "id": "viral-1320010935",
@@ -276,35 +173,34 @@
         "revenue-analytics"
       ],
       "cover": "/covers/viral-talivia-group-agent.webp",
-      "sfx": "BOOM!!",
+      "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~142★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~102★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-02T13:08:42.423Z",
       "htmlUrl": "https://github.com/talivia-group/agent"
     },
     {
-      "id": "viral-1319312065",
-      "name": "impeccable-lite",
-      "owner": "ilindaniel",
-      "description": "Stop agents from designing sloppy UI. Inspired by Impeccable, but without the plugin machinery. Just one SKILL.md file.",
+      "id": "viral-1318382587",
+      "name": "animated-voiceover",
+      "owner": "s1dashu",
+      "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
       "language": "Unknown",
-      "stars": 61,
-      "updatedAt": 1785598887000,
+      "stars": 395,
+      "updatedAt": 1785686477000,
       "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin"
+        "ai-video",
+        "animated-video",
+        "codex-skill",
+        "voiceover"
       ],
-      "cover": "/covers/viral-ilindaniel-impeccable-lite.webp",
+      "cover": "/covers/viral-s1dashu-animated-voiceover.webp",
       "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~78★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~156★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-08-02T02:12:46.299Z",
-      "htmlUrl": "https://github.com/ilindaniel/impeccable-lite"
+      "spottedAt": "2026-08-01T08:11:52.020Z",
+      "htmlUrl": "https://github.com/s1dashu/animated-voiceover"
     },
     {
       "id": "viral-1319290417",
@@ -330,70 +226,24 @@
       "htmlUrl": "https://github.com/juxhinr/bindwidth"
     },
     {
-      "id": "viral-1309451980",
-      "name": "AgentENV",
-      "owner": "kvcache-ai",
-      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-      "language": "Rust",
-      "stars": 2769,
-      "updatedAt": 1785568212000,
+      "id": "viral-1316527318",
+      "name": "qm",
+      "owner": "yc-software",
+      "description": "Multiplayer agent harness for work",
+      "language": "TypeScript",
+      "stars": 7367,
+      "updatedAt": 1785547853000,
       "topics": [
         "trending",
         "github"
       ],
-      "cover": "/covers/viral-kvcache-ai-agentenv.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~259★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/kvcache-ai/AgentENV"
-    },
-    {
-      "id": "viral-1313435339",
-      "name": "qwen-audio-agent",
-      "owner": "QwenAudio",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "language": "JavaScript",
-      "stars": 1721,
-      "updatedAt": 1785681627000,
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "voice-agent",
-        "voice-ai",
-        "voice-chat"
-      ],
-      "cover": "/covers/viral-qwenaudio-qwen-audio-agent.webp",
+      "cover": "/covers/viral-yc-software-qm.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~261★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~1730★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/QwenAudio/qwen-audio-agent"
-    },
-    {
-      "id": "viral-1309102418",
-      "name": "cindy",
-      "owner": "makecindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stars": 1462,
-      "updatedAt": 1785696757000,
-      "topics": [
-        "agent",
-        "ai-agent",
-        "ai-assistant",
-        "android",
-        "claude-code"
-      ],
-      "cover": "/covers/viral-makecindy-cindy.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~132★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/makecindy/cindy"
+      "spottedAt": "2026-07-31T19:16:50.831Z",
+      "htmlUrl": "https://github.com/yc-software/qm"
     },
     {
       "id": "viral-1307679581",
@@ -401,7 +251,7 @@
       "owner": "QoderAI",
       "description": "Better Harness turns project and session evidence into loop-level insights, prioritized improvements, and verifiable next steps—inside the coding agent you already use.",
       "language": "JavaScript",
-      "stars": 1440,
+      "stars": 1459,
       "updatedAt": 1785645225000,
       "topics": [
         "agent-plugin",
@@ -411,12 +261,253 @@
         "harness-design"
       ],
       "cover": "/covers/viral-qoderai-better-harness.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~117★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~116★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/QoderAI/better-harness"
+    },
+    {
+      "id": "viral-1315424242",
+      "name": "waste",
+      "owner": "sqliteai",
+      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+      "language": "C",
+      "stars": 1095,
+      "updatedAt": 1785660876000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-sqliteai-waste.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~210★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-01T02:21:06.523Z",
+      "htmlUrl": "https://github.com/sqliteai/waste"
+    },
+    {
+      "id": "viral-1319174653",
+      "name": "codex-deepseek-vision",
+      "owner": "Anionex",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包 ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit designed for text-only LLMs.",
+      "language": "Python",
+      "stars": 164,
+      "updatedAt": 1785658397000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-anionex-codex-deepseek-vision.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~177★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-01T19:00:59.430Z",
+      "htmlUrl": "https://github.com/Anionex/codex-deepseek-vision"
+    },
+    {
+      "id": "viral-1319580960",
+      "name": "GlassQuota",
+      "owner": "chen10191200-hue",
+      "description": "Native macOS menu bar app for real Codex, Gemini and Claude quota.",
+      "language": "Swift",
+      "stars": 109,
+      "updatedAt": 1785659741000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-chen10191200-hue-glassquota.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~86★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-02T13:08:42.423Z",
+      "htmlUrl": "https://github.com/chen10191200-hue/GlassQuota"
+    },
+    {
+      "id": "viral-1320191889",
+      "name": "time-to-first-token",
+      "owner": "patchy631",
+      "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "language": "HTML",
+      "stars": 45,
+      "updatedAt": 1785676101000,
+      "topics": [
+        "learning-resources",
+        "llm",
+        "llm-inference",
+        "mlops",
+        "roadmap"
+      ],
+      "cover": "/covers/viral-patchy631-time-to-first-token.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~82★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-03T02:14:41.178Z",
+      "htmlUrl": "https://github.com/patchy631/time-to-first-token"
+    },
+    {
+      "id": "viral-1318616860",
+      "name": "ratchet",
+      "owner": "0xwilliamortiz",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "language": "JavaScript",
+      "stars": 411,
+      "updatedAt": 1785529865000,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "code-quality"
+      ],
+      "cover": "/covers/viral-0xwilliamortiz-ratchet.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~175★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-01T02:21:06.523Z",
+      "htmlUrl": "https://github.com/0xwilliamortiz/ratchet"
+    },
+    {
+      "id": "viral-1319585616",
+      "name": "Camtasia-2026",
+      "owner": "kylek-lab1996c2",
+      "description": "Camtasia 2026 is a professional screen recorder and video editor for tutorials, demos, and presentations. This repository includes a fully functional version with premium features unlocked, AI audio cleanup, text-based e",
+      "language": "Unknown",
+      "stars": 116,
+      "updatedAt": 1785614379000,
+      "topics": [
+        "camtasia",
+        "camtasia-key-license",
+        "camtasia-license",
+        "camtasia-safe",
+        "camtasia-script"
+      ],
+      "cover": "/covers/viral-kylek-lab1996c2-camtasia-2026.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~120★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-02T02:12:46.299Z",
+      "htmlUrl": "https://github.com/kylek-lab1996c2/Camtasia-2026"
+    },
+    {
+      "id": "viral-1319563240",
+      "name": "xeno-executor-roblox",
+      "owner": "romanson-xo8",
+      "description": "Xeno v1.4 is a powerful, no‑key Roblox script executor for Windows. It runs scripts instantly, supports all major hubs (Owl Hub, Dark Hub, Infinite Yield), and offers a modern, polished interface. With auto‑execute and l",
+      "language": "Unknown",
+      "stars": 117,
+      "updatedAt": 1785612736000,
+      "topics": [
+        "roblox",
+        "roblox-collection",
+        "roblox-executor-mac",
+        "roblox-help",
+        "roblox-multiclient"
+      ],
+      "cover": "/covers/viral-romanson-xo8-xeno-executor-roblox.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~118★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-02T02:12:46.299Z",
+      "htmlUrl": "https://github.com/romanson-xo8/xeno-executor-roblox"
+    },
+    {
+      "id": "viral-1319312065",
+      "name": "impeccable-lite",
+      "owner": "ilindaniel",
+      "description": "Stop agents from designing sloppy UI. Inspired by Impeccable, but without the plugin machinery. Just one SKILL.md file.",
+      "language": "Unknown",
+      "stars": 61,
+      "updatedAt": 1785598887000,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "cover": "/covers/viral-ilindaniel-impeccable-lite.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~78★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-02T02:12:46.299Z",
+      "htmlUrl": "https://github.com/ilindaniel/impeccable-lite"
+    },
+    {
+      "id": "viral-1313435339",
+      "name": "qwen-audio-agent",
+      "owner": "QwenAudio",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "language": "JavaScript",
+      "stars": 1740,
+      "updatedAt": 1785719426000,
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
+      ],
+      "cover": "/covers/viral-qwenaudio-qwen-audio-agent.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~253★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/QwenAudio/qwen-audio-agent"
+    },
+    {
+      "id": "viral-1309451980",
+      "name": "AgentENV",
+      "owner": "kvcache-ai",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "language": "Rust",
+      "stars": 2776,
+      "updatedAt": 1785568212000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-kvcache-ai-agentenv.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~253★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/kvcache-ai/AgentENV"
+    },
+    {
+      "id": "viral-1309102418",
+      "name": "cindy",
+      "owner": "makecindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 1487,
+      "updatedAt": 1785722353000,
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "android",
+        "claude-code"
+      ],
+      "cover": "/covers/viral-makecindy-cindy.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~131★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/makecindy/cindy"
     },
     {
       "id": "viral-1306758289",
@@ -439,32 +530,12 @@
       "htmlUrl": "https://github.com/Blaizzy/nativ"
     },
     {
-      "id": "viral-1311384232",
-      "name": "ai-copywriter",
-      "owner": "mikiarlo3",
-      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "language": "Python",
-      "stars": 1011,
-      "updatedAt": 1785601808000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-mikiarlo3-ai-copywriter.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~113★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/mikiarlo3/ai-copywriter"
-    },
-    {
       "id": "viral-1318094168",
       "name": "WilonityLoader",
       "owner": "WilonityDev",
       "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass",
       "language": "Unknown",
-      "stars": 1213,
+      "stars": 1215,
       "updatedAt": 1785582189000,
       "topics": [
         "arc-raiders",
@@ -476,33 +547,52 @@
       "cover": "/covers/viral-wilonitydev-wilonityloader.webp",
       "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~492★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~439★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-07-31T19:16:50.831Z",
       "htmlUrl": "https://github.com/WilonityDev/WilonityLoader"
     },
     {
-      "id": "viral-1315061605",
-      "name": "ponytail-improved",
-      "owner": "0xwilliamortiz",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars": 580,
-      "updatedAt": 1785622248000,
+      "id": "viral-1311384232",
+      "name": "ai-copywriter",
+      "owner": "mikiarlo3",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "language": "Python",
+      "stars": 1012,
+      "updatedAt": 1785601808000,
       "topics": [
-        "agent-skills",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skill",
-        "claude-skills"
+        "trending",
+        "github"
       ],
-      "cover": "/covers/viral-0xwilliamortiz-ponytail-improved.webp",
-      "sfx": "FIRE!",
+      "cover": "/covers/viral-mikiarlo3-ai-copywriter.webp",
+      "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~112★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~109★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/0xwilliamortiz/ponytail-improved"
+      "htmlUrl": "https://github.com/mikiarlo3/ai-copywriter"
+    },
+    {
+      "id": "viral-1314404827",
+      "name": "deltafin",
+      "owner": "gavamedia",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "language": "Rust",
+      "stars": 624,
+      "updatedAt": 1785719995000,
+      "topics": [
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
+      ],
+      "cover": "/covers/viral-gavamedia-deltafin.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~103★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/gavamedia/deltafin"
     },
     {
       "id": "viral-1305663861",
@@ -528,6 +618,49 @@
       "htmlUrl": "https://github.com/Vincentwei1021/video-shotcraft"
     },
     {
+      "id": "viral-1315061605",
+      "name": "ponytail-improved",
+      "owner": "0xwilliamortiz",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 580,
+      "updatedAt": 1785622248000,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-skills"
+      ],
+      "cover": "/covers/viral-0xwilliamortiz-ponytail-improved.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~105★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/0xwilliamortiz/ponytail-improved"
+    },
+    {
+      "id": "viral-1310057619",
+      "name": "esp32-ai",
+      "owner": "slvDev",
+      "description": "Trending open-source repository on GitHub.",
+      "language": "Python",
+      "stars": 3006,
+      "updatedAt": 1785055732000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-slvdev-esp32-ai.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~287★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/slvDev/esp32-ai"
+    },
+    {
       "id": "viral-1309585508",
       "name": "axrl",
       "owner": "XYZ-AI-Lab",
@@ -540,9 +673,9 @@
         "github"
       ],
       "cover": "/covers/viral-xyz-ai-lab-axrl.webp",
-      "sfx": "HOT!!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~87★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~85★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/XYZ-AI-Lab/axrl"
@@ -553,39 +686,19 @@
       "owner": "VictorTaelin",
       "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "language": "Python",
-      "stars": 1075,
+      "stars": 1079,
       "updatedAt": 1785464397000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-victortaelin-optmem.webp",
-      "sfx": "HOT!!",
+      "sfx": "FIRE!",
       "height": "medium",
-      "godMode": "Going viral (~133★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~129★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/VictorTaelin/OptMem"
-    },
-    {
-      "id": "viral-1310057619",
-      "name": "esp32-ai",
-      "owner": "slvDev",
-      "description": "Trending open-source repository on GitHub.",
-      "language": "Python",
-      "stars": 2912,
-      "updatedAt": 1785055732000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-slvdev-esp32-ai.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~286★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/slvDev/esp32-ai"
     },
     {
       "id": "viral-1306443880",
@@ -611,34 +724,12 @@
       "htmlUrl": "https://github.com/pireel/pireel"
     },
     {
-      "id": "viral-1318382587",
-      "name": "animated-voiceover",
-      "owner": "s1dashu",
-      "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
-      "language": "Unknown",
-      "stars": 363,
-      "updatedAt": 1785686477000,
-      "topics": [
-        "ai-video",
-        "animated-video",
-        "codex-skill",
-        "voiceover"
-      ],
-      "cover": "/covers/viral-s1dashu-animated-voiceover.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~163★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-01T08:11:52.020Z",
-      "htmlUrl": "https://github.com/s1dashu/animated-voiceover"
-    },
-    {
       "id": "viral-1312257227",
       "name": "Claude-of-Duty",
       "owner": "mshumer",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "language": "JavaScript",
-      "stars": 2664,
+      "stars": 2686,
       "updatedAt": 1785008333000,
       "topics": [
         "trending",
@@ -647,33 +738,10 @@
       "cover": "/covers/viral-mshumer-claude-of-duty.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~334★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~324★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/mshumer/Claude-of-Duty"
-    },
-    {
-      "id": "viral-1318616860",
-      "name": "ratchet",
-      "owner": "0xwilliamortiz",
-      "description": "Your agent reads the rules. This checks whether it followed them.",
-      "language": "JavaScript",
-      "stars": 410,
-      "updatedAt": 1785529865000,
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "code-quality"
-      ],
-      "cover": "/covers/viral-0xwilliamortiz-ratchet.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~200★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-01T02:21:06.523Z",
-      "htmlUrl": "https://github.com/0xwilliamortiz/ratchet"
     },
     {
       "id": "viral-1306722822",
@@ -697,28 +765,6 @@
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/powerycy/goutoujunshi"
-    },
-    {
-      "id": "viral-1314404827",
-      "name": "deltafin",
-      "owner": "gavamedia",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "language": "Python",
-      "stars": 606,
-      "updatedAt": 1785439573000,
-      "topics": [
-        "kimi",
-        "kimi-k3",
-        "local-ai",
-        "local-llm"
-      ],
-      "cover": "/covers/viral-gavamedia-deltafin.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~105★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/gavamedia/deltafin"
     },
     {
       "id": "viral-1311225763",
@@ -769,16 +815,16 @@
       "owner": "Jakubantalik",
       "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
       "language": "TypeScript",
-      "stars": 1327,
+      "stars": 1338,
       "updatedAt": 1784669587000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-jakubantalik-thinking-orbs.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~106★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~105★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/Jakubantalik/thinking-orbs"
@@ -789,19 +835,39 @@
       "owner": "AminBlg",
       "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop",
       "language": "Python",
-      "stars": 1333,
+      "stars": 1357,
       "updatedAt": 1784650199000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-aminblg-simpleenglish.webp",
-      "sfx": "BANG!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~108★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~107★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/AminBlg/SimpleEnglish"
+    },
+    {
+      "id": "viral-1309499087",
+      "name": "AxisAgentic",
+      "owner": "XYZ-AI-Lab",
+      "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+      "language": "Python",
+      "stars": 891,
+      "updatedAt": 1784914552000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-xyz-ai-lab-axisagentic.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~82★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/XYZ-AI-Lab/AxisAgentic"
     },
     {
       "id": "viral-1317358185",
@@ -824,41 +890,21 @@
       "htmlUrl": "https://github.com/ZihangDong/toolknit-desktop"
     },
     {
-      "id": "viral-1309499087",
-      "name": "AxisAgentic",
-      "owner": "XYZ-AI-Lab",
-      "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
-      "language": "Python",
-      "stars": 891,
-      "updatedAt": 1784914552000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-xyz-ai-lab-axisagentic.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~85★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/XYZ-AI-Lab/AxisAgentic"
-    },
-    {
       "id": "viral-1315342480",
       "name": "snowflow_demo",
       "owner": "Noniv",
       "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and pos",
       "language": "JavaScript",
-      "stars": 453,
+      "stars": 459,
       "updatedAt": 1785265322000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-noniv-snowflow-demo.webp",
-      "sfx": "BOOM!!",
+      "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~91★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~87★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/Noniv/snowflow_demo"
@@ -927,26 +973,6 @@
       "htmlUrl": "https://github.com/achimala/TheLongSilence"
     },
     {
-      "id": "viral-1314368765",
-      "name": "kimi-k3-mlx",
-      "owner": "PipeNetwork",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "language": "Python",
-      "stars": 303,
-      "updatedAt": 1785291161000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-pipenetwork-kimi-k3-mlx.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~80★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/PipeNetwork/kimi-k3-mlx"
-    },
-    {
       "id": "viral-1307252454",
       "name": "pi-textbook",
       "owner": "hahhforest",
@@ -968,6 +994,69 @@
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/hahhforest/pi-textbook"
+    },
+    {
+      "id": "viral-1314368765",
+      "name": "kimi-k3-mlx",
+      "owner": "PipeNetwork",
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "language": "Python",
+      "stars": 303,
+      "updatedAt": 1785291161000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-pipenetwork-kimi-k3-mlx.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~80★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/PipeNetwork/kimi-k3-mlx"
+    },
+    {
+      "id": "viral-1307486190",
+      "name": "story-to-handdrawn-video",
+      "owner": "gnipbao",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "language": "JavaScript",
+      "stars": 738,
+      "updatedAt": 1784636748000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-gnipbao-story-to-handdrawn-video.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~73★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/gnipbao/story-to-handdrawn-video"
+    },
+    {
+      "id": "viral-1312488824",
+      "name": "deer-workflow",
+      "owner": "deerwork-ai",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "language": "TypeScript",
+      "stars": 362,
+      "updatedAt": 1785166466000,
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding"
+      ],
+      "cover": "/covers/viral-deerwork-ai-deer-workflow.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~69★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T10:58:18.993Z",
+      "htmlUrl": "https://github.com/deerwork-ai/deer-workflow"
     },
     {
       "id": "viral-1318783576",
@@ -1014,49 +1103,6 @@
       "htmlUrl": "https://github.com/0rangec3t/Black-cat"
     },
     {
-      "id": "viral-1307486190",
-      "name": "story-to-handdrawn-video",
-      "owner": "gnipbao",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "language": "JavaScript",
-      "stars": 738,
-      "updatedAt": 1784636748000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-gnipbao-story-to-handdrawn-video.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~73★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/gnipbao/story-to-handdrawn-video"
-    },
-    {
-      "id": "viral-1312488824",
-      "name": "deer-workflow",
-      "owner": "deerwork-ai",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "language": "TypeScript",
-      "stars": 362,
-      "updatedAt": 1785166466000,
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "ai-coding"
-      ],
-      "cover": "/covers/viral-deerwork-ai-deer-workflow.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~69★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T10:58:18.993Z",
-      "htmlUrl": "https://github.com/deerwork-ai/deer-workflow"
-    },
-    {
       "id": "viral-1315788496",
       "name": "ai-design-skills",
       "owner": "elayadesign",
@@ -1075,29 +1121,6 @@
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/elayadesign/ai-design-skills"
-    },
-    {
-      "id": "viral-1318203810",
-      "name": "Halo-Campaign-Evolved-FPS-Booster",
-      "owner": "kylek-lab1996c2",
-      "description": "Boost FPS and improve overall performance in Halo: Campaign Evolved 2026 with optimized graphics presets, memory tweaks, shader optimizations, CPU scheduling improvements, and launch parameter recommendations. Designed f",
-      "language": "Unknown",
-      "stars": 117,
-      "updatedAt": 1785493830000,
-      "topics": [
-        "halo-campaign-evolved",
-        "halo-campaign-evolved-fps-boost-pc",
-        "halo-campaign-evolved-fps-tweak",
-        "halo-campaign-evolved-optimization",
-        "halo-campaign-evolved-optimization-pc"
-      ],
-      "cover": "/covers/viral-kylek-lab1996c2-halo-campaign-evolved-fps-booster.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~85★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-07-31T12:46:18.583Z",
-      "htmlUrl": "https://github.com/kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster"
     },
     {
       "id": "viral-1316453751",
@@ -1121,6 +1144,29 @@
       "viral": true,
       "spottedAt": "2026-07-31T10:58:18.993Z",
       "htmlUrl": "https://github.com/0xwilliamortiz/FlashKDA"
+    },
+    {
+      "id": "viral-1318203810",
+      "name": "Halo-Campaign-Evolved-FPS-Booster",
+      "owner": "kylek-lab1996c2",
+      "description": "Boost FPS and improve overall performance in Halo: Campaign Evolved 2026 with optimized graphics presets, memory tweaks, shader optimizations, CPU scheduling improvements, and launch parameter recommendations. Designed f",
+      "language": "Unknown",
+      "stars": 117,
+      "updatedAt": 1785493830000,
+      "topics": [
+        "halo-campaign-evolved",
+        "halo-campaign-evolved-fps-boost-pc",
+        "halo-campaign-evolved-fps-tweak",
+        "halo-campaign-evolved-optimization",
+        "halo-campaign-evolved-optimization-pc"
+      ],
+      "cover": "/covers/viral-kylek-lab1996c2-halo-campaign-evolved-fps-booster.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~85★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-07-31T12:46:18.583Z",
+      "htmlUrl": "https://github.com/kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster"
     },
     {
       "id": "viral-1318568594",

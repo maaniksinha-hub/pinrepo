@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T00:49:23.553Z",
+  "updatedAt": "2026-08-19T06:31:17.128Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -8,8 +8,8 @@
       "owner": "guillaumemeyer",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars": 14509,
-      "updatedAt": 1787096332000,
+      "stars": 14675,
+      "updatedAt": 1787106074000,
       "topics": [
         "agent-skill",
         "ai",
@@ -20,7 +20,7 @@
       "cover": "/covers/viral-guillaumemeyer-watermarks-remover.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~1975★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~1935★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-18T06:29:44.081Z",
       "htmlUrl": "https://github.com/guillaumemeyer/watermarks-remover"
@@ -31,7 +31,7 @@
       "owner": "dmmulroy",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "language": "TypeScript",
-      "stars": 2637,
+      "stars": 2687,
       "updatedAt": 1787059266000,
       "topics": [
         "agent-skills",
@@ -42,7 +42,7 @@
       "cover": "/covers/viral-dmmulroy-anti-slop.webp",
       "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~408★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~401★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-18T00:48:23.188Z",
       "htmlUrl": "https://github.com/dmmulroy/anti-slop"
@@ -53,16 +53,16 @@
       "owner": "yetone",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "language": "TypeScript",
-      "stars": 2370,
-      "updatedAt": 1787075830000,
+      "stars": 2508,
+      "updatedAt": 1787117498000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-yetone-cumora.webp",
-      "sfx": "FIRE!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~1437★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~1329★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-17T18:27:26.339Z",
       "htmlUrl": "https://github.com/yetone/cumora"
@@ -73,7 +73,7 @@
       "owner": "omdsh-dev",
       "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, Git, and sub-agent pages.",
       "language": "TypeScript",
-      "stars": 2174,
+      "stars": 2237,
       "updatedAt": 1787073313000,
       "topics": [
         "deepseek",
@@ -85,10 +85,56 @@
       "cover": "/covers/viral-omdsh-dev-dsh-better-sidebar.webp",
       "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~191★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~193★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-18T12:29:56.546Z",
       "htmlUrl": "https://github.com/omdsh-dev/DSH-better-sidebar"
+    },
+    {
+      "id": "viral-1338470635",
+      "name": "ip-as-logo-skill",
+      "owner": "s1dashu",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "language": "Unknown",
+      "stars": 1226,
+      "updatedAt": 1787117517000,
+      "topics": [
+        "codex",
+        "codex-skill",
+        "image-generation",
+        "logo-design",
+        "mascot-design"
+      ],
+      "cover": "/covers/viral-s1dashu-ip-as-logo-skill.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~1780★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-18T18:26:22.064Z",
+      "htmlUrl": "https://github.com/s1dashu/ip-as-logo-skill"
+    },
+    {
+      "id": "viral-1337089243",
+      "name": "northcinder",
+      "owner": "cinderline",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "language": "JavaScript",
+      "stars": 1159,
+      "updatedAt": 1787119702000,
+      "topics": [
+        "agentic-commerce",
+        "human-in-the-loop",
+        "local-first",
+        "mcp",
+        "mcp-server"
+      ],
+      "cover": "/covers/viral-cinderline-northcinder.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~650★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-19T06:31:17.128Z",
+      "htmlUrl": "https://github.com/cinderline/northcinder"
     },
     {
       "id": "viral-1337089243",
@@ -111,35 +157,12 @@
       "htmlUrl": "https://github.com/jdshfhds/northcinder"
     },
     {
-      "id": "viral-1338470635",
-      "name": "ip-as-logo-skill",
-      "owner": "s1dashu",
-      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "language": "Unknown",
-      "stars": 567,
-      "updatedAt": 1787074750000,
-      "topics": [
-        "codex",
-        "codex-skill",
-        "image-generation",
-        "logo-design",
-        "mascot-design"
-      ],
-      "cover": "/covers/viral-s1dashu-ip-as-logo-skill.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~1134★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-18T18:26:22.064Z",
-      "htmlUrl": "https://github.com/s1dashu/ip-as-logo-skill"
-    },
-    {
       "id": "viral-1336663851",
       "name": "apex-inference-chip",
       "owner": "SigmanticAI",
       "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
       "language": "Python",
-      "stars": 376,
+      "stars": 431,
       "updatedAt": 1787073033000,
       "topics": [
         "trending",
@@ -148,7 +171,7 @@
       "cover": "/covers/viral-sigmanticai-apex-inference-chip.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~203★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~206★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-18T18:26:22.064Z",
       "htmlUrl": "https://github.com/SigmanticAI/apex-inference-chip"
@@ -159,7 +182,7 @@
       "owner": "jeremy-prt",
       "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
       "language": "TypeScript",
-      "stars": 405,
+      "stars": 441,
       "updatedAt": 1786994328000,
       "topics": [
         "animation",
@@ -169,124 +192,35 @@
         "svg-animation"
       ],
       "cover": "/covers/viral-jeremy-prt-bloub.webp",
-      "sfx": "BANG!",
+      "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~116★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~119★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-19T00:49:23.553Z",
       "htmlUrl": "https://github.com/jeremy-prt/bloub"
     },
     {
-      "id": "viral-1336487943",
-      "name": "macos-harness",
-      "owner": "browser-use",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "id": "viral-1339040637",
+      "name": "crucible",
+      "owner": "pgnzbl-ux",
+      "description": "AI 驱动的漏洞自动验证平台：提交仓库与漏洞描述，在隔离沙箱中白盒审计、搭靶场复现并出具中文报告。",
       "language": "Python",
-      "stars": 404,
-      "updatedAt": 1786985299000,
+      "stars": 168,
+      "updatedAt": 1787117252000,
       "topics": [
-        "accessibility",
-        "agent",
-        "automation",
-        "cdp",
-        "computer-use"
-      ],
-      "cover": "/covers/viral-browser-use-macos-harness.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~200★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-18T06:29:44.081Z",
-      "htmlUrl": "https://github.com/browser-use/macos-harness"
-    },
-    {
-      "id": "viral-1336616320",
-      "name": "bigpeng-hot-gzh",
-      "owner": "BigPengSays",
-      "description": "从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。",
-      "language": "Unknown",
-      "stars": 201,
-      "updatedAt": 1787034882000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-bigpengsays-bigpeng-hot-gzh.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~118★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-18T00:48:23.188Z",
-      "htmlUrl": "https://github.com/BigPengSays/bigpeng-hot-gzh"
-    },
-    {
-      "id": "viral-1337955304",
-      "name": "sprix-sage-router",
-      "owner": "wang2122",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "language": "Python",
-      "stars": 153,
-      "updatedAt": 1787028980000,
-      "topics": [
-        "a2a",
-        "agent-orchestration",
-        "agent-routing",
         "ai-agents",
-        "multi-agent-systems"
+        "code-au",
+        "docker",
+        "fastapi",
+        "python"
       ],
-      "cover": "/covers/viral-wang2122-sprix-sage-router.webp",
+      "cover": "/covers/viral-pgnzbl-ux-crucible.webp",
       "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~177★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-18T12:29:56.546Z",
-      "htmlUrl": "https://github.com/wang2122/sprix-sage-router"
-    },
-    {
-      "id": "viral-1337918481",
-      "name": "llm-inference-engineering",
-      "owner": "amitshekhariitbhu",
-      "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-      "language": "Markdown",
-      "stars": 104,
-      "updatedAt": 1787023769000,
-      "topics": [
-        "inference-engineering",
-        "inference-optimization",
-        "large-language-models",
-        "llm",
-        "llm-engineering"
-      ],
-      "cover": "/covers/viral-amitshekhariitbhu-llm-inference-engineering.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~115★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-18T18:26:22.064Z",
-      "htmlUrl": "https://github.com/amitshekhariitbhu/llm-inference-engineering"
-    },
-    {
-      "id": "viral-1335867536",
-      "name": "DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "owner": "Tiger3807861189",
-      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
-      "language": "Unknown",
-      "stars": 997,
-      "updatedAt": 1787068243000,
-      "topics": [
-        "agent-skills",
-        "ai-agent",
-        "benchmark",
-        "deepseek",
-        "deepseek-harness"
-      ],
-      "cover": "/covers/viral-tiger3807861189-deepseek-v4-j-space-capability-realization-report.webp",
-      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~391★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~336★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-08-17T00:50:33.981Z",
-      "htmlUrl": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
+      "spottedAt": "2026-08-19T06:31:17.128Z",
+      "htmlUrl": "https://github.com/pgnzbl-ux/crucible"
     },
     {
       "id": "viral-1323511527",
@@ -309,6 +243,141 @@
       "viral": true,
       "spottedAt": "2026-08-17T06:38:25.505Z",
       "htmlUrl": "https://github.com/KKKKhazix/human-writing"
+    },
+    {
+      "id": "viral-1336487943",
+      "name": "macos-harness",
+      "owner": "browser-use",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "language": "Python",
+      "stars": 443,
+      "updatedAt": 1786985299000,
+      "topics": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use"
+      ],
+      "cover": "/covers/viral-browser-use-macos-harness.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~196★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-18T06:29:44.081Z",
+      "htmlUrl": "https://github.com/browser-use/macos-harness"
+    },
+    {
+      "id": "viral-1335867536",
+      "name": "DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "owner": "Tiger3807861189",
+      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+      "language": "Unknown",
+      "stars": 1010,
+      "updatedAt": 1787068243000,
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "benchmark",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "cover": "/covers/viral-tiger3807861189-deepseek-v4-j-space-capability-realization-report.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~362★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-17T00:50:33.981Z",
+      "htmlUrl": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
+    },
+    {
+      "id": "viral-1336616320",
+      "name": "bigpeng-hot-gzh",
+      "owner": "BigPengSays",
+      "description": "从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。",
+      "language": "Unknown",
+      "stars": 217,
+      "updatedAt": 1787106337000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-bigpengsays-bigpeng-hot-gzh.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~118★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-18T00:48:23.188Z",
+      "htmlUrl": "https://github.com/BigPengSays/bigpeng-hot-gzh"
+    },
+    {
+      "id": "viral-1337955304",
+      "name": "sprix-sage-router",
+      "owner": "wang2122",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "language": "Python",
+      "stars": 173,
+      "updatedAt": 1787028980000,
+      "topics": [
+        "a2a",
+        "agent-orchestration",
+        "agent-routing",
+        "ai-agents",
+        "multi-agent-systems"
+      ],
+      "cover": "/covers/viral-wang2122-sprix-sage-router.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~157★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-18T12:29:56.546Z",
+      "htmlUrl": "https://github.com/wang2122/sprix-sage-router"
+    },
+    {
+      "id": "viral-1337918481",
+      "name": "llm-inference-engineering",
+      "owner": "amitshekhariitbhu",
+      "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+      "language": "Markdown",
+      "stars": 125,
+      "updatedAt": 1787023769000,
+      "topics": [
+        "inference-engineering",
+        "inference-optimization",
+        "large-language-models",
+        "llm",
+        "llm-engineering"
+      ],
+      "cover": "/covers/viral-amitshekhariitbhu-llm-inference-engineering.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-18T18:26:22.064Z",
+      "htmlUrl": "https://github.com/amitshekhariitbhu/llm-inference-engineering"
+    },
+    {
+      "id": "viral-1333446374",
+      "name": "dsh-vision-router",
+      "owner": "ysr666",
+      "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, ",
+      "language": "JavaScript",
+      "stars": 780,
+      "updatedAt": 1787121068000,
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "multimodal",
+        "vision"
+      ],
+      "cover": "/covers/viral-ysr666-dsh-vision-router.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~142★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-16T18:18:06.900Z",
+      "htmlUrl": "https://github.com/ysr666/dsh-vision-router"
     },
     {
       "id": "viral-1336386025",
@@ -334,6 +403,69 @@
       "htmlUrl": "https://github.com/RopemakerEnd/ds4windows-lab-2026"
     },
     {
+      "id": "viral-1323763720",
+      "name": "open-kimi-ppt-skill",
+      "owner": "Binaryify",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": "Unknown",
+      "stars": 1603,
+      "updatedAt": 1786087566000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-binaryify-open-kimi-ppt-skill.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~119★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-18T00:48:23.188Z",
+      "htmlUrl": "https://github.com/Binaryify/open-kimi-ppt-skill"
+    },
+    {
+      "id": "viral-1334373503",
+      "name": "Deepseek-Harness-EAC",
+      "owner": "zouyuxuan122",
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "language": "JavaScript",
+      "stars": 878,
+      "updatedAt": 1787117562000,
+      "topics": [
+        "ai-agent",
+        "deepseek",
+        "desktop-app",
+        "dsh",
+        "electron"
+      ],
+      "cover": "/covers/viral-zouyuxuan122-deepseek-harness-eac.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~192★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-15T12:22:02.869Z",
+      "htmlUrl": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC"
+    },
+    {
+      "id": "viral-1334459444",
+      "name": "dsh-router-standard",
+      "owner": "yjh051108",
+      "description": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy pap",
+      "language": "JavaScript",
+      "stars": 338,
+      "updatedAt": 1786996812000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-yjh051108-dsh-router-standard.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~128★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-16T00:52:29.436Z",
+      "htmlUrl": "https://github.com/yjh051108/dsh-router-standard"
+    },
+    {
       "id": "viral-1336343180",
       "name": "expressvpn-panel-2026",
       "owner": "Streamdririddle",
@@ -357,32 +489,12 @@
       "htmlUrl": "https://github.com/Streamdririddle/expressvpn-panel-2026"
     },
     {
-      "id": "viral-1323763720",
-      "name": "open-kimi-ppt-skill",
-      "owner": "Binaryify",
-      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "language": "Unknown",
-      "stars": 1603,
-      "updatedAt": 1786087566000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-binaryify-open-kimi-ppt-skill.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~119★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-18T00:48:23.188Z",
-      "htmlUrl": "https://github.com/Binaryify/open-kimi-ppt-skill"
-    },
-    {
       "id": "viral-1330864189",
       "name": "chatbot-template",
       "owner": "shadcn-ui",
       "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
       "language": "TypeScript",
-      "stars": 722,
+      "stars": 723,
       "updatedAt": 1786470410000,
       "topics": [
         "trending",
@@ -402,7 +514,7 @@
       "owner": "Yevanchen",
       "description": "An evidence-first Agent Skill for safely simplifying any codebase.",
       "language": "Unknown",
-      "stars": 156,
+      "stars": 158,
       "updatedAt": 1786954755000,
       "topics": [
         "trending",
@@ -415,92 +527,6 @@
       "viral": true,
       "spottedAt": "2026-08-17T18:27:26.339Z",
       "htmlUrl": "https://github.com/Yevanchen/reclaim-code-entropy"
-    },
-    {
-      "id": "viral-1333446374",
-      "name": "dsh-vision-router",
-      "owner": "ysr666",
-      "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, ",
-      "language": "JavaScript",
-      "stars": 759,
-      "updatedAt": 1787099053000,
-      "topics": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "multimodal",
-        "vision"
-      ],
-      "cover": "/covers/viral-ysr666-dsh-vision-router.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~145★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-16T18:18:06.900Z",
-      "htmlUrl": "https://github.com/ysr666/dsh-vision-router"
-    },
-    {
-      "id": "viral-1330160336",
-      "name": "airship",
-      "owner": "0xnyn",
-      "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
-      "language": "TypeScript",
-      "stars": 487,
-      "updatedAt": 1787013584000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-0xnyn-airship.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~99★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-15T06:24:45.144Z",
-      "htmlUrl": "https://github.com/0xnyn/airship"
-    },
-    {
-      "id": "viral-1333294285",
-      "name": "dsh_desktop",
-      "owner": "myYangyunfan",
-      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "language": "JavaScript",
-      "stars": 466,
-      "updatedAt": 1787081096000,
-      "topics": [
-        "ai-agent",
-        "deepseek",
-        "desktop-app",
-        "dsh",
-        "electron"
-      ],
-      "cover": "/covers/viral-myyangyunfan-dsh-desktop.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-15T12:22:02.869Z",
-      "htmlUrl": "https://github.com/myYangyunfan/dsh_desktop"
-    },
-    {
-      "id": "viral-1334459444",
-      "name": "dsh-router-standard",
-      "owner": "yjh051108",
-      "description": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy pap",
-      "language": "JavaScript",
-      "stars": 332,
-      "updatedAt": 1786996812000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-yjh051108-dsh-router-standard.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~128★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-16T00:52:29.436Z",
-      "htmlUrl": "https://github.com/yjh051108/dsh-router-standard"
     },
     {
       "id": "viral-1332935366",
@@ -526,12 +552,122 @@
       "htmlUrl": "https://github.com/xyiqq/skilldoctor"
     },
     {
+      "id": "viral-1336093565",
+      "name": "equalizer-apo-workbench-2026",
+      "owner": "TwilightSnail",
+      "description": "Portable Equalizer APO workbench for Windows — preset templates, config helpers, and free setup guides aligned with release 1.4.2.",
+      "language": "HTML",
+      "stars": 68,
+      "updatedAt": 1786945009000,
+      "topics": [
+        "apo",
+        "automation",
+        "diagnostics",
+        "equalizer",
+        "equalizer-apo"
+      ],
+      "cover": "/covers/viral-twilightsnail-equalizer-apo-workbench-2026.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~136★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-17T00:50:33.981Z",
+      "htmlUrl": "https://github.com/TwilightSnail/equalizer-apo-workbench-2026"
+    },
+    {
+      "id": "viral-1329629252",
+      "name": "WeChat-AI",
+      "owner": "SMNETSTUDIO",
+      "description": "Trending open-source repository on GitHub.",
+      "language": "TypeScript",
+      "stars": 1787,
+      "updatedAt": 1787115126000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-smnetstudio-wechat-ai.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~201★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-14T18:43:13.081Z",
+      "htmlUrl": "https://github.com/SMNETSTUDIO/WeChat-AI"
+    },
+    {
+      "id": "viral-1334245678",
+      "name": "dsh-anchored-standard",
+      "owner": "xiaobright",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3588,
+      "updatedAt": 1786947598000,
+      "topics": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm-agent"
+      ],
+      "cover": "/covers/viral-xiaobright-dsh-anchored-standard.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~766★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-14T18:43:13.081Z",
+      "htmlUrl": "https://github.com/xiaobright/dsh-anchored-standard"
+    },
+    {
+      "id": "viral-1333294285",
+      "name": "dsh_desktop",
+      "owner": "myYangyunfan",
+      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "language": "JavaScript",
+      "stars": 469,
+      "updatedAt": 1787117979000,
+      "topics": [
+        "ai-agent",
+        "deepseek",
+        "desktop-app",
+        "dsh",
+        "electron"
+      ],
+      "cover": "/covers/viral-myyangyunfan-dsh-desktop.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-15T12:22:02.869Z",
+      "htmlUrl": "https://github.com/myYangyunfan/dsh_desktop"
+    },
+    {
+      "id": "viral-1334838753",
+      "name": "v4-flash-godmode-opencode-go",
+      "owner": "SheberDavid",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "language": "JavaScript",
+      "stars": 512,
+      "updatedAt": 1786938818000,
+      "topics": [
+        "agent",
+        "deepseek",
+        "dsh",
+        "flash"
+      ],
+      "cover": "/covers/viral-sheberdavid-v4-flash-godmode-opencode-go.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~124★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-15T18:17:59.340Z",
+      "htmlUrl": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go"
+    },
+    {
       "id": "viral-1335334308",
       "name": "gpt_nerver",
       "owner": "Nervercc",
       "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
       "language": "Python",
-      "stars": 321,
+      "stars": 368,
       "updatedAt": 1786820330000,
       "topics": [
         "trending",
@@ -544,6 +680,26 @@
       "viral": true,
       "spottedAt": "2026-08-16T06:27:26.338Z",
       "htmlUrl": "https://github.com/Nervercc/gpt_nerver"
+    },
+    {
+      "id": "viral-1330160336",
+      "name": "airship",
+      "owner": "0xnyn",
+      "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "language": "TypeScript",
+      "stars": 490,
+      "updatedAt": 1787013584000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-0xnyn-airship.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~99★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-15T06:24:45.144Z",
+      "htmlUrl": "https://github.com/0xnyn/airship"
     },
     {
       "id": "viral-1334858145",
@@ -635,73 +791,6 @@
       "htmlUrl": "https://github.com/NetworkHarmonyBraid/ldplayer-module-2026"
     },
     {
-      "id": "viral-1336093565",
-      "name": "equalizer-apo-workbench-2026",
-      "owner": "TwilightSnail",
-      "description": "Portable Equalizer APO workbench for Windows — preset templates, config helpers, and free setup guides aligned with release 1.4.2.",
-      "language": "HTML",
-      "stars": 68,
-      "updatedAt": 1786945009000,
-      "topics": [
-        "apo",
-        "automation",
-        "diagnostics",
-        "equalizer",
-        "equalizer-apo"
-      ],
-      "cover": "/covers/viral-twilightsnail-equalizer-apo-workbench-2026.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~136★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-17T00:50:33.981Z",
-      "htmlUrl": "https://github.com/TwilightSnail/equalizer-apo-workbench-2026"
-    },
-    {
-      "id": "viral-1334245678",
-      "name": "dsh-anchored-standard",
-      "owner": "xiaobright",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "language": "JavaScript",
-      "stars": 3559,
-      "updatedAt": 1786947598000,
-      "topics": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh-plugin",
-        "llm-agent"
-      ],
-      "cover": "/covers/viral-xiaobright-dsh-anchored-standard.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~800★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-14T18:43:13.081Z",
-      "htmlUrl": "https://github.com/xiaobright/dsh-anchored-standard"
-    },
-    {
-      "id": "viral-1334838753",
-      "name": "v4-flash-godmode-opencode-go",
-      "owner": "SheberDavid",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "language": "JavaScript",
-      "stars": 512,
-      "updatedAt": 1786938818000,
-      "topics": [
-        "agent",
-        "deepseek",
-        "dsh",
-        "flash"
-      ],
-      "cover": "/covers/viral-sheberdavid-v4-flash-godmode-opencode-go.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~132★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-15T18:17:59.340Z",
-      "htmlUrl": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go"
-    },
-    {
       "id": "viral-1335506639",
       "name": "Medusa-FH6-v2.Menu",
       "owner": "romanbhq2000w8",
@@ -730,7 +819,7 @@
       "owner": "deepseek-ai",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 160460,
+      "stars": 162751,
       "updatedAt": 1786968118000,
       "topics": [
         "ai-agents",
@@ -741,33 +830,10 @@
       "cover": "/covers/viral-deepseek-ai-deepseek-harness.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~28981★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~28186★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-14T12:48:24.513Z",
       "htmlUrl": "https://github.com/deepseek-ai/deepseek-harness"
-    },
-    {
-      "id": "viral-1334373503",
-      "name": "Deepseek-Harness-EAC",
-      "owner": "zouyuxuan122",
-      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "language": "JavaScript",
-      "stars": 859,
-      "updatedAt": 1787053438000,
-      "topics": [
-        "ai-agent",
-        "deepseek",
-        "desktop-app",
-        "dsh",
-        "electron"
-      ],
-      "cover": "/covers/viral-zouyuxuan122-deepseek-harness-eac.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~198★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-15T12:22:02.869Z",
-      "htmlUrl": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC"
     },
     {
       "id": "viral-1333111893",
@@ -775,8 +841,8 @@
       "owner": "ccch1mneyyy",
       "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar +",
       "language": "TypeScript",
-      "stars": 1973,
-      "updatedAt": 1787100232000,
+      "stars": 2018,
+      "updatedAt": 1787120372000,
       "topics": [
         "claude-code",
         "coding-agent",
@@ -787,7 +853,7 @@
       "cover": "/covers/viral-ccch1mneyyy-dsh-tui.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~359★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~352★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-14T01:17:57.187Z",
       "htmlUrl": "https://github.com/ccch1mneyyy/dsh-TUI"
@@ -798,7 +864,7 @@
       "owner": "ShawnPana",
       "description": "let your agent control your phone",
       "language": "Python",
-      "stars": 1916,
+      "stars": 1924,
       "updatedAt": 1787094363000,
       "topics": [
         "agent",
@@ -807,140 +873,12 @@
         "developer-tools"
       ],
       "cover": "/covers/viral-shawnpana-phone-harness.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~173★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~170★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-14T07:14:03.186Z",
       "htmlUrl": "https://github.com/ShawnPana/phone-harness"
-    },
-    {
-      "id": "viral-1329629252",
-      "name": "WeChat-AI",
-      "owner": "SMNETSTUDIO",
-      "description": "Trending open-source repository on GitHub.",
-      "language": "TypeScript",
-      "stars": 1786,
-      "updatedAt": 1787028751000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-smnetstudio-wechat-ai.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~206★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-14T18:43:13.081Z",
-      "htmlUrl": "https://github.com/SMNETSTUDIO/WeChat-AI"
-    },
-    {
-      "id": "viral-1334137164",
-      "name": "EscapeFromTarkov-Trainer-2026",
-      "owner": "ryan-santos-dev95z9",
-      "description": "EscapeFromTarkov-Trainer with support for many cfg files. Auto-updates, no key system. Works in 2026.",
-      "language": "Unknown",
-      "stars": 101,
-      "updatedAt": 1786773884000,
-      "topics": [
-        "aim",
-        "battleye",
-        "eft",
-        "eftaim",
-        "eftesp"
-      ],
-      "cover": "/covers/viral-ryan-santos-dev95z9-escapefromtarkov-trainer-2026.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~190★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-15T00:48:41.684Z",
-      "htmlUrl": "https://github.com/ryan-santos-dev95z9/EscapeFromTarkov-Trainer-2026"
-    },
-    {
-      "id": "viral-1325096132",
-      "name": "shuohao-skills",
-      "owner": "eternityspring",
-      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
-      "language": "JavaScript",
-      "stars": 1687,
-      "updatedAt": 1787066143000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-eternityspring-shuohao-skills.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~134★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-13T12:53:45.957Z",
-      "htmlUrl": "https://github.com/eternityspring/shuohao-skills"
-    },
-    {
-      "id": "viral-1333123776",
-      "name": "dsh-deep-whale",
-      "owner": "Small-tailqwq",
-      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-      "language": "TypeScript",
-      "stars": 1380,
-      "updatedAt": 1787064320000,
-      "topics": [
-        "dsh",
-        "dsh-plugin"
-      ],
-      "cover": "/covers/viral-small-tailqwq-dsh-deep-whale.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~251★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-13T18:53:38.034Z",
-      "htmlUrl": "https://github.com/Small-tailqwq/dsh-deep-whale"
-    },
-    {
-      "id": "viral-1328769721",
-      "name": "pi-from-scratch",
-      "owner": "SaladDay",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "language": "TypeScript",
-      "stars": 1061,
-      "updatedAt": 1787040575000,
-      "topics": [
-        "agent-loop",
-        "ai-agent",
-        "coding-agent",
-        "llm",
-        "llm-agent"
-      ],
-      "cover": "/covers/viral-saladday-pi-from-scratch.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~111★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-14T12:48:24.513Z",
-      "htmlUrl": "https://github.com/SaladDay/pi-from-scratch"
-    },
-    {
-      "id": "viral-1333165619",
-      "name": "dsh-desktop",
-      "owner": "dataelement",
-      "description": "DeepSeek Harness Desktop",
-      "language": "TypeScript",
-      "stars": 937,
-      "updatedAt": 1787052940000,
-      "topics": [
-        "ai-agents",
-        "deepseek",
-        "desktop",
-        "dsh-plugins"
-      ],
-      "cover": "/covers/viral-dataelement-dsh-desktop.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~172★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-14T12:48:24.513Z",
-      "htmlUrl": "https://github.com/dataelement/dsh-desktop"
     },
     {
       "id": "viral-1332009127",
@@ -948,7 +886,7 @@
       "owner": "vercel-labs",
       "description": "Meet Foreman, an eve Software Factory.",
       "language": "TypeScript",
-      "stars": 911,
+      "stars": 921,
       "updatedAt": 1787056688000,
       "topics": [
         "agent",
@@ -957,9 +895,9 @@
         "vercel"
       ],
       "cover": "/covers/viral-vercel-labs-eve-software-factory-template.webp",
-      "sfx": "BOOM!!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~140★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~136★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-14T07:14:03.186Z",
       "htmlUrl": "https://github.com/vercel-labs/eve-software-factory-template"
@@ -970,8 +908,8 @@
       "owner": "elie222",
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
-      "stars": 852,
-      "updatedAt": 1787097939000,
+      "stars": 863,
+      "updatedAt": 1787120996000,
       "topics": [
         "ai-agents",
         "chatgpt",
@@ -980,9 +918,9 @@
         "expo"
       ],
       "cover": "/covers/viral-elie222-rakazo.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~148★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-14T01:17:57.187Z",
       "htmlUrl": "https://github.com/elie222/rakazo"
@@ -993,7 +931,7 @@
       "owner": "0xsline",
       "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "language": "Python",
-      "stars": 728,
+      "stars": 740,
       "updatedAt": 1787059730000,
       "topics": [
         "agent",
@@ -1011,35 +949,12 @@
       "htmlUrl": "https://github.com/0xsline/awesome-deepseek-harness"
     },
     {
-      "id": "viral-1333100071",
-      "name": "dsh-vision-toolkit",
-      "owner": "Anionex",
-      "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "language": "TypeScript",
-      "stars": 700,
-      "updatedAt": 1787081009000,
-      "topics": [
-        "agent-skills",
-        "agent-vision-toolkit",
-        "computer-vision",
-        "deepseek",
-        "deepseek-harness"
-      ],
-      "cover": "/covers/viral-anionex-dsh-vision-toolkit.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~127★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-13T18:53:38.034Z",
-      "htmlUrl": "https://github.com/Anionex/dsh-vision-toolkit"
-    },
-    {
       "id": "viral-1333258936",
       "name": "dsh-handbook",
       "owner": "Electricitysheep",
       "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "language": "HTML",
-      "stars": 492,
+      "stars": 509,
       "updatedAt": 1787017185000,
       "topics": [
         "agent",
@@ -1062,7 +977,7 @@
       "owner": "decionis",
       "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor t",
       "language": "TypeScript",
-      "stars": 533,
+      "stars": 534,
       "updatedAt": 1787002627000,
       "topics": [
         "agentic-ai",
@@ -1078,6 +993,29 @@
       "viral": true,
       "spottedAt": "2026-08-14T12:48:24.513Z",
       "htmlUrl": "https://github.com/decionis/agent-safe-pipeline"
+    },
+    {
+      "id": "viral-1329849289",
+      "name": "moli",
+      "owner": "lexmount",
+      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+      "language": "Rust",
+      "stars": 585,
+      "updatedAt": 1787097016000,
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser",
+        "browser-automation",
+        "cloud-browser"
+      ],
+      "cover": "/covers/viral-lexmount-moli.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~77★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-13T07:16:28.323Z",
+      "htmlUrl": "https://github.com/lexmount/moli"
     },
     {
       "id": "viral-1332073142",
@@ -1108,19 +1046,150 @@
       "owner": "NousResearch",
       "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
       "language": "JavaScript",
-      "stars": 616,
+      "stars": 621,
       "updatedAt": 1786930333000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-nousresearch-hermes-bot-mode.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~115★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~111★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-14T01:17:57.187Z",
       "htmlUrl": "https://github.com/NousResearch/Hermes-Bot-Mode"
+    },
+    {
+      "id": "viral-1334137164",
+      "name": "EscapeFromTarkov-Trainer-2026",
+      "owner": "ryan-santos-dev95z9",
+      "description": "EscapeFromTarkov-Trainer with support for many cfg files. Auto-updates, no key system. Works in 2026.",
+      "language": "Unknown",
+      "stars": 101,
+      "updatedAt": 1786773884000,
+      "topics": [
+        "aim",
+        "battleye",
+        "eft",
+        "eftaim",
+        "eftesp"
+      ],
+      "cover": "/covers/viral-ryan-santos-dev95z9-escapefromtarkov-trainer-2026.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~190★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-15T00:48:41.684Z",
+      "htmlUrl": "https://github.com/ryan-santos-dev95z9/EscapeFromTarkov-Trainer-2026"
+    },
+    {
+      "id": "viral-1325096132",
+      "name": "shuohao-skills",
+      "owner": "eternityspring",
+      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
+      "language": "JavaScript",
+      "stars": 1697,
+      "updatedAt": 1787108615000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-eternityspring-shuohao-skills.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~132★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-13T12:53:45.957Z",
+      "htmlUrl": "https://github.com/eternityspring/shuohao-skills"
+    },
+    {
+      "id": "viral-1333123776",
+      "name": "dsh-deep-whale",
+      "owner": "Small-tailqwq",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "language": "TypeScript",
+      "stars": 1406,
+      "updatedAt": 1787119915000,
+      "topics": [
+        "dsh",
+        "dsh-plugin"
+      ],
+      "cover": "/covers/viral-small-tailqwq-dsh-deep-whale.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~245★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-13T18:53:38.034Z",
+      "htmlUrl": "https://github.com/Small-tailqwq/dsh-deep-whale"
+    },
+    {
+      "id": "viral-1328769721",
+      "name": "pi-from-scratch",
+      "owner": "SaladDay",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "language": "TypeScript",
+      "stars": 1067,
+      "updatedAt": 1787040575000,
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent"
+      ],
+      "cover": "/covers/viral-saladday-pi-from-scratch.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~111★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-14T12:48:24.513Z",
+      "htmlUrl": "https://github.com/SaladDay/pi-from-scratch"
+    },
+    {
+      "id": "viral-1333165619",
+      "name": "dsh-desktop",
+      "owner": "dataelement",
+      "description": "DeepSeek Harness Desktop",
+      "language": "TypeScript",
+      "stars": 984,
+      "updatedAt": 1787121072000,
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "desktop",
+        "dsh-plugins"
+      ],
+      "cover": "/covers/viral-dataelement-dsh-desktop.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~173★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-14T12:48:24.513Z",
+      "htmlUrl": "https://github.com/dataelement/dsh-desktop"
+    },
+    {
+      "id": "viral-1333100071",
+      "name": "dsh-vision-toolkit",
+      "owner": "Anionex",
+      "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "language": "TypeScript",
+      "stars": 718,
+      "updatedAt": 1787119652000,
+      "topics": [
+        "agent-skills",
+        "agent-vision-toolkit",
+        "computer-vision",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "cover": "/covers/viral-anionex-dsh-vision-toolkit.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~125★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-13T18:53:38.034Z",
+      "htmlUrl": "https://github.com/Anionex/dsh-vision-toolkit"
     },
     {
       "id": "viral-1333135492",
@@ -1128,7 +1197,7 @@
       "owner": "Leutenegger",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 1189,
+      "stars": 1194,
       "updatedAt": 1786707700000,
       "topics": [
         "agent",
@@ -1138,9 +1207,9 @@
         "agentic"
       ],
       "cover": "/covers/viral-leutenegger-book-to-skill.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~217★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~209★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-13T18:53:38.034Z",
       "htmlUrl": "https://github.com/Leutenegger/book-to-skill"
@@ -1169,12 +1238,35 @@
       "htmlUrl": "https://github.com/DrHazemAli/enterprise-system-design"
     },
     {
+      "id": "viral-1322509558",
+      "name": "LongHorizon-Harness",
+      "owner": "AMAP-ML",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, d",
+      "language": "Python",
+      "stars": 807,
+      "updatedAt": 1786974530000,
+      "topics": [
+        "agent",
+        "claude",
+        "claude-code",
+        "claude-plugin",
+        "cli"
+      ],
+      "cover": "/covers/viral-amap-ml-longhorizon-harness.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~72★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-13T01:18:42.837Z",
+      "htmlUrl": "https://github.com/AMAP-ML/LongHorizon-Harness"
+    },
+    {
       "id": "viral-1327502931",
       "name": "kage",
       "owner": "MengTo",
       "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
       "language": "HTML",
-      "stars": 1213,
+      "stars": 1221,
       "updatedAt": 1786250805000,
       "topics": [
         "creative-coding",
@@ -1186,7 +1278,7 @@
       "cover": "/covers/viral-mengto-kage.webp",
       "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~113★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~111★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-14T01:17:57.187Z",
       "htmlUrl": "https://github.com/MengTo/kage"
@@ -1197,7 +1289,7 @@
       "owner": "xinxinshuhao-create",
       "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
       "language": "Python",
-      "stars": 456,
+      "stars": 457,
       "updatedAt": 1786690200000,
       "topics": [
         "trending",
@@ -1230,95 +1322,6 @@
       "viral": true,
       "spottedAt": "2026-08-15T00:48:41.684Z",
       "htmlUrl": "https://github.com/sjc88661/multi-agent-discuss"
-    },
-    {
-      "id": "viral-1334259542",
-      "name": "Warhounds-Trainer-2026",
-      "owner": "nick-kumar-ops1992p6",
-      "description": "Free Warhounds Trainer with support for many cfg files. Auto-updates, no key system. Works in 2026.",
-      "language": "Unknown",
-      "stars": 101,
-      "updatedAt": 1786718033000,
-      "topics": [
-        "megaexp",
-        "trainer",
-        "unlimitedhp",
-        "warhounds",
-        "warhounds-trainer"
-      ],
-      "cover": "/covers/viral-nick-kumar-ops1992p6-warhounds-trainer-2026.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~202★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-15T00:48:41.684Z",
-      "htmlUrl": "https://github.com/nick-kumar-ops1992p6/Warhounds-Trainer-2026"
-    },
-    {
-      "id": "viral-1329849289",
-      "name": "moli",
-      "owner": "lexmount",
-      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-      "language": "Rust",
-      "stars": 569,
-      "updatedAt": 1787097016000,
-      "topics": [
-        "ai-agents",
-        "ai-tools",
-        "browser",
-        "browser-automation",
-        "cloud-browser"
-      ],
-      "cover": "/covers/viral-lexmount-moli.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~77★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-13T07:16:28.323Z",
-      "htmlUrl": "https://github.com/lexmount/moli"
-    },
-    {
-      "id": "viral-1322509558",
-      "name": "LongHorizon-Harness",
-      "owner": "AMAP-ML",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, d",
-      "language": "Python",
-      "stars": 807,
-      "updatedAt": 1786974530000,
-      "topics": [
-        "agent",
-        "claude",
-        "claude-code",
-        "claude-plugin",
-        "cli"
-      ],
-      "cover": "/covers/viral-amap-ml-longhorizon-harness.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~72★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-13T01:18:42.837Z",
-      "htmlUrl": "https://github.com/AMAP-ML/LongHorizon-Harness"
-    },
-    {
-      "id": "viral-1327095724",
-      "name": "keslr_connect",
-      "owner": "keslr",
-      "description": "Connect your service to Keslr: sign in with Keslr and read the verification claim that proves a user is a real, vouched-for human — plus run services reachable only by Keslr members.",
-      "language": "TypeScript",
-      "stars": 558,
-      "updatedAt": 1786133608000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-keslr-keslr-connect.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~94★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-13T12:53:45.957Z",
-      "htmlUrl": "https://github.com/keslr/keslr_connect"
     }
   ]
 }

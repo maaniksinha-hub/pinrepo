@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T18:28:58.972Z",
+  "updatedAt": "2026-08-25T00:51:38.027Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -8,7 +8,7 @@
       "owner": "bowenliang123",
       "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context ",
       "language": "TypeScript",
-      "stars": 1001,
+      "stars": 1005,
       "updatedAt": 1787588199000,
       "topics": [
         "cordis-plugin",
@@ -18,9 +18,9 @@
         "dsh-plugin"
       ],
       "cover": "/covers/viral-bowenliang123-dsh-context.webp",
-      "sfx": "HOT!!",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~97★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~94★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-24T12:33:42.396Z",
       "htmlUrl": "https://github.com/bowenliang123/dsh-context"
@@ -31,8 +31,8 @@
       "owner": "rome-os",
       "description": "Rome is the agentic OS.",
       "language": "TypeScript",
-      "stars": 245,
-      "updatedAt": 1787583259000,
+      "stars": 293,
+      "updatedAt": 1787604369000,
       "topics": [
         "agent",
         "agent-os",
@@ -41,9 +41,9 @@
         "llm"
       ],
       "cover": "/covers/viral-rome-os-rome.webp",
-      "sfx": "BANG!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~165★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-24T12:33:42.396Z",
       "htmlUrl": "https://github.com/rome-os/rome"
@@ -54,8 +54,8 @@
       "owner": "truespar",
       "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/",
       "language": "Rust",
-      "stars": 96,
-      "updatedAt": 1787595748000,
+      "stars": 158,
+      "updatedAt": 1787599737000,
       "topics": [
         "ai-agents",
         "ai-tools",
@@ -64,12 +64,35 @@
         "email"
       ],
       "cover": "/covers/viral-truespar-sentio.webp",
-      "sfx": "BANG!",
+      "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~139★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-24T18:28:58.972Z",
       "htmlUrl": "https://github.com/truespar/sentio"
+    },
+    {
+      "id": "viral-1344968581",
+      "name": "fireworks-open-eli5",
+      "owner": "yizhiyanhua-ai",
+      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "language": "JavaScript",
+      "stars": 58,
+      "updatedAt": 1787577067000,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "eli5",
+        "offline-first"
+      ],
+      "cover": "/covers/viral-yizhiyanhua-ai-fireworks-open-eli5.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~116★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-25T00:51:38.027Z",
+      "htmlUrl": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5"
     },
     {
       "id": "viral-1333065091",
@@ -77,7 +100,7 @@
       "owner": "deepseek-ai",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 191572,
+      "stars": 191996,
       "updatedAt": 1787315708000,
       "topics": [
         "ai-agents",
@@ -88,7 +111,7 @@
       "cover": "/covers/viral-deepseek-ai-deepseek-harness.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~16994★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~16640★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T12:24:16.695Z",
       "htmlUrl": "https://github.com/deepseek-ai/deepseek-harness"
@@ -98,9 +121,9 @@
       "name": "dsh-routing-suite",
       "owner": "yjh051108",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-      "language": "PowerShell",
-      "stars": 6759,
-      "updatedAt": 1787455610000,
+      "language": "JavaScript",
+      "stars": 6760,
+      "updatedAt": 1787615800000,
       "topics": [
         "ai-agents",
         "cordis",
@@ -109,9 +132,9 @@
         "dsh-plugin"
       ],
       "cover": "/covers/viral-yjh051108-dsh-routing-suite.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~684★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~666★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T00:53:41.468Z",
       "htmlUrl": "https://github.com/yjh051108/dsh-routing-suite"
@@ -122,7 +145,7 @@
       "owner": "xiaobright",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "language": "JavaScript",
-      "stars": 3744,
+      "stars": 3746,
       "updatedAt": 1787505822000,
       "topics": [
         "deepseek",
@@ -131,9 +154,9 @@
         "llm-agent"
       ],
       "cover": "/covers/viral-xiaobright-dsh-anchored-standard.webp",
-      "sfx": "BOOM!!",
+      "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~368★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~359★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-22T18:18:36.759Z",
       "htmlUrl": "https://github.com/xiaobright/dsh-anchored-standard"
@@ -144,8 +167,8 @@
       "owner": "ccch1mneyyy",
       "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar +",
       "language": "TypeScript",
-      "stars": 2468,
-      "updatedAt": 1787596058000,
+      "stars": 2473,
+      "updatedAt": 1787618666000,
       "topics": [
         "claude-code",
         "coding-agent",
@@ -154,9 +177,9 @@
         "dsh-plugin"
       ],
       "cover": "/covers/viral-ccch1mneyyy-dsh-tui.webp",
-      "sfx": "RISE!!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~220★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~215★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T06:28:17.333Z",
       "htmlUrl": "https://github.com/ccch1mneyyy/dsh-TUI"
@@ -167,7 +190,7 @@
       "owner": "dataelement",
       "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
       "language": "TypeScript",
-      "stars": 2197,
+      "stars": 2222,
       "updatedAt": 1787580411000,
       "topics": [
         "agent",
@@ -177,9 +200,9 @@
         "deepseek-harness-desktop"
       ],
       "cover": "/covers/viral-dataelement-dsh-desktop.webp",
-      "sfx": "HOT!!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~196★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~194★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T12:24:16.695Z",
       "htmlUrl": "https://github.com/dataelement/dsh-desktop"
@@ -190,8 +213,8 @@
       "owner": "zouyuxuan122",
       "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
       "language": "JavaScript",
-      "stars": 1261,
-      "updatedAt": 1787584852000,
+      "stars": 1265,
+      "updatedAt": 1787611104000,
       "topics": [
         "ai-agent",
         "deepseek",
@@ -200,9 +223,9 @@
         "desktop-app"
       ],
       "cover": "/covers/viral-zouyuxuan122-deepseek-harness-eac.webp",
-      "sfx": "BOOM!!",
+      "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~125★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~122★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T12:24:16.695Z",
       "htmlUrl": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC"
@@ -213,8 +236,8 @@
       "owner": "elie222",
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
-      "stars": 1216,
-      "updatedAt": 1787590923000,
+      "stars": 1232,
+      "updatedAt": 1787618823000,
       "topics": [
         "ai-agents",
         "chatgpt",
@@ -223,9 +246,9 @@
         "expo"
       ],
       "cover": "/covers/viral-elie222-rakazo.webp",
-      "sfx": "RISE!!",
+      "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~106★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~105★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T00:53:41.468Z",
       "htmlUrl": "https://github.com/elie222/rakazo"
@@ -236,7 +259,7 @@
       "owner": "duty1g",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set brea",
       "language": "Zig",
-      "stars": 1173,
+      "stars": 1224,
       "updatedAt": 1787560954000,
       "topics": [
         "ai-agents",
@@ -246,9 +269,9 @@
         "claude-code"
       ],
       "cover": "/covers/viral-duty1g-x64dbg-mcp-server.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~541★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~503★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T06:28:17.333Z",
       "htmlUrl": "https://github.com/duty1g/x64dbg-mcp-server"
@@ -279,7 +302,7 @@
       "owner": "ShadowAqueduct",
       "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "language": "Python",
-      "stars": 767,
+      "stars": 768,
       "updatedAt": 1787522831000,
       "topics": [
         "claude-ai",
@@ -289,9 +312,9 @@
         "codex"
       ],
       "cover": "/covers/viral-shadowaqueduct-watermark-remover.webp",
-      "sfx": "FIRE!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~866★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~667★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-24T00:51:40.152Z",
       "htmlUrl": "https://github.com/ShadowAqueduct/watermark-remover"
@@ -302,7 +325,7 @@
       "owner": "nateherkai",
       "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "language": "JavaScript",
-      "stars": 601,
+      "stars": 633,
       "updatedAt": 1787520591000,
       "topics": [
         "accessibility",
@@ -312,9 +335,9 @@
         "claude-code"
       ],
       "cover": "/covers/viral-nateherkai-scroll-craft.webp",
-      "sfx": "BANG!",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~282★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~264★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T00:53:41.468Z",
       "htmlUrl": "https://github.com/nateherkai/scroll-craft"
@@ -332,9 +355,9 @@
         "github"
       ],
       "cover": "/covers/viral-forsy-ai-biosecurity-agent.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~284★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~247★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T06:28:17.333Z",
       "htmlUrl": "https://github.com/Forsy-AI/biosecurity-agent"
@@ -345,8 +368,8 @@
       "owner": "kgoedecke",
       "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "language": "TypeScript",
-      "stars": 300,
-      "updatedAt": 1787511107000,
+      "stars": 320,
+      "updatedAt": 1787615942000,
       "topics": [
         "ai-agents",
         "canvas",
@@ -355,9 +378,9 @@
         "claude-design"
       ],
       "cover": "/covers/viral-kgoedecke-doop.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~142★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~134★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-23T18:18:42.100Z",
       "htmlUrl": "https://github.com/kgoedecke/doop"
@@ -369,7 +392,7 @@
       "description": "Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
       "language": "Rust",
       "stars": 166,
-      "updatedAt": 1787583703000,
+      "updatedAt": 1787618929000,
       "topics": [
         "filesystem",
         "indexer",
@@ -386,12 +409,35 @@
       "htmlUrl": "https://github.com/josiah-nelson/eidos"
     },
     {
+      "id": "viral-1343965543",
+      "name": "e621",
+      "owner": "blendmaidintrigue",
+      "description": "An independent community-maintained project based on the open-source \"e621\" codebase.",
+      "language": "Ruby",
+      "stars": 150,
+      "updatedAt": 1787503140000,
+      "topics": [
+        "e621",
+        "e621-api",
+        "e621-app",
+        "e621-downloader",
+        "e621-uploader"
+      ],
+      "cover": "/covers/viral-blendmaidintrigue-e621.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~111★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-24T00:51:40.152Z",
+      "htmlUrl": "https://github.com/blendmaidintrigue/e621"
+    },
+    {
       "id": "viral-1343680712",
       "name": "Code-With-Claude",
       "owner": "PiLastDigit",
       "description": "Full transcripts of Anthropic's Code w/ Claude (San Francisco 2026) — all 19 talks, via Deepgram Nova-3 + Gemini summaries",
       "language": "Unknown",
-      "stars": 98,
+      "stars": 104,
       "updatedAt": 1787554971000,
       "topics": [
         "trending",
@@ -434,7 +480,7 @@
       "owner": "LB623",
       "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
       "language": "Python",
-      "stars": 343,
+      "stars": 344,
       "updatedAt": 1787556363000,
       "topics": [
         "agent-skills",
@@ -444,35 +490,12 @@
         "prompt-engineering"
       ],
       "cover": "/covers/viral-lb623-no-negative-echo.webp",
-      "sfx": "BOOM!!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~103★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~95★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-22T12:23:42.873Z",
       "htmlUrl": "https://github.com/LB623/no-negative-echo"
-    },
-    {
-      "id": "viral-1342851168",
-      "name": "solo-skills",
-      "owner": "bam-bam-2",
-      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-      "language": "Python",
-      "stars": 235,
-      "updatedAt": 1787486012000,
-      "topics": [
-        "agent-skills",
-        "ai-agent",
-        "automation",
-        "claude-code",
-        "korean"
-      ],
-      "cover": "/covers/viral-bam-bam-2-solo-skills.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~107★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-23T06:28:17.333Z",
-      "htmlUrl": "https://github.com/bam-bam-2/solo-skills"
     },
     {
       "id": "viral-1342703663",
@@ -480,7 +503,7 @@
       "owner": "zhaoxuya520",
       "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
       "language": "Go",
-      "stars": 161,
+      "stars": 162,
       "updatedAt": 1787555654000,
       "topics": [
         "golang",
@@ -498,27 +521,49 @@
       "htmlUrl": "https://github.com/zhaoxuya520/MeshLAN"
     },
     {
-      "id": "viral-1343965543",
-      "name": "e621",
-      "owner": "blendmaidintrigue",
-      "description": "An independent community-maintained project based on the open-source \"e621\" codebase.",
-      "language": "Ruby",
-      "stars": 139,
-      "updatedAt": 1787503140000,
+      "id": "viral-1342851168",
+      "name": "solo-skills",
+      "owner": "bam-bam-2",
+      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "language": "Python",
+      "stars": 248,
+      "updatedAt": 1787486012000,
       "topics": [
-        "e621",
-        "e621-api",
-        "e621-app",
-        "e621-downloader",
-        "e621-uploader"
+        "agent-skills",
+        "ai-agent",
+        "automation",
+        "claude-code",
+        "korean"
       ],
-      "cover": "/covers/viral-blendmaidintrigue-e621.webp",
-      "sfx": "RISE!!",
+      "cover": "/covers/viral-bam-bam-2-solo-skills.webp",
+      "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~128★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~101★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-08-24T00:51:40.152Z",
-      "htmlUrl": "https://github.com/blendmaidintrigue/e621"
+      "spottedAt": "2026-08-23T06:28:17.333Z",
+      "htmlUrl": "https://github.com/bam-bam-2/solo-skills"
+    },
+    {
+      "id": "viral-1332009127",
+      "name": "eve-software-factory-template",
+      "owner": "vercel-labs",
+      "description": "Meet Foreman, an eve Software Factory.",
+      "language": "TypeScript",
+      "stars": 997,
+      "updatedAt": 1787196492000,
+      "topics": [
+        "agent",
+        "ai",
+        "eve",
+        "vercel"
+      ],
+      "cover": "/covers/viral-vercel-labs-eve-software-factory-template.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~99★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-22T06:26:32.091Z",
+      "htmlUrl": "https://github.com/vercel-labs/eve-software-factory-template"
     },
     {
       "id": "viral-1343087241",
@@ -549,7 +594,7 @@
       "owner": "programasweights",
       "description": "Translate between English and Claudish with tiny ProgramAsWeights functions.",
       "language": "Python",
-      "stars": 175,
+      "stars": 178,
       "updatedAt": 1787416373000,
       "topics": [
         "claude",
@@ -586,26 +631,27 @@
       "htmlUrl": "https://github.com/GamePhanes/GamePhanes"
     },
     {
-      "id": "viral-1332009127",
-      "name": "eve-software-factory-template",
-      "owner": "vercel-labs",
-      "description": "Meet Foreman, an eve Software Factory.",
-      "language": "TypeScript",
-      "stars": 996,
-      "updatedAt": 1787196492000,
+      "id": "viral-1340743476",
+      "name": "lanshu-create-ai-presenter-video",
+      "owner": "cclank",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "language": "Python",
+      "stars": 837,
+      "updatedAt": 1787233214000,
       "topics": [
-        "agent",
-        "ai",
-        "eve",
-        "vercel"
+        "ai-video",
+        "codex",
+        "codex-skill",
+        "digital-human",
+        "video-generation"
       ],
-      "cover": "/covers/viral-vercel-labs-eve-software-factory-template.webp",
-      "sfx": "HOT!!",
+      "cover": "/covers/viral-cclank-lanshu-create-ai-presenter-video.webp",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~99★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~187★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-08-22T06:26:32.091Z",
-      "htmlUrl": "https://github.com/vercel-labs/eve-software-factory-template"
+      "spottedAt": "2026-08-21T00:53:27.198Z",
+      "htmlUrl": "https://github.com/cclank/lanshu-create-ai-presenter-video"
     },
     {
       "id": "viral-1342192526",
@@ -628,12 +674,35 @@
       "htmlUrl": "https://github.com/Leutenegger/claudish-to-english"
     },
     {
+      "id": "viral-1341215696",
+      "name": "coldcard-airgap",
+      "owner": "Leutenegger",
+      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcar",
+      "language": "Python",
+      "stars": 608,
+      "updatedAt": 1787268247000,
+      "topics": [
+        "airgap",
+        "airgap-devkit",
+        "airgap-download",
+        "airgap-setup",
+        "airgap-tutorial"
+      ],
+      "cover": "/covers/viral-leutenegger-coldcard-airgap.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~264★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-21T00:53:27.198Z",
+      "htmlUrl": "https://github.com/Leutenegger/coldcard-airgap"
+    },
+    {
       "id": "viral-1341889261",
       "name": "nobuzz",
       "owner": "adnanakil",
       "description": "A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remove the BuzzFeed voice",
       "language": "Unknown",
-      "stars": 196,
+      "stars": 206,
       "updatedAt": 1787359113000,
       "topics": [
         "trending",
@@ -668,13 +737,36 @@
       "htmlUrl": "https://github.com/h9-tec/AI-Glossary-Handbook"
     },
     {
+      "id": "viral-1341029172",
+      "name": "oa-design",
+      "owner": "OpenLabs-so",
+      "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent.",
+      "language": "TypeScript",
+      "stars": 113,
+      "updatedAt": 1787253929000,
+      "topics": [
+        "agent-skill",
+        "ai-agents",
+        "analytics",
+        "claude-code",
+        "design-system"
+      ],
+      "cover": "/covers/viral-openlabs-so-oa-design.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-21T06:33:38.297Z",
+      "htmlUrl": "https://github.com/OpenLabs-so/oa-design"
+    },
+    {
       "id": "viral-1336502227",
       "name": "OpenBot",
       "owner": "CopilotKit",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars": 2609,
-      "updatedAt": 1787594875000,
+      "stars": 2667,
+      "updatedAt": 1787618179000,
       "topics": [
         "ag-ui",
         "agent-governance",
@@ -683,9 +775,9 @@
         "copilotkit"
       ],
       "cover": "/covers/viral-copilotkit-openbot.webp",
-      "sfx": "HOT!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~337★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~333★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-20T00:48:47.743Z",
       "htmlUrl": "https://github.com/CopilotKit/OpenBot"
@@ -711,116 +803,27 @@
       "htmlUrl": "https://github.com/vercel-labs/fx"
     },
     {
-      "id": "viral-1337733621",
-      "name": "autoprompt-skill",
-      "owner": "Spielewoy",
-      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "language": "JavaScript",
-      "stars": 813,
-      "updatedAt": 1787570996000,
-      "topics": [
-        "agent-orchestration",
-        "agent-skills",
-        "agentic-workflows",
-        "ai-agents",
-        "ai-coding"
-      ],
-      "cover": "/covers/viral-spielewoy-autoprompt-skill.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~119★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-19T18:23:04.231Z",
-      "htmlUrl": "https://github.com/Spielewoy/autoprompt-skill"
-    },
-    {
-      "id": "viral-1338237504",
-      "name": "Wake",
-      "owner": "iAmCorey",
-      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-      "language": "Rust",
-      "stars": 583,
-      "updatedAt": 1787593802000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-iamcorey-wake.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~101★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-20T12:32:34.954Z",
-      "htmlUrl": "https://github.com/iAmCorey/Wake"
-    },
-    {
-      "id": "viral-1340743476",
-      "name": "lanshu-create-ai-presenter-video",
-      "owner": "cclank",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "language": "Python",
-      "stars": 829,
-      "updatedAt": 1787233214000,
-      "topics": [
-        "ai-video",
-        "codex",
-        "codex-skill",
-        "digital-human",
-        "video-generation"
-      ],
-      "cover": "/covers/viral-cclank-lanshu-create-ai-presenter-video.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~197★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-21T00:53:27.198Z",
-      "htmlUrl": "https://github.com/cclank/lanshu-create-ai-presenter-video"
-    },
-    {
-      "id": "viral-1341215696",
-      "name": "coldcard-airgap",
+      "id": "viral-1333135492",
+      "name": "book-to-skill",
       "owner": "Leutenegger",
-      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcar",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars": 608,
-      "updatedAt": 1787268247000,
+      "stars": 1230,
+      "updatedAt": 1786707700000,
       "topics": [
-        "airgap",
-        "airgap-devkit",
-        "airgap-download",
-        "airgap-setup",
-        "airgap-tutorial"
-      ],
-      "cover": "/covers/viral-leutenegger-coldcard-airgap.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~264★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-21T00:53:27.198Z",
-      "htmlUrl": "https://github.com/Leutenegger/coldcard-airgap"
-    },
-    {
-      "id": "viral-1341029172",
-      "name": "oa-design",
-      "owner": "OpenLabs-so",
-      "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent.",
-      "language": "TypeScript",
-      "stars": 113,
-      "updatedAt": 1787253929000,
-      "topics": [
+        "agent",
+        "agent-memory",
         "agent-skill",
-        "ai-agents",
-        "analytics",
-        "claude-code",
-        "design-system"
+        "agent-skills",
+        "agentic"
       ],
-      "cover": "/covers/viral-openlabs-so-oa-design.webp",
-      "sfx": "HOT!!",
+      "cover": "/covers/viral-leutenegger-book-to-skill.webp",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~127★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-08-21T06:33:38.297Z",
-      "htmlUrl": "https://github.com/OpenLabs-so/oa-design"
+      "spottedAt": "2026-08-20T00:48:47.743Z",
+      "htmlUrl": "https://github.com/Leutenegger/book-to-skill"
     },
     {
       "id": "viral-1340243403",
@@ -848,7 +851,7 @@
       "owner": "s1dashu",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
       "language": "Unknown",
-      "stars": 4093,
+      "stars": 4125,
       "updatedAt": 1787417339000,
       "topics": [
         "codex",
@@ -858,12 +861,55 @@
         "mascot-design"
       ],
       "cover": "/covers/viral-s1dashu-ip-as-logo-skill.webp",
-      "sfx": "BANG!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~662★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~639★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-18T18:26:22.064Z",
       "htmlUrl": "https://github.com/s1dashu/ip-as-logo-skill"
+    },
+    {
+      "id": "viral-1337733621",
+      "name": "autoprompt-skill",
+      "owner": "Spielewoy",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "language": "JavaScript",
+      "stars": 824,
+      "updatedAt": 1787570996000,
+      "topics": [
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-workflows",
+        "ai-agents",
+        "ai-coding"
+      ],
+      "cover": "/covers/viral-spielewoy-autoprompt-skill.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~116★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-19T18:23:04.231Z",
+      "htmlUrl": "https://github.com/Spielewoy/autoprompt-skill"
+    },
+    {
+      "id": "viral-1338237504",
+      "name": "Wake",
+      "owner": "iAmCorey",
+      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "language": "Rust",
+      "stars": 587,
+      "updatedAt": 1787616061000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-iamcorey-wake.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~101★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-20T12:32:34.954Z",
+      "htmlUrl": "https://github.com/iAmCorey/Wake"
     },
     {
       "id": "viral-1339208118",
@@ -871,7 +917,7 @@
       "owner": "missuo",
       "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
       "language": "Swift",
-      "stars": 619,
+      "stars": 622,
       "updatedAt": 1787542675000,
       "topics": [
         "trending",
@@ -880,10 +926,33 @@
       "cover": "/covers/viral-missuo-herdrm.webp",
       "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~113★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~108★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-19T12:31:10.735Z",
       "htmlUrl": "https://github.com/missuo/herdrm"
+    },
+    {
+      "id": "viral-1336248697",
+      "name": "ai-data-extractor",
+      "owner": "bawadou",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "language": "Python",
+      "stars": 544,
+      "updatedAt": 1787220495000,
+      "topics": [
+        "ai",
+        "ai-data-extractor",
+        "claude",
+        "cursor",
+        "cursor-ai"
+      ],
+      "cover": "/covers/viral-bawadou-ai-data-extractor.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~107★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-20T06:33:29.640Z",
+      "htmlUrl": "https://github.com/bawadou/ai-data-extractor"
     },
     {
       "id": "viral-1337089243",
@@ -891,7 +960,7 @@
       "owner": "cinderline",
       "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
       "language": "JavaScript",
-      "stars": 1210,
+      "stars": 1211,
       "updatedAt": 1787400690000,
       "topics": [
         "agentic-commerce",
@@ -901,9 +970,9 @@
         "mcp-server"
       ],
       "cover": "/covers/viral-cinderline-northcinder.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "FIRE!",
       "height": "medium",
-      "godMode": "Going viral (~166★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~160★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-19T06:31:17.128Z",
       "htmlUrl": "https://github.com/cinderline/northcinder"
@@ -930,6 +999,69 @@
       "viral": true,
       "spottedAt": "2026-08-19T18:23:04.231Z",
       "htmlUrl": "https://github.com/Leutenegger/watermarks-remover"
+    },
+    {
+      "id": "viral-1336783814",
+      "name": "backlink_skills",
+      "owner": "flaqai",
+      "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+      "language": "Python",
+      "stars": 534,
+      "updatedAt": 1787227547000,
+      "topics": [
+        "backlinks",
+        "codex",
+        "codex-skill",
+        "free-backlinks",
+        "freebacklinks"
+      ],
+      "cover": "/covers/viral-flaqai-backlink-skills.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~103★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-20T06:33:29.640Z",
+      "htmlUrl": "https://github.com/flaqai/backlink_skills"
+    },
+    {
+      "id": "viral-1339736623",
+      "name": "llm-rag-memory-ai-agents",
+      "owner": "turkiyeyapayzekaakademisi",
+      "description": "Trending open-source repository on GitHub.",
+      "language": "Python",
+      "stars": 116,
+      "updatedAt": 1787226716000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-turkiyeyapayzekaakademisi-llm-rag-memory-ai-agents.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~138★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-20T00:48:47.743Z",
+      "htmlUrl": "https://github.com/turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents"
+    },
+    {
+      "id": "viral-1336933337",
+      "name": "cumora",
+      "owner": "yetone",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stars": 3035,
+      "updatedAt": 1787569705000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-yetone-cumora.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~397★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-17T18:27:26.339Z",
+      "htmlUrl": "https://github.com/yetone/cumora"
     },
     {
       "id": "viral-1337089243",
@@ -975,179 +1107,27 @@
       "htmlUrl": "https://github.com/zyrexdz/cyberleek-leak-research"
     },
     {
-      "id": "viral-1336783814",
-      "name": "backlink_skills",
-      "owner": "flaqai",
-      "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
+      "id": "viral-1331135699",
+      "name": "watermarks-remover",
+      "owner": "guillaumemeyer",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars": 534,
-      "updatedAt": 1787227547000,
+      "stars": 17839,
+      "updatedAt": 1787557013000,
       "topics": [
-        "backlinks",
-        "codex",
-        "codex-skill",
-        "free-backlinks",
-        "freebacklinks"
-      ],
-      "cover": "/covers/viral-flaqai-backlink-skills.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~103★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-20T06:33:29.640Z",
-      "htmlUrl": "https://github.com/flaqai/backlink_skills"
-    },
-    {
-      "id": "viral-1336248697",
-      "name": "ai-data-extractor",
-      "owner": "bawadou",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "language": "Python",
-      "stars": 544,
-      "updatedAt": 1787220495000,
-      "topics": [
-        "ai",
-        "ai-data-extractor",
-        "claude",
-        "cursor",
-        "cursor-ai"
-      ],
-      "cover": "/covers/viral-bawadou-ai-data-extractor.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~107★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-20T06:33:29.640Z",
-      "htmlUrl": "https://github.com/bawadou/ai-data-extractor"
-    },
-    {
-      "id": "viral-1333135492",
-      "name": "book-to-skill",
-      "owner": "Leutenegger",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "stars": 1230,
-      "updatedAt": 1786707700000,
-      "topics": [
-        "agent",
-        "agent-memory",
         "agent-skill",
-        "agent-skills",
-        "agentic"
+        "ai",
+        "anthropic",
+        "c2pa",
+        "chatgpt"
       ],
-      "cover": "/covers/viral-leutenegger-book-to-skill.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~127★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-20T00:48:47.743Z",
-      "htmlUrl": "https://github.com/Leutenegger/book-to-skill"
-    },
-    {
-      "id": "viral-1335104760",
-      "name": "bloub",
-      "owner": "jeremy-prt",
-      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "language": "TypeScript",
-      "stars": 749,
-      "updatedAt": 1786994328000,
-      "topics": [
-        "animation",
-        "avatar",
-        "morphing",
-        "svg",
-        "svg-animation"
-      ],
-      "cover": "/covers/viral-jeremy-prt-bloub.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~119★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-19T00:49:23.553Z",
-      "htmlUrl": "https://github.com/jeremy-prt/bloub"
-    },
-    {
-      "id": "viral-1336933337",
-      "name": "cumora",
-      "owner": "yetone",
-      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "language": "TypeScript",
-      "stars": 3030,
-      "updatedAt": 1787569705000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-yetone-cumora.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~410★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-17T18:27:26.339Z",
-      "htmlUrl": "https://github.com/yetone/cumora"
-    },
-    {
-      "id": "viral-1336663851",
-      "name": "apex-inference-chip",
-      "owner": "SigmanticAI",
-      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "language": "Python",
-      "stars": 685,
-      "updatedAt": 1787073033000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-sigmanticai-apex-inference-chip.webp",
+      "cover": "/covers/viral-guillaumemeyer-watermarks-remover.webp",
       "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~100★/day). Pin it before your AI stack falls behind.",
+      "height": "tall",
+      "godMode": "Going viral (~1364★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-08-18T18:26:22.064Z",
-      "htmlUrl": "https://github.com/SigmanticAI/apex-inference-chip"
-    },
-    {
-      "id": "viral-1327502931",
-      "name": "kage",
-      "owner": "MengTo",
-      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
-      "language": "HTML",
-      "stars": 1303,
-      "updatedAt": 1786250805000,
-      "topics": [
-        "creative-coding",
-        "generative-art",
-        "interactive-storytelling",
-        "japanese-design",
-        "threejs"
-      ],
-      "cover": "/covers/viral-mengto-kage.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~108★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-19T18:23:04.231Z",
-      "htmlUrl": "https://github.com/MengTo/kage"
-    },
-    {
-      "id": "viral-1339736623",
-      "name": "llm-rag-memory-ai-agents",
-      "owner": "turkiyeyapayzekaakademisi",
-      "description": "Trending open-source repository on GitHub.",
-      "language": "Python",
-      "stars": 116,
-      "updatedAt": 1787226716000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-turkiyeyapayzekaakademisi-llm-rag-memory-ai-agents.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~138★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-20T00:48:47.743Z",
-      "htmlUrl": "https://github.com/turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents"
+      "spottedAt": "2026-08-18T06:29:44.081Z",
+      "htmlUrl": "https://github.com/guillaumemeyer/watermarks-remover"
     },
     {
       "id": "viral-1326893710",
@@ -1173,6 +1153,95 @@
       "htmlUrl": "https://github.com/omdsh-dev/DSH-better-sidebar"
     },
     {
+      "id": "viral-1337955304",
+      "name": "sprix-sage-router",
+      "owner": "wang2122",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "language": "Python",
+      "stars": 1756,
+      "updatedAt": 1787301927000,
+      "topics": [
+        "a2a",
+        "agent-orchestration",
+        "agent-routing",
+        "ai-agents",
+        "multi-agent-systems"
+      ],
+      "cover": "/covers/viral-wang2122-sprix-sage-router.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~256★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-18T12:29:56.546Z",
+      "htmlUrl": "https://github.com/wang2122/sprix-sage-router"
+    },
+    {
+      "id": "viral-1336663851",
+      "name": "apex-inference-chip",
+      "owner": "SigmanticAI",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "language": "Python",
+      "stars": 685,
+      "updatedAt": 1787073033000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-sigmanticai-apex-inference-chip.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~100★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-18T18:26:22.064Z",
+      "htmlUrl": "https://github.com/SigmanticAI/apex-inference-chip"
+    },
+    {
+      "id": "viral-1335104760",
+      "name": "bloub",
+      "owner": "jeremy-prt",
+      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "language": "TypeScript",
+      "stars": 755,
+      "updatedAt": 1786994328000,
+      "topics": [
+        "animation",
+        "avatar",
+        "morphing",
+        "svg",
+        "svg-animation"
+      ],
+      "cover": "/covers/viral-jeremy-prt-bloub.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~119★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-19T00:49:23.553Z",
+      "htmlUrl": "https://github.com/jeremy-prt/bloub"
+    },
+    {
+      "id": "viral-1327502931",
+      "name": "kage",
+      "owner": "MengTo",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 1303,
+      "updatedAt": 1786250805000,
+      "topics": [
+        "creative-coding",
+        "generative-art",
+        "interactive-storytelling",
+        "japanese-design",
+        "threejs"
+      ],
+      "cover": "/covers/viral-mengto-kage.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~108★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-08-19T18:23:04.231Z",
+      "htmlUrl": "https://github.com/MengTo/kage"
+    },
+    {
       "id": "viral-1339040637",
       "name": "crucible",
       "owner": "pgnzbl-ux",
@@ -1196,27 +1265,27 @@
       "htmlUrl": "https://github.com/pgnzbl-ux/crucible"
     },
     {
-      "id": "viral-1331135699",
-      "name": "watermarks-remover",
-      "owner": "guillaumemeyer",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "id": "viral-1336487943",
+      "name": "macos-harness",
+      "owner": "browser-use",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "language": "Python",
-      "stars": 17839,
-      "updatedAt": 1787557013000,
+      "stars": 752,
+      "updatedAt": 1786985299000,
       "topics": [
-        "agent-skill",
-        "ai",
-        "anthropic",
-        "c2pa",
-        "chatgpt"
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use"
       ],
-      "cover": "/covers/viral-guillaumemeyer-watermarks-remover.webp",
+      "cover": "/covers/viral-browser-use-macos-harness.webp",
       "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~1364★/day). Pin it before your AI stack falls behind.",
+      "height": "medium",
+      "godMode": "Going viral (~94★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-18T06:29:44.081Z",
-      "htmlUrl": "https://github.com/guillaumemeyer/watermarks-remover"
+      "htmlUrl": "https://github.com/browser-use/macos-harness"
     },
     {
       "id": "viral-1335867536",
@@ -1234,9 +1303,9 @@
         "deepseek-harness"
       ],
       "cover": "/covers/viral-tiger3807861189-deepseek-v4-j-space-capability-realization-report.webp",
-      "sfx": "HOT!!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~125★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~121★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-17T00:50:33.981Z",
       "htmlUrl": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
@@ -1247,7 +1316,7 @@
       "owner": "dmmulroy",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "language": "TypeScript",
-      "stars": 3551,
+      "stars": 3587,
       "updatedAt": 1787059266000,
       "topics": [
         "agent-skills",
@@ -1256,80 +1325,12 @@
         "typescript"
       ],
       "cover": "/covers/viral-dmmulroy-anti-slop.webp",
-      "sfx": "FIRE!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~291★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~288★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-08-18T00:48:23.188Z",
       "htmlUrl": "https://github.com/dmmulroy/anti-slop"
-    },
-    {
-      "id": "viral-1337955304",
-      "name": "sprix-sage-router",
-      "owner": "wang2122",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "language": "Python",
-      "stars": 1755,
-      "updatedAt": 1787301927000,
-      "topics": [
-        "a2a",
-        "agent-orchestration",
-        "agent-routing",
-        "ai-agents",
-        "multi-agent-systems"
-      ],
-      "cover": "/covers/viral-wang2122-sprix-sage-router.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~266★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-18T12:29:56.546Z",
-      "htmlUrl": "https://github.com/wang2122/sprix-sage-router"
-    },
-    {
-      "id": "viral-1323511527",
-      "name": "human-writing",
-      "owner": "KKKKhazix",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "language": "Python",
-      "stars": 2848,
-      "updatedAt": 1786460865000,
-      "topics": [
-        "agent-skills",
-        "chinese-writing",
-        "creative-writing",
-        "writing-skill"
-      ],
-      "cover": "/covers/viral-kkkkhazix-human-writing.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~208★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-17T06:38:25.505Z",
-      "htmlUrl": "https://github.com/KKKKhazix/human-writing"
-    },
-    {
-      "id": "viral-1336487943",
-      "name": "macos-harness",
-      "owner": "browser-use",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "language": "Python",
-      "stars": 750,
-      "updatedAt": 1786985299000,
-      "topics": [
-        "accessibility",
-        "agent",
-        "automation",
-        "cdp",
-        "computer-use"
-      ],
-      "cover": "/covers/viral-browser-use-macos-harness.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~97★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-08-18T06:29:44.081Z",
-      "htmlUrl": "https://github.com/browser-use/macos-harness"
     }
   ]
 }

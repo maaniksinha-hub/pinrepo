@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T15:46:37.409Z",
+  "updatedAt": "2026-09-08T20:32:59.167Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -8,7 +8,7 @@
       "owner": "GangTailorUpgrade",
       "description": "Dress AI Sponsor",
       "language": "Python",
-      "stars": 1171,
+      "stars": 1180,
       "updatedAt": 1788881714000,
       "topics": [
         "18comic",
@@ -18,12 +18,32 @@
         "coomer-porn"
       ],
       "cover": "/covers/viral-gangtailorupgrade-undress-service.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~135★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~133★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-08T15:46:37.409Z",
       "htmlUrl": "https://github.com/GangTailorUpgrade/undress-service"
+    },
+    {
+      "id": "viral-1353548665",
+      "name": "commerce-agents",
+      "owner": "anthropics",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "language": "Python",
+      "stars": 2519,
+      "updatedAt": 1788295274000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-anthropics-commerce-agents.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~343★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-08T20:32:59.167Z",
+      "htmlUrl": "https://github.com/anthropics/commerce-agents"
     },
     {
       "id": "viral-1359610661",
@@ -31,7 +51,7 @@
       "owner": "EverettFish",
       "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and t",
       "language": "Python",
-      "stars": 1099,
+      "stars": 1115,
       "updatedAt": 1788872350000,
       "topics": [
         "trending",
@@ -40,7 +60,7 @@
       "cover": "/covers/viral-everettfish-holo-card-studio.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~675★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~610★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-07T11:13:50.712Z",
       "htmlUrl": "https://github.com/EverettFish/holo-card-studio"
@@ -49,18 +69,21 @@
       "id": "viral-1354059245",
       "name": "agent-memory",
       "owner": "tigerless-labs",
-      "description": "Trending open-source repository on GitHub.",
+      "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
       "language": "Python",
-      "stars": 612,
-      "updatedAt": 1788880372000,
+      "stars": 615,
+      "updatedAt": 1788896495000,
       "topics": [
-        "trending",
-        "github"
+        "agent-memory",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "llm"
       ],
       "cover": "/covers/viral-tigerless-labs-agent-memory.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~91★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~89★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-07T16:58:42.298Z",
       "htmlUrl": "https://github.com/tigerless-labs/agent-memory"
@@ -71,7 +94,7 @@
       "owner": "achimala",
       "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "language": "Unknown",
-      "stars": 347,
+      "stars": 365,
       "updatedAt": 1788797663000,
       "topics": [
         "trending",
@@ -80,30 +103,10 @@
       "cover": "/covers/viral-achimala-dream-loop.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~327★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~290★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-07T20:57:56.353Z",
       "htmlUrl": "https://github.com/achimala/dream-loop"
-    },
-    {
-      "id": "viral-1358346534",
-      "name": "codex-astra-luna-orchestrator",
-      "owner": "donvito",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "language": "Python",
-      "stars": 386,
-      "updatedAt": 1788767365000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-donvito-codex-astra-luna-orchestrator.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~129★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-08T10:23:00.135Z",
-      "htmlUrl": "https://github.com/donvito/codex-astra-luna-orchestrator"
     },
     {
       "id": "viral-1349507889",
@@ -111,7 +114,7 @@
       "owner": "Player-YN",
       "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
       "language": "JavaScript",
-      "stars": 1854,
+      "stars": 1981,
       "updatedAt": 1788274997000,
       "topics": [
         "ai-agent",
@@ -121,12 +124,32 @@
         "llm"
       ],
       "cover": "/covers/viral-player-yn-pawwork-zhuazhua.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~166★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~174★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-08T15:46:37.409Z",
       "htmlUrl": "https://github.com/Player-YN/PawWork_ZhuaZhua"
+    },
+    {
+      "id": "viral-1358346534",
+      "name": "codex-astra-luna-orchestrator",
+      "owner": "donvito",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "language": "Python",
+      "stars": 394,
+      "updatedAt": 1788767365000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-donvito-codex-astra-luna-orchestrator.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~124★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-08T10:23:00.135Z",
+      "htmlUrl": "https://github.com/donvito/codex-astra-luna-orchestrator"
     },
     {
       "id": "viral-1358733444",
@@ -134,16 +157,16 @@
       "owner": "kunchenguid",
       "description": "Think and build like a principal engineer. Leverage Kun's experience, knowledge, tools, workflows, and skills to help you get shit done.",
       "language": "Unknown",
-      "stars": 254,
+      "stars": 255,
       "updatedAt": 1788862789000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-kunchenguid-kun.webp",
-      "sfx": "BOOM!!",
+      "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~100★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~93★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-07T11:13:50.712Z",
       "htmlUrl": "https://github.com/kunchenguid/kun"
@@ -154,16 +177,16 @@
       "owner": "lfzk550",
       "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
       "language": "Unknown",
-      "stars": 262,
+      "stars": 284,
       "updatedAt": 1788770664000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-lfzk550-fanzha-ai-proxy.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~212★/day). Pin it before your AI stack falls behind.",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~198★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-08T02:25:25.571Z",
       "htmlUrl": "https://github.com/lfzk550/fanzha-ai-proxy"
@@ -174,8 +197,8 @@
       "owner": "OpenWAM-Official",
       "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
       "language": "Python",
-      "stars": 181,
-      "updatedAt": 1788866189000,
+      "stars": 185,
+      "updatedAt": 1788893904000,
       "topics": [
         "generalist-robot-policies",
         "pretraining",
@@ -191,24 +214,116 @@
       "htmlUrl": "https://github.com/OpenWAM-Official/OpenWAM"
     },
     {
+      "id": "viral-1360002825",
+      "name": "bankmcp",
+      "owner": "noskillish",
+      "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
+      "language": "TypeScript",
+      "stars": 160,
+      "updatedAt": 1788891861000,
+      "topics": [
+        "chatgpt",
+        "claude",
+        "enable-banking",
+        "mcp",
+        "mcp-server"
+      ],
+      "cover": "/covers/viral-noskillish-bankmcp.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~108★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-08T15:46:37.409Z",
+      "htmlUrl": "https://github.com/noskillish/bankmcp"
+    },
+    {
       "id": "viral-1355259034",
       "name": "fable-orchestrator",
       "owner": "codejunkie99",
       "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
       "language": "Shell",
-      "stars": 575,
+      "stars": 577,
       "updatedAt": 1788551423000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-codejunkie99-fable-orchestrator.webp",
-      "sfx": "HOT!!",
+      "sfx": "FIRE!",
       "height": "medium",
-      "godMode": "Going viral (~100★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~97★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-08T15:46:37.409Z",
       "htmlUrl": "https://github.com/codejunkie99/fable-orchestrator"
+    },
+    {
+      "id": "viral-1361617244",
+      "name": "glm-flash-multimodal-client",
+      "owner": "stratumworldnail",
+      "description": "GLM-5.3-Flash multimodal client for developers — test vision and text prompts locally.",
+      "language": "HTML",
+      "stars": 120,
+      "updatedAt": 1788883974000,
+      "topics": [
+        "ai-chat-interface",
+        "desktop-app",
+        "gui",
+        "local-llm-frontend",
+        "model-api-wrapper"
+      ],
+      "cover": "/covers/viral-stratumworldnail-glm-flash-multimodal-client.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~240★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-08T20:32:59.167Z",
+      "htmlUrl": "https://github.com/stratumworldnail/glm-flash-multimodal-client"
+    },
+    {
+      "id": "viral-1361617321",
+      "name": "gemini-pro-activator",
+      "owner": "mudbardmanor",
+      "description": "Lightweight API helper for developers working with Gemini 2.0 Pro — streamline prompt routing and response handling.",
+      "language": "HTML",
+      "stars": 119,
+      "updatedAt": 1788883993000,
+      "topics": [
+        "ai-configuration-utility",
+        "api-unlocker",
+        "desktop-app",
+        "google-gemini",
+        "gui"
+      ],
+      "cover": "/covers/viral-mudbardmanor-gemini-pro-activator.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~238★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-08T20:32:59.167Z",
+      "htmlUrl": "https://github.com/mudbardmanor/gemini-pro-activator"
+    },
+    {
+      "id": "viral-1361617284",
+      "name": "glm-flash-offline-client",
+      "owner": "SpinnerAppreciate",
+      "description": "Offline desktop client for GLM-5.3-Flash — run private, local chat sessions without a server connection.",
+      "language": "HTML",
+      "stars": 119,
+      "updatedAt": 1788883986000,
+      "topics": [
+        "chat-interface",
+        "desktop-app",
+        "desktop-client",
+        "gui",
+        "local-inference"
+      ],
+      "cover": "/covers/viral-spinnerappreciate-glm-flash-offline-client.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~238★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-08T20:32:59.167Z",
+      "htmlUrl": "https://github.com/SpinnerAppreciate/glm-flash-offline-client"
     },
     {
       "id": "viral-1359030593",
@@ -216,7 +331,7 @@
       "owner": "wz1119",
       "description": "A toolkit for exploring, gathering, crafting, and building in Minecraft with GPT-6 Astra computer use.",
       "language": "Python",
-      "stars": 142,
+      "stars": 143,
       "updatedAt": 1788817694000,
       "topics": [
         "trending",
@@ -231,27 +346,24 @@
       "htmlUrl": "https://github.com/wz1119/Codex-Minecraft-Gameplay"
     },
     {
-      "id": "viral-1360002825",
-      "name": "bankmcp",
-      "owner": "noskillish",
-      "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
-      "language": "TypeScript",
-      "stars": 136,
-      "updatedAt": 1788878439000,
+      "id": "viral-1359415787",
+      "name": "SuperAstra",
+      "owner": "ScottStevenson",
+      "description": "Change SNES games with AI while you play them.",
+      "language": "Python",
+      "stars": 212,
+      "updatedAt": 1788720111000,
       "topics": [
-        "chatgpt",
-        "claude",
-        "enable-banking",
-        "mcp",
-        "mcp-server"
+        "trending",
+        "github"
       ],
-      "cover": "/covers/viral-noskillish-bankmcp.webp",
-      "sfx": "BANG!",
+      "cover": "/covers/viral-scottstevenson-superastra.webp",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~106★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~102★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-09-08T15:46:37.409Z",
-      "htmlUrl": "https://github.com/noskillish/bankmcp"
+      "spottedAt": "2026-09-08T10:23:00.135Z",
+      "htmlUrl": "https://github.com/ScottStevenson/SuperAstra"
     },
     {
       "id": "viral-1359835005",
@@ -277,26 +389,6 @@
       "htmlUrl": "https://github.com/Albertchamberlain/Awesome-OKF"
     },
     {
-      "id": "viral-1359415787",
-      "name": "SuperAstra",
-      "owner": "ScottStevenson",
-      "description": "Change SNES games with AI while you play them.",
-      "language": "Python",
-      "stars": 183,
-      "updatedAt": 1788720111000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-scottstevenson-superastra.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~97★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-08T10:23:00.135Z",
-      "htmlUrl": "https://github.com/ScottStevenson/SuperAstra"
-    },
-    {
       "id": "viral-1360638874",
       "name": "CS2-Internal-Cheat-Research",
       "owner": "john-nlab1993p7",
@@ -318,6 +410,152 @@
       "viral": true,
       "spottedAt": "2026-09-08T15:46:37.409Z",
       "htmlUrl": "https://github.com/john-nlab1993p7/CS2-Internal-Cheat-Research"
+    },
+    {
+      "id": "viral-1359221896",
+      "name": "huashu-mac-use",
+      "owner": "alchaincyf",
+      "description": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
+      "language": "Swift",
+      "stars": 216,
+      "updatedAt": 1788838617000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-alchaincyf-huashu-mac-use.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~96★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-07T02:13:01.202Z",
+      "htmlUrl": "https://github.com/alchaincyf/huashu-mac-use"
+    },
+    {
+      "id": "viral-1359372462",
+      "name": "france-mcp-servers",
+      "owner": "bsab",
+      "description": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
+      "language": "Python",
+      "stars": 82,
+      "updatedAt": 1788866140000,
+      "topics": [
+        "france",
+        "mcp",
+        "mcp-servers",
+        "model-context-protocol",
+        "open-data"
+      ],
+      "cover": "/covers/viral-bsab-france-mcp-servers.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~81★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-07T16:58:42.298Z",
+      "htmlUrl": "https://github.com/bsab/france-mcp-servers"
+    },
+    {
+      "id": "viral-1348932500",
+      "name": "hexstellar",
+      "owner": "brayonpi",
+      "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python C",
+      "language": "Python",
+      "stars": 980,
+      "updatedAt": 1787864844000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-brayonpi-hexstellar.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~82★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-07T11:13:50.712Z",
+      "htmlUrl": "https://github.com/brayonpi/hexstellar"
+    },
+    {
+      "id": "viral-1360478567",
+      "name": ".github",
+      "owner": "Gta-V-Aimbot-gza",
+      "description": "Premium GTA V cheat with advanced features for maximum advantage.   Undetected, regularly updated, and optimized for the latest game version.   Includes aimbot, wallhack, radar, and many more useful tools.",
+      "language": "Unknown",
+      "stars": 77,
+      "updatedAt": 1788801193000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-gta-v-aimbot-gza-github.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~154★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-08T02:25:25.571Z",
+      "htmlUrl": "https://github.com/Gta-V-Aimbot-gza/.github"
+    },
+    {
+      "id": "viral-1358295353",
+      "name": "codenotch",
+      "owner": "vinzdg",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "stars": 1075,
+      "updatedAt": 1788862613000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-vinzdg-codenotch.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~332★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-05T19:46:19.897Z",
+      "htmlUrl": "https://github.com/vinzdg/codenotch"
+    },
+    {
+      "id": "viral-1358140812",
+      "name": "short-video-generator-AI",
+      "owner": "pierrenade",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "language": "Python",
+      "stars": 1212,
+      "updatedAt": 1788800914000,
+      "topics": [
+        "ai",
+        "ai-video",
+        "python",
+        "short-video-maker",
+        "video-generation"
+      ],
+      "cover": "/covers/viral-pierrenade-short-video-generator-ai.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~413★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-05T19:46:19.897Z",
+      "htmlUrl": "https://github.com/pierrenade/short-video-generator-AI"
+    },
+    {
+      "id": "viral-1344939825",
+      "name": "goldie",
+      "owner": "kacperkapusciak",
+      "description": "✨ agentic app store previews and screenshots",
+      "language": "TypeScript",
+      "stars": 1853,
+      "updatedAt": 1788357368000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-kacperkapusciak-goldie.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~139★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-06T02:15:48.143Z",
+      "htmlUrl": "https://github.com/kacperkapusciak/goldie"
     },
     {
       "id": "viral-1357791006",
@@ -364,109 +602,6 @@
       "viral": true,
       "spottedAt": "2026-09-06T19:50:05.270Z",
       "htmlUrl": "https://github.com/alvinunreal/awesome-submitlist"
-    },
-    {
-      "id": "viral-1348932500",
-      "name": "hexstellar",
-      "owner": "brayonpi",
-      "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python C",
-      "language": "Python",
-      "stars": 969,
-      "updatedAt": 1787864844000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-brayonpi-hexstellar.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~82★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-07T11:13:50.712Z",
-      "htmlUrl": "https://github.com/brayonpi/hexstellar"
-    },
-    {
-      "id": "viral-1359372462",
-      "name": "france-mcp-servers",
-      "owner": "bsab",
-      "description": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
-      "language": "Python",
-      "stars": 82,
-      "updatedAt": 1788866140000,
-      "topics": [
-        "france",
-        "mcp",
-        "mcp-servers",
-        "model-context-protocol",
-        "open-data"
-      ],
-      "cover": "/covers/viral-bsab-france-mcp-servers.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~81★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-07T16:58:42.298Z",
-      "htmlUrl": "https://github.com/bsab/france-mcp-servers"
-    },
-    {
-      "id": "viral-1360478567",
-      "name": ".github",
-      "owner": "Gta-V-Aimbot-gza",
-      "description": "Premium GTA V cheat with advanced features for maximum advantage.   Undetected, regularly updated, and optimized for the latest game version.   Includes aimbot, wallhack, radar, and many more useful tools.",
-      "language": "Unknown",
-      "stars": 77,
-      "updatedAt": 1788801193000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-gta-v-aimbot-gza-github.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~154★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-08T02:25:25.571Z",
-      "htmlUrl": "https://github.com/Gta-V-Aimbot-gza/.github"
-    },
-    {
-      "id": "viral-1344939825",
-      "name": "goldie",
-      "owner": "kacperkapusciak",
-      "description": "✨ agentic app store previews and screenshots",
-      "language": "TypeScript",
-      "stars": 1853,
-      "updatedAt": 1788357368000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-kacperkapusciak-goldie.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~139★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-06T02:15:48.143Z",
-      "htmlUrl": "https://github.com/kacperkapusciak/goldie"
-    },
-    {
-      "id": "viral-1359221896",
-      "name": "huashu-mac-use",
-      "owner": "alchaincyf",
-      "description": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
-      "language": "Swift",
-      "stars": 215,
-      "updatedAt": 1788838617000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-alchaincyf-huashu-mac-use.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~105★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-07T02:13:01.202Z",
-      "htmlUrl": "https://github.com/alchaincyf/huashu-mac-use"
     },
     {
       "id": "viral-1358168557",
@@ -604,69 +739,6 @@
       "htmlUrl": "https://github.com/RankSpotAI/awesome-geo-tools"
     },
     {
-      "id": "viral-1357272370",
-      "name": "wechat-intelligence-hub",
-      "owner": "Rion-Wu-tech",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "language": "Python",
-      "stars": 1924,
-      "updatedAt": 1788804618000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-rion-wu-tech-wechat-intelligence-hub.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~477★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-05T09:45:48.074Z",
-      "htmlUrl": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
-    },
-    {
-      "id": "viral-1358140812",
-      "name": "short-video-generator-AI",
-      "owner": "pierrenade",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "language": "Python",
-      "stars": 1212,
-      "updatedAt": 1788800914000,
-      "topics": [
-        "ai",
-        "ai-video",
-        "python",
-        "short-video-maker",
-        "video-generation"
-      ],
-      "cover": "/covers/viral-pierrenade-short-video-generator-ai.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~413★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-05T19:46:19.897Z",
-      "htmlUrl": "https://github.com/pierrenade/short-video-generator-AI"
-    },
-    {
-      "id": "viral-1358295353",
-      "name": "codenotch",
-      "owner": "vinzdg",
-      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-      "language": "Swift",
-      "stars": 1048,
-      "updatedAt": 1788862613000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-vinzdg-codenotch.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~345★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-05T19:46:19.897Z",
-      "htmlUrl": "https://github.com/vinzdg/codenotch"
-    },
-    {
       "id": "viral-1358878061",
       "name": "vmodal_sdk_robotics",
       "owner": "v-modal",
@@ -690,13 +762,33 @@
       "htmlUrl": "https://github.com/v-modal/vmodal_sdk_robotics"
     },
     {
+      "id": "viral-1357272370",
+      "name": "wechat-intelligence-hub",
+      "owner": "Rion-Wu-tech",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "language": "Python",
+      "stars": 1935,
+      "updatedAt": 1788804618000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-rion-wu-tech-wechat-intelligence-hub.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~457★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-05T09:45:48.074Z",
+      "htmlUrl": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
+    },
+    {
       "id": "viral-1351879111",
       "name": "reef",
       "owner": "Human-Agent-Society",
       "description": "Continual learning infra for self-improving agents",
       "language": "Python",
-      "stars": 767,
-      "updatedAt": 1788879258000,
+      "stars": 774,
+      "updatedAt": 1788896406000,
       "topics": [
         "agent-infrastructure",
         "ai-agents",
@@ -705,9 +797,9 @@
         "llm"
       ],
       "cover": "/covers/viral-human-agent-society-reef.webp",
-      "sfx": "BANG!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~89★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~88★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-04T15:32:50.688Z",
       "htmlUrl": "https://github.com/Human-Agent-Society/reef"
@@ -718,7 +810,7 @@
       "owner": "Ryze-AI-Adgent",
       "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free",
       "language": "Shell",
-      "stars": 650,
+      "stars": 658,
       "updatedAt": 1788821399000,
       "topics": [
         "ai-seo",
@@ -741,7 +833,7 @@
       "owner": "okf-memory",
       "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases",
       "language": "Go",
-      "stars": 486,
+      "stars": 489,
       "updatedAt": 1788864893000,
       "topics": [
         "agent-memory",
@@ -751,9 +843,9 @@
         "developer-tools"
       ],
       "cover": "/covers/viral-okf-memory-okf-agent-memory.webp",
-      "sfx": "FIRE!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~176★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~165★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-06T02:15:48.143Z",
       "htmlUrl": "https://github.com/okf-memory/okf-agent-memory"
@@ -764,7 +856,7 @@
       "owner": "cbrock84",
       "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
       "language": "Markdown",
-      "stars": 1322,
+      "stars": 1324,
       "updatedAt": 1788404073000,
       "topics": [
         "agent-marketplace",
@@ -774,9 +866,9 @@
         "claude-skills"
       ],
       "cover": "/covers/viral-cbrock84-headcount.webp",
-      "sfx": "BOOM!!",
+      "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~121★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~119★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-05T09:45:48.074Z",
       "htmlUrl": "https://github.com/cbrock84/headcount"
@@ -850,7 +942,7 @@
       "owner": "Nanako0129",
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules ",
       "language": "Python",
-      "stars": 2448,
+      "stars": 2453,
       "updatedAt": 1788852023000,
       "topics": [
         "agent-skills",
@@ -860,9 +952,9 @@
         "codex"
       ],
       "cover": "/covers/viral-nanako0129-sepia.webp",
-      "sfx": "BOOM!!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~215★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~211★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-03T10:29:24.048Z",
       "htmlUrl": "https://github.com/Nanako0129/sepia"
@@ -873,16 +965,16 @@
       "owner": "Albert-Weasker",
       "description": "Open-source AI brand visibility and competitor reports",
       "language": "TypeScript",
-      "stars": 1707,
+      "stars": 2161,
       "updatedAt": 1788870825000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-albert-weasker-niubigeo.webp",
-      "sfx": "BANG!",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~342★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~416★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-03T20:21:30.004Z",
       "htmlUrl": "https://github.com/Albert-Weasker/niubigeo"
@@ -893,7 +985,7 @@
       "owner": "XiaoDuoYa",
       "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "language": "TypeScript",
-      "stars": 3072,
+      "stars": 3246,
       "updatedAt": 1788518778000,
       "topics": [
         "ai-agents",
@@ -905,7 +997,7 @@
       "cover": "/covers/viral-xiaoduoya-codex-with-chatgpt.webp",
       "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~276★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~287★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-04T02:22:19.103Z",
       "htmlUrl": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
@@ -926,9 +1018,9 @@
         "prediction-market"
       ],
       "cover": "/covers/viral-nahrek-polyledger.webp",
-      "sfx": "RISE!!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~105★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~101★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-03T20:21:30.004Z",
       "htmlUrl": "https://github.com/nahrek/polyledger"
@@ -992,9 +1084,9 @@
         "openstreetmap"
       ],
       "cover": "/covers/viral-philolabs-fable51-worlds.webp",
-      "sfx": "RISE!!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~80★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~77★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-03T02:24:12.162Z",
       "htmlUrl": "https://github.com/PhiloLabs/fable51-worlds"
@@ -1025,7 +1117,7 @@
       "owner": "op7418",
       "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
       "language": "Python",
-      "stars": 384,
+      "stars": 387,
       "updatedAt": 1788429073000,
       "topics": [
         "agent-skill",
@@ -1204,7 +1296,7 @@
       "owner": "shadcn-ui",
       "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
       "language": "TypeScript",
-      "stars": 1305,
+      "stars": 1314,
       "updatedAt": 1788772083000,
       "topics": [
         "clsx",
@@ -1214,104 +1306,12 @@
         "tailwindcss"
       ],
       "cover": "/covers/viral-shadcn-ui-cn.webp",
-      "sfx": "BANG!",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~156★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~153★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-02T20:21:34.462Z",
       "htmlUrl": "https://github.com/shadcn-ui/cn"
-    },
-    {
-      "id": "viral-1354991682",
-      "name": "awesome-ai-agent-platforms",
-      "owner": "Agenta-AI",
-      "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-      "language": "Astro",
-      "stars": 264,
-      "updatedAt": 1788452243000,
-      "topics": [
-        "agent-frameworks",
-        "ai-agent-platforms",
-        "ai-agents",
-        "ai-coworker",
-        "awesome"
-      ],
-      "cover": "/covers/viral-agenta-ai-awesome-ai-agent-platforms.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~86★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-03T20:21:30.004Z",
-      "htmlUrl": "https://github.com/Agenta-AI/awesome-ai-agent-platforms"
-    },
-    {
-      "id": "viral-1351859098",
-      "name": "reverify",
-      "owner": "2akouwu",
-      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. ",
-      "language": "Python",
-      "stars": 1034,
-      "updatedAt": 1788775927000,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-coding",
-        "anti-hallucination",
-        "binary-analysis"
-      ],
-      "cover": "/covers/viral-2akouwu-reverify.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~120★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-02T15:44:43.961Z",
-      "htmlUrl": "https://github.com/2akouwu/reverify"
-    },
-    {
-      "id": "viral-1348084390",
-      "name": "prod-FARM-IOS-Core",
-      "owner": "Git-Agni",
-      "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
-      "language": "TypeScript",
-      "stars": 911,
-      "updatedAt": 1788778241000,
-      "topics": [
-        "appium",
-        "device-farm",
-        "ios-automation",
-        "marketing-automation",
-        "phone-farm"
-      ],
-      "cover": "/covers/viral-git-agni-prod-farm-ios-core.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~76★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-01T15:52:01.523Z",
-      "htmlUrl": "https://github.com/Git-Agni/prod-FARM-IOS-Core"
-    },
-    {
-      "id": "viral-1349354292",
-      "name": "metamask-desktop",
-      "owner": "MetaMask-AI",
-      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-      "language": "CSS",
-      "stars": 1230,
-      "updatedAt": 1788720347000,
-      "topics": [
-        "bitcoin",
-        "bitcoin-wallet",
-        "crypto",
-        "cryptocoins",
-        "cryptocompare-api"
-      ],
-      "cover": "/covers/viral-metamask-ai-metamask-desktop.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~109★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-02T15:44:43.961Z",
-      "htmlUrl": "https://github.com/MetaMask-AI/metamask-desktop"
     }
   ]
 }

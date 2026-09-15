@@ -1,7 +1,53 @@
 {
-  "updatedAt": "2026-09-15T02:48:15.471Z",
+  "updatedAt": "2026-09-15T10:47:23.615Z",
   "source": "github-search-velocity",
   "repos": [
+    {
+      "id": "viral-1354701193",
+      "name": "lint",
+      "owner": "shadcn-ui",
+      "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
+      "language": "TypeScript",
+      "stars": 1357,
+      "updatedAt": 1789387778000,
+      "topics": [
+        "agents",
+        "ai",
+        "design",
+        "design-system",
+        "design-tools"
+      ],
+      "cover": "/covers/viral-shadcn-ui-lint.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~105★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-15T10:47:23.615Z",
+      "htmlUrl": "https://github.com/shadcn-ui/lint"
+    },
+    {
+      "id": "viral-1369799711",
+      "name": "flybrain-robot-bridge",
+      "owner": "Frankweb33",
+      "description": "Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, IMU feedback and UDP motor control. MaleCNS integration planned.",
+      "language": "Python",
+      "stars": 89,
+      "updatedAt": 1789419338000,
+      "topics": [
+        "biomimetic-robotics",
+        "brain-simulation",
+        "computer-vision",
+        "connectome",
+        "drosophila"
+      ],
+      "cover": "/covers/viral-frankweb33-flybrain-robot-bridge.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~91★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-15T02:48:15.471Z",
+      "htmlUrl": "https://github.com/Frankweb33/flybrain-robot-bridge"
+    },
     {
       "id": "viral-1354059245",
       "name": "agent-memory",
@@ -31,14 +77,14 @@
       "owner": "jtydhr88",
       "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
       "language": "Python",
-      "stars": 1085,
+      "stars": 1123,
       "updatedAt": 1789433010000,
       "topics": [
         "ai",
         "skills"
       ],
       "cover": "/covers/viral-jtydhr88-screenwriting-skills.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "RISE!!",
       "height": "medium",
       "godMode": "Going viral (~126★/day). Pin it before your AI stack falls behind.",
       "viral": true,
@@ -51,7 +97,7 @@
       "owner": "perseval-BLR",
       "description": "DLSS 5 Neural Rendering on your whole Windows desktop, in real time. RTX 30/40/50, 12 languages, user presets, recording with audio, one-window mode.",
       "language": "Python",
-      "stars": 743,
+      "stars": 760,
       "updatedAt": 1789421066000,
       "topics": [
         "ai-upscaling",
@@ -74,7 +120,7 @@
       "owner": "Jarvis322",
       "description": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.",
       "language": "Swift",
-      "stars": 722,
+      "stars": 730,
       "updatedAt": 1789320739000,
       "topics": [
         "cache-cleaner",
@@ -97,8 +143,8 @@
       "owner": "nilbuild",
       "description": "A mascot that watches the cursor and blinks when you poke it",
       "language": "Python",
-      "stars": 274,
-      "updatedAt": 1789381618000,
+      "stars": 417,
+      "updatedAt": 1789466864000,
       "topics": [
         "trending",
         "github"
@@ -106,113 +152,10 @@
       "cover": "/covers/viral-nilbuild-page-mascot.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~331★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~359★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-14T17:21:21.804Z",
       "htmlUrl": "https://github.com/nilbuild/page-mascot"
-    },
-    {
-      "id": "viral-1359610661",
-      "name": "holo-card-studio",
-      "owner": "EverettFish",
-      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and t",
-      "language": "Python",
-      "stars": 1527,
-      "updatedAt": 1789188998000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-everettfish-holo-card-studio.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~189★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-13T15:24:39.357Z",
-      "htmlUrl": "https://github.com/EverettFish/holo-card-studio"
-    },
-    {
-      "id": "viral-1368770307",
-      "name": "GPT-as-Policy",
-      "owner": "anonymous-report-421",
-      "description": "GPT as Policy",
-      "language": "HTML",
-      "stars": 246,
-      "updatedAt": 1789439232000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-anonymous-report-421-gpt-as-policy.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~186★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-14T11:23:39.691Z",
-      "htmlUrl": "https://github.com/anonymous-report-421/GPT-as-Policy"
-    },
-    {
-      "id": "viral-1360317501",
-      "name": "dream-loop",
-      "owner": "achimala",
-      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-      "language": "JavaScript",
-      "stars": 999,
-      "updatedAt": 1788993818000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-achimala-dream-loop.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~133★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-14T11:23:39.691Z",
-      "htmlUrl": "https://github.com/achimala/dream-loop"
-    },
-    {
-      "id": "viral-1369710615",
-      "name": "ToolReplay",
-      "owner": "Matthew0822",
-      "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
-      "language": "Python",
-      "stars": 171,
-      "updatedAt": 1789387748000,
-      "topics": [
-        "ai-agents",
-        "audit",
-        "cli",
-        "determinism",
-        "hash-chain"
-      ],
-      "cover": "/covers/viral-matthew0822-toolreplay.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-14T17:21:21.804Z",
-      "htmlUrl": "https://github.com/Matthew0822/ToolReplay"
-    },
-    {
-      "id": "viral-1369254248",
-      "name": "ai-sucks-butt",
-      "owner": "ai-sucks-butt",
-      "description": "If you think AI sucks, star the repo.",
-      "language": "Unknown",
-      "stars": 136,
-      "updatedAt": 1789359381000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-ai-sucks-butt-ai-sucks-butt.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~143★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-14T11:23:39.691Z",
-      "htmlUrl": "https://github.com/ai-sucks-butt/ai-sucks-butt"
     },
     {
       "id": "viral-1367577373",
@@ -220,42 +163,19 @@
       "owner": "agentverse-os",
       "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a stor",
       "language": "Rust",
-      "stars": 285,
+      "stars": 462,
       "updatedAt": 1789240677000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-agentverse-os-agentverse-os.webp",
-      "sfx": "RISE!!",
+      "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~121★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~172★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-14T21:15:02.739Z",
       "htmlUrl": "https://github.com/agentverse-os/AgentVerse-OS"
-    },
-    {
-      "id": "viral-1354611198",
-      "name": "unigit-ecosystem",
-      "owner": "adtexterry-lgtm",
-      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "language": "JavaScript",
-      "stars": 1133,
-      "updatedAt": 1788353477000,
-      "topics": [
-        "agentic-ai",
-        "ai-tools",
-        "ai-workbench",
-        "ecosystem",
-        "mcp"
-      ],
-      "cover": "/covers/viral-adtexterry-lgtm-unigit-ecosystem.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~89★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-15T02:48:15.471Z",
-      "htmlUrl": "https://github.com/adtexterry-lgtm/unigit-ecosystem"
     },
     {
       "id": "viral-1369651193",
@@ -281,47 +201,193 @@
       "htmlUrl": "https://github.com/bsab/sweden-mcp-servers"
     },
     {
-      "id": "viral-1369799711",
-      "name": "flybrain-robot-bridge",
-      "owner": "Frankweb33",
-      "description": "Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, IMU feedback and UDP motor control. MaleCNS integration planned.",
+      "id": "viral-1359610661",
+      "name": "holo-card-studio",
+      "owner": "EverettFish",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and t",
       "language": "Python",
-      "stars": 60,
-      "updatedAt": 1789419338000,
-      "topics": [
-        "biomimetic-robotics",
-        "brain-simulation",
-        "computer-vision",
-        "connectome",
-        "drosophila"
-      ],
-      "cover": "/covers/viral-frankweb33-flybrain-robot-bridge.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~93★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-15T02:48:15.471Z",
-      "htmlUrl": "https://github.com/Frankweb33/flybrain-robot-bridge"
-    },
-    {
-      "id": "viral-1367606050",
-      "name": "recurrent-looped-tranformer",
-      "owner": "yifanzhang-pro",
-      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
-      "language": "HTML",
-      "stars": 755,
-      "updatedAt": 1789332411000,
+      "stars": 1538,
+      "updatedAt": 1789188998000,
       "topics": [
         "trending",
         "github"
       ],
-      "cover": "/covers/viral-yifanzhang-pro-recurrent-looped-tranformer.webp",
+      "cover": "/covers/viral-everettfish-holo-card-studio.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~183★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-13T15:24:39.357Z",
+      "htmlUrl": "https://github.com/EverettFish/holo-card-studio"
+    },
+    {
+      "id": "viral-1369254248",
+      "name": "ai-sucks-butt",
+      "owner": "ai-sucks-butt",
+      "description": "If you think AI sucks, star the repo.",
+      "language": "Unknown",
+      "stars": 440,
+      "updatedAt": 1789359381000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-ai-sucks-butt-ai-sucks-butt.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~325★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~343★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-09-13T02:28:47.385Z",
-      "htmlUrl": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+      "spottedAt": "2026-09-14T11:23:39.691Z",
+      "htmlUrl": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+    },
+    {
+      "id": "viral-1368770307",
+      "name": "GPT-as-Policy",
+      "owner": "anonymous-report-421",
+      "description": "GPT as Policy",
+      "language": "HTML",
+      "stars": 299,
+      "updatedAt": 1789459028000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-anonymous-report-421-gpt-as-policy.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~181★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-14T11:23:39.691Z",
+      "htmlUrl": "https://github.com/anonymous-report-421/GPT-as-Policy"
+    },
+    {
+      "id": "viral-1360317501",
+      "name": "dream-loop",
+      "owner": "achimala",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "language": "JavaScript",
+      "stars": 1078,
+      "updatedAt": 1788993818000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-achimala-dream-loop.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~137★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-14T11:23:39.691Z",
+      "htmlUrl": "https://github.com/achimala/dream-loop"
+    },
+    {
+      "id": "viral-1367068508",
+      "name": "llm-master",
+      "owner": "youngyangyang04",
+      "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+      "language": "Unknown",
+      "stars": 389,
+      "updatedAt": 1789288328000,
+      "topics": [
+        "agent",
+        "large-language-models",
+        "llm",
+        "llm-learning",
+        "llm-tutorial"
+      ],
+      "cover": "/covers/viral-youngyangyang04-llm-master.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~124★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-15T10:47:23.615Z",
+      "htmlUrl": "https://github.com/youngyangyang04/llm-master"
+    },
+    {
+      "id": "viral-1369710615",
+      "name": "ToolReplay",
+      "owner": "Matthew0822",
+      "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+      "language": "Python",
+      "stars": 171,
+      "updatedAt": 1789387748000,
+      "topics": [
+        "ai-agents",
+        "audit",
+        "cli",
+        "determinism",
+        "hash-chain"
+      ],
+      "cover": "/covers/viral-matthew0822-toolreplay.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~164★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-14T17:21:21.804Z",
+      "htmlUrl": "https://github.com/Matthew0822/ToolReplay"
+    },
+    {
+      "id": "viral-1369653850",
+      "name": "airlift",
+      "owner": "0xjohnnydev",
+      "description": "AirLift — paired-Mac AirTraffic/ATAirlock sandbox escape for iOS 27.0",
+      "language": "Objective-C",
+      "stars": 100,
+      "updatedAt": 1789440274000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-0xjohnnydev-airlift.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~95★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-15T10:47:23.615Z",
+      "htmlUrl": "https://github.com/0xjohnnydev/airlift"
+    },
+    {
+      "id": "viral-1354611198",
+      "name": "unigit-ecosystem",
+      "owner": "adtexterry-lgtm",
+      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+      "language": "JavaScript",
+      "stars": 1135,
+      "updatedAt": 1788353477000,
+      "topics": [
+        "agentic-ai",
+        "ai-tools",
+        "ai-workbench",
+        "ecosystem",
+        "mcp"
+      ],
+      "cover": "/covers/viral-adtexterry-lgtm-unigit-ecosystem.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~89★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-15T02:48:15.471Z",
+      "htmlUrl": "https://github.com/adtexterry-lgtm/unigit-ecosystem"
+    },
+    {
+      "id": "viral-1370727152",
+      "name": "flm",
+      "owner": "FLModel",
+      "description": "Train and chat with a frozen language model coupled to the full retained MaleCNS fly connectome.",
+      "language": "Unknown",
+      "stars": 68,
+      "updatedAt": 1789163486000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-flmodel-flm.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~136★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-15T10:47:23.615Z",
+      "htmlUrl": "https://github.com/FLModel/flm"
     },
     {
       "id": "viral-1367271141",
@@ -329,7 +395,7 @@
       "owner": "zjwzcx",
       "description": "GPT-6 Astra for embodied AI and robotics.",
       "language": "Unknown",
-      "stars": 577,
+      "stars": 641,
       "updatedAt": 1789366368000,
       "topics": [
         "trending",
@@ -338,33 +404,10 @@
       "cover": "/covers/viral-zjwzcx-awesome-astra-embodied-ai.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~222★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~218★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-13T10:52:54.096Z",
       "htmlUrl": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
-    },
-    {
-      "id": "viral-1367091450",
-      "name": "awesome-fly",
-      "owner": "cobanov",
-      "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
-      "language": "Unknown",
-      "stars": 252,
-      "updatedAt": 1789383003000,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "brain-simulation",
-        "computational-neuroscience",
-        "connectome"
-      ],
-      "cover": "/covers/viral-cobanov-awesome-fly.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~91★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-13T10:52:54.096Z",
-      "htmlUrl": "https://github.com/cobanov/awesome-fly"
     },
     {
       "id": "viral-1369090118",
@@ -390,13 +433,142 @@
       "htmlUrl": "https://github.com/mapmoverexcite/Nexora"
     },
     {
+      "id": "viral-1363950922",
+      "name": "rune",
+      "owner": "unstablebuild",
+      "description": "the development environment for pros",
+      "language": "Go",
+      "stars": 552,
+      "updatedAt": 1789467806000,
+      "topics": [
+        "agent-orchestration",
+        "ai",
+        "cli",
+        "coding-agents",
+        "developer-tool"
+      ],
+      "cover": "/covers/viral-unstablebuild-rune.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-12T02:29:57.906Z",
+      "htmlUrl": "https://github.com/unstablebuild/rune"
+    },
+    {
+      "id": "viral-1358571386",
+      "name": "okf-agent-memory",
+      "owner": "okf-memory",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases",
+      "language": "Go",
+      "stars": 654,
+      "updatedAt": 1789353621000,
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "bm25",
+        "coding-agents",
+        "developer-tools"
+      ],
+      "cover": "/covers/viral-okf-memory-okf-agent-memory.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~86★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-12T09:53:20.923Z",
+      "htmlUrl": "https://github.com/okf-memory/okf-agent-memory"
+    },
+    {
+      "id": "viral-1367606050",
+      "name": "recurrent-looped-tranformer",
+      "owner": "yifanzhang-pro",
+      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "language": "HTML",
+      "stars": 771,
+      "updatedAt": 1789332411000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-yifanzhang-pro-recurrent-looped-tranformer.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~290★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-13T02:28:47.385Z",
+      "htmlUrl": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "id": "viral-1367091450",
+      "name": "awesome-fly",
+      "owner": "cobanov",
+      "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
+      "language": "Unknown",
+      "stars": 276,
+      "updatedAt": 1789383003000,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "brain-simulation",
+        "computational-neuroscience",
+        "connectome"
+      ],
+      "cover": "/covers/viral-cobanov-awesome-fly.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~91★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-13T10:52:54.096Z",
+      "htmlUrl": "https://github.com/cobanov/awesome-fly"
+    },
+    {
+      "id": "viral-1354887280",
+      "name": "SoL-Pi",
+      "owner": "NVlabs",
+      "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
+      "language": "TypeScript",
+      "stars": 1991,
+      "updatedAt": 1789468125000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-nvlabs-sol-pi.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~155★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-12T02:29:57.906Z",
+      "htmlUrl": "https://github.com/NVlabs/SoL-Pi"
+    },
+    {
+      "id": "viral-1367501425",
+      "name": "viserys-agent",
+      "owner": "rizqinrr",
+      "description": "Trending open-source repository on GitHub.",
+      "language": "JavaScript",
+      "stars": 651,
+      "updatedAt": 1789270995000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-rizqinrr-viserys-agent.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~237★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-13T02:28:47.385Z",
+      "htmlUrl": "https://github.com/rizqinrr/viserys-agent"
+    },
+    {
       "id": "viral-1367044972",
       "name": "birdview",
       "owner": "Qiuner",
       "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
       "language": "JavaScript",
-      "stars": 260,
-      "updatedAt": 1789296822000,
+      "stars": 276,
+      "updatedAt": 1789443172000,
       "topics": [
         "agent-tools",
         "ai-workflow",
@@ -436,47 +608,24 @@
       "htmlUrl": "https://github.com/ivyfan-toowell/IvyClaw"
     },
     {
-      "id": "viral-1354887280",
-      "name": "SoL-Pi",
-      "owner": "NVlabs",
-      "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
-      "language": "TypeScript",
-      "stars": 1920,
-      "updatedAt": 1789439783000,
+      "id": "viral-1358295353",
+      "name": "codenotch",
+      "owner": "vinzdg",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "stars": 1602,
+      "updatedAt": 1789441721000,
       "topics": [
         "trending",
         "github"
       ],
-      "cover": "/covers/viral-nvlabs-sol-pi.webp",
+      "cover": "/covers/viral-vinzdg-codenotch.webp",
       "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~154★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~163★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-09-12T02:29:57.906Z",
-      "htmlUrl": "https://github.com/NVlabs/SoL-Pi"
-    },
-    {
-      "id": "viral-1358571386",
-      "name": "okf-agent-memory",
-      "owner": "okf-memory",
-      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases",
-      "language": "Go",
-      "stars": 647,
-      "updatedAt": 1789353621000,
-      "topics": [
-        "agent-memory",
-        "ai-agents",
-        "bm25",
-        "coding-agents",
-        "developer-tools"
-      ],
-      "cover": "/covers/viral-okf-memory-okf-agent-memory.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~86★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-12T09:53:20.923Z",
-      "htmlUrl": "https://github.com/okf-memory/okf-agent-memory"
+      "spottedAt": "2026-09-11T15:38:45.452Z",
+      "htmlUrl": "https://github.com/vinzdg/codenotch"
     },
     {
       "id": "viral-1365350772",
@@ -484,7 +633,7 @@
       "owner": "eternityspring",
       "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
       "language": "HTML",
-      "stars": 677,
+      "stars": 690,
       "updatedAt": 1789347069000,
       "topics": [
         "ai-video",
@@ -494,55 +643,12 @@
         "video-analysis"
       ],
       "cover": "/covers/viral-eternityspring-reelbench-skills.webp",
-      "sfx": "BANG!",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~173★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~163★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-11T15:38:45.452Z",
       "htmlUrl": "https://github.com/eternityspring/reelbench-skills"
-    },
-    {
-      "id": "viral-1363950922",
-      "name": "rune",
-      "owner": "unstablebuild",
-      "description": "the development environment for pros",
-      "language": "Go",
-      "stars": 530,
-      "updatedAt": 1789422515000,
-      "topics": [
-        "agent-orchestration",
-        "ai",
-        "cli",
-        "coding-agents",
-        "developer-tool"
-      ],
-      "cover": "/covers/viral-unstablebuild-rune.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~114★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-12T02:29:57.906Z",
-      "htmlUrl": "https://github.com/unstablebuild/rune"
-    },
-    {
-      "id": "viral-1367501425",
-      "name": "viserys-agent",
-      "owner": "rizqinrr",
-      "description": "Trending open-source repository on GitHub.",
-      "language": "JavaScript",
-      "stars": 648,
-      "updatedAt": 1789270995000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-rizqinrr-viserys-agent.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~268★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-13T02:28:47.385Z",
-      "htmlUrl": "https://github.com/rizqinrr/viserys-agent"
     },
     {
       "id": "viral-1366546611",
@@ -550,7 +656,7 @@
       "owner": "kruzovic7",
       "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
       "language": "Python",
-      "stars": 812,
+      "stars": 813,
       "updatedAt": 1789150856000,
       "topics": [
         "ai",
@@ -561,7 +667,7 @@
       "cover": "/covers/viral-kruzovic7-ai-data-extractor.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~242★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~220★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-12T09:53:20.923Z",
       "htmlUrl": "https://github.com/kruzovic7/ai-data-extractor"
@@ -633,84 +739,21 @@
       "htmlUrl": "https://github.com/timesocialcover/universal-aimbot-esp"
     },
     {
-      "id": "viral-1358295353",
-      "name": "codenotch",
-      "owner": "vinzdg",
-      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-      "language": "Swift",
-      "stars": 1591,
-      "updatedAt": 1789362892000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-vinzdg-codenotch.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~168★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-11T15:38:45.452Z",
-      "htmlUrl": "https://github.com/vinzdg/codenotch"
-    },
-    {
-      "id": "viral-1351879111",
-      "name": "reef",
-      "owner": "Human-Agent-Society",
-      "description": "Continual learning infra for self-improving agents",
-      "language": "Python",
-      "stars": 1197,
-      "updatedAt": 1789329746000,
-      "topics": [
-        "agent-infrastructure",
-        "ai-agents",
-        "continual-learning",
-        "inference",
-        "llm"
-      ],
-      "cover": "/covers/viral-human-agent-society-reef.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~87★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-10T20:17:21.158Z",
-      "htmlUrl": "https://github.com/Human-Agent-Society/reef"
-    },
-    {
-      "id": "viral-1357272370",
-      "name": "wechat-intelligence-hub",
-      "owner": "Rion-Wu-tech",
-      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "language": "Python",
-      "stars": 2226,
-      "updatedAt": 1789152291000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-rion-wu-tech-wechat-intelligence-hub.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~212★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-10T20:17:21.158Z",
-      "htmlUrl": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
-    },
-    {
       "id": "viral-1363438862",
       "name": "stonkfly",
       "owner": "nftechie",
       "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
       "language": "Python",
-      "stars": 654,
+      "stars": 666,
       "updatedAt": 1789008034000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-nftechie-stonkfly.webp",
-      "sfx": "BANG!",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~131★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~125★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-10T20:17:21.158Z",
       "htmlUrl": "https://github.com/nftechie/stonkfly"
@@ -781,19 +824,42 @@
       "owner": "Albert-Weasker",
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "language": "TypeScript",
-      "stars": 2415,
+      "stars": 2417,
       "updatedAt": 1789389202000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-albert-weasker-niubigeo.webp",
-      "sfx": "BOOM!!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~211★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~205★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-10T10:21:26.430Z",
       "htmlUrl": "https://github.com/Albert-Weasker/niubigeo"
+    },
+    {
+      "id": "viral-1351879111",
+      "name": "reef",
+      "owner": "Human-Agent-Society",
+      "description": "Continual learning infra for self-improving agents",
+      "language": "Python",
+      "stars": 1197,
+      "updatedAt": 1789329746000,
+      "topics": [
+        "agent-infrastructure",
+        "ai-agents",
+        "continual-learning",
+        "inference",
+        "llm"
+      ],
+      "cover": "/covers/viral-human-agent-society-reef.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~87★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-10T20:17:21.158Z",
+      "htmlUrl": "https://github.com/Human-Agent-Society/reef"
     },
     {
       "id": "viral-1349601607",
@@ -817,6 +883,26 @@
       "viral": true,
       "spottedAt": "2026-09-10T15:37:08.716Z",
       "htmlUrl": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "id": "viral-1357272370",
+      "name": "wechat-intelligence-hub",
+      "owner": "Rion-Wu-tech",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "language": "Python",
+      "stars": 2289,
+      "updatedAt": 1789152291000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-rion-wu-tech-wechat-intelligence-hub.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~211★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-10T20:17:21.158Z",
+      "htmlUrl": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
     },
     {
       "id": "viral-1357892406",
@@ -867,7 +953,7 @@
       "owner": "Vincentwei1021",
       "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; e",
       "language": "TypeScript",
-      "stars": 1329,
+      "stars": 1380,
       "updatedAt": 1789269786000,
       "topics": [
         "agent-skills",
@@ -877,9 +963,9 @@
         "claude-code-skill"
       ],
       "cover": "/covers/viral-vincentwei1021-anything2explainer.webp",
-      "sfx": "HOT!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~208★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~205★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-10T02:27:42.448Z",
       "htmlUrl": "https://github.com/Vincentwei1021/anything2explainer"
@@ -890,7 +976,7 @@
       "owner": "mizzlelover",
       "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
       "language": "JavaScript",
-      "stars": 607,
+      "stars": 620,
       "updatedAt": 1789258366000,
       "topics": [
         "ai-skill",
@@ -900,9 +986,9 @@
         "cross-platform"
       ],
       "cover": "/covers/viral-mizzlelover-gongwen-gbt9704-skill.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~107★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~103★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-10T10:21:26.430Z",
       "htmlUrl": "https://github.com/mizzlelover/gongwen-gbt9704-skill"
@@ -923,250 +1009,12 @@
         "token-usage"
       ],
       "cover": "/covers/viral-crwdla-tokentab.webp",
-      "sfx": "BOOM!!",
+      "sfx": "FIRE!",
       "height": "medium",
-      "godMode": "Going viral (~153★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~147★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-11T02:22:19.341Z",
       "htmlUrl": "https://github.com/crwdla/tokentab"
-    },
-    {
-      "id": "viral-1361565387",
-      "name": "text-humanizer",
-      "owner": "SpaceDudem",
-      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
-      "language": "Python",
-      "stars": 748,
-      "updatedAt": 1788881827000,
-      "topics": [
-        "ai-humanizer",
-        "gpt-zero",
-        "text-humanizer"
-      ],
-      "cover": "/covers/viral-spacedudem-text-humanizer.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~116★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-10T15:37:08.716Z",
-      "htmlUrl": "https://github.com/SpaceDudem/text-humanizer"
-    },
-    {
-      "id": "viral-1349898907",
-      "name": "headcount",
-      "owner": "cbrock84",
-      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-      "language": "Markdown",
-      "stars": 1350,
-      "updatedAt": 1788404073000,
-      "topics": [
-        "agent-marketplace",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-plugin",
-        "claude-skills"
-      ],
-      "cover": "/covers/viral-cbrock84-headcount.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~103★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-10T15:37:08.716Z",
-      "htmlUrl": "https://github.com/cbrock84/headcount"
-    },
-    {
-      "id": "viral-1363417187",
-      "name": "printfilm",
-      "owner": "yi1108",
-      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
-      "language": "Python",
-      "stars": 403,
-      "updatedAt": 1789006716000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-yi1108-printfilm.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~90★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-10T10:21:26.430Z",
-      "htmlUrl": "https://github.com/yi1108/printfilm"
-    },
-    {
-      "id": "viral-1363399964",
-      "name": "3dviz-pro-max",
-      "owner": "viettranx",
-      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
-      "language": "JavaScript",
-      "stars": 287,
-      "updatedAt": 1789088472000,
-      "topics": [
-        "3d",
-        "agent-skill",
-        "blender",
-        "claude-code",
-        "codex"
-      ],
-      "cover": "/covers/viral-viettranx-3dviz-pro-max.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~88★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-10T10:21:26.430Z",
-      "htmlUrl": "https://github.com/viettranx/3dviz-pro-max"
-    },
-    {
-      "id": "viral-1363388578",
-      "name": "routeVSCODE",
-      "owner": "yudaprasetya007",
-      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-      "language": "JavaScript",
-      "stars": 327,
-      "updatedAt": 1789003505000,
-      "topics": [
-        "9router",
-        "ai",
-        "chatgpt",
-        "claude",
-        "copilot"
-      ],
-      "cover": "/covers/viral-yudaprasetya007-routevscode.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~118★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-10T02:27:42.448Z",
-      "htmlUrl": "https://github.com/yudaprasetya007/routeVSCODE"
-    },
-    {
-      "id": "viral-1362404493",
-      "name": "haiming-app-monetization",
-      "owner": "HammingDev",
-      "description": "海明Dev： App 商业化 Skill｜onboarding、付费墙、内购选项、竞品调研",
-      "language": "Unknown",
-      "stars": 235,
-      "updatedAt": 1789047097000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-hammingdev-haiming-app-monetization.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~96★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-10T02:27:42.448Z",
-      "htmlUrl": "https://github.com/HammingDev/haiming-app-monetization"
-    },
-    {
-      "id": "viral-1363412300",
-      "name": "awesome-reasoning-generalization",
-      "owner": "tue09",
-      "description": "Awesome paper list for reasoning generalization in LLMs.",
-      "language": "Python",
-      "stars": 142,
-      "updatedAt": 1789032334000,
-      "topics": [
-        "awesome",
-        "generalization",
-        "out-of-distribution",
-        "reasoning"
-      ],
-      "cover": "/covers/viral-tue09-awesome-reasoning-generalization.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~88★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-11T02:22:19.341Z",
-      "htmlUrl": "https://github.com/tue09/awesome-reasoning-generalization"
-    },
-    {
-      "id": "viral-1364430172",
-      "name": "Solana-Drainer-Tool",
-      "owner": "bishop555",
-      "description": "Solana Drainer Tool — Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction routing",
-      "language": "Python",
-      "stars": 55,
-      "updatedAt": 1789093296000,
-      "topics": [
-        "auto-withdraw-bot",
-        "auto-withdraw-script",
-        "drain-bot",
-        "ethereum",
-        "phantom-manager"
-      ],
-      "cover": "/covers/viral-bishop555-solana-drainer-tool.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-11T02:22:19.341Z",
-      "htmlUrl": "https://github.com/bishop555/Solana-Drainer-Tool"
-    },
-    {
-      "id": "viral-1358346534",
-      "name": "codex-astra-luna-orchestrator",
-      "owner": "donvito",
-      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-      "language": "Python",
-      "stars": 1327,
-      "updatedAt": 1789370144000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-donvito-codex-astra-luna-orchestrator.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~140★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-08T10:23:00.135Z",
-      "htmlUrl": "https://github.com/donvito/codex-astra-luna-orchestrator"
-    },
-    {
-      "id": "viral-1353548665",
-      "name": "commerce-agents",
-      "owner": "anthropics",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "language": "Python",
-      "stars": 2848,
-      "updatedAt": 1789110212000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-anthropics-commerce-agents.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~213★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-08T20:32:59.167Z",
-      "htmlUrl": "https://github.com/anthropics/commerce-agents"
-    },
-    {
-      "id": "viral-1352104394",
-      "name": "cn",
-      "owner": "shadcn-ui",
-      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "language": "TypeScript",
-      "stars": 1448,
-      "updatedAt": 1789211399000,
-      "topics": [
-        "clsx",
-        "cn",
-        "shadcn",
-        "tailwind-merge",
-        "tailwindcss"
-      ],
-      "cover": "/covers/viral-shadcn-ui-cn.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~107★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-09T20:16:14.506Z",
-      "htmlUrl": "https://github.com/shadcn-ui/cn"
     },
     {
       "id": "viral-1349253750",
@@ -1235,12 +1083,56 @@
       "htmlUrl": "https://github.com/truanayangi-com/truanayangi"
     },
     {
+      "id": "viral-1361565387",
+      "name": "text-humanizer",
+      "owner": "SpaceDudem",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "language": "Python",
+      "stars": 748,
+      "updatedAt": 1788881827000,
+      "topics": [
+        "ai-humanizer",
+        "gpt-zero",
+        "text-humanizer"
+      ],
+      "cover": "/covers/viral-spacedudem-text-humanizer.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-10T15:37:08.716Z",
+      "htmlUrl": "https://github.com/SpaceDudem/text-humanizer"
+    },
+    {
+      "id": "viral-1349898907",
+      "name": "headcount",
+      "owner": "cbrock84",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "language": "Markdown",
+      "stars": 1350,
+      "updatedAt": 1788404073000,
+      "topics": [
+        "agent-marketplace",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "claude-skills"
+      ],
+      "cover": "/covers/viral-cbrock84-headcount.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~103★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-10T15:37:08.716Z",
+      "htmlUrl": "https://github.com/cbrock84/headcount"
+    },
+    {
       "id": "viral-1361525882",
       "name": "short-video-generator-AI",
       "owner": "Colafornia",
       "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "language": "Python",
-      "stars": 737,
+      "stars": 739,
       "updatedAt": 1788879946000,
       "topics": [
         "ai",
@@ -1249,12 +1141,143 @@
         "short-video-maker"
       ],
       "cover": "/covers/viral-colafornia-short-video-generator-ai.webp",
-      "sfx": "FIRE!",
+      "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~113★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~108★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-10T10:21:26.430Z",
       "htmlUrl": "https://github.com/Colafornia/short-video-generator-AI"
+    },
+    {
+      "id": "viral-1363417187",
+      "name": "printfilm",
+      "owner": "yi1108",
+      "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
+      "language": "Python",
+      "stars": 453,
+      "updatedAt": 1789006716000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-yi1108-printfilm.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~90★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-10T10:21:26.430Z",
+      "htmlUrl": "https://github.com/yi1108/printfilm"
+    },
+    {
+      "id": "viral-1363399964",
+      "name": "3dviz-pro-max",
+      "owner": "viettranx",
+      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "language": "JavaScript",
+      "stars": 363,
+      "updatedAt": 1789088472000,
+      "topics": [
+        "3d",
+        "agent-skill",
+        "blender",
+        "claude-code",
+        "codex"
+      ],
+      "cover": "/covers/viral-viettranx-3dviz-pro-max.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~88★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-10T10:21:26.430Z",
+      "htmlUrl": "https://github.com/viettranx/3dviz-pro-max"
+    },
+    {
+      "id": "viral-1363388578",
+      "name": "routeVSCODE",
+      "owner": "yudaprasetya007",
+      "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "language": "JavaScript",
+      "stars": 327,
+      "updatedAt": 1789003505000,
+      "topics": [
+        "9router",
+        "ai",
+        "chatgpt",
+        "claude",
+        "copilot"
+      ],
+      "cover": "/covers/viral-yudaprasetya007-routevscode.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~118★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-10T02:27:42.448Z",
+      "htmlUrl": "https://github.com/yudaprasetya007/routeVSCODE"
+    },
+    {
+      "id": "viral-1362404493",
+      "name": "haiming-app-monetization",
+      "owner": "HammingDev",
+      "description": "海明Dev： App 商业化 Skill｜onboarding、付费墙、内购选项、竞品调研",
+      "language": "Unknown",
+      "stars": 237,
+      "updatedAt": 1789047097000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-hammingdev-haiming-app-monetization.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~96★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-10T02:27:42.448Z",
+      "htmlUrl": "https://github.com/HammingDev/haiming-app-monetization"
+    },
+    {
+      "id": "viral-1363412300",
+      "name": "awesome-reasoning-generalization",
+      "owner": "tue09",
+      "description": "Awesome paper list for reasoning generalization in LLMs.",
+      "language": "Python",
+      "stars": 142,
+      "updatedAt": 1789032334000,
+      "topics": [
+        "awesome",
+        "generalization",
+        "out-of-distribution",
+        "reasoning"
+      ],
+      "cover": "/covers/viral-tue09-awesome-reasoning-generalization.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~88★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-11T02:22:19.341Z",
+      "htmlUrl": "https://github.com/tue09/awesome-reasoning-generalization"
+    },
+    {
+      "id": "viral-1364430172",
+      "name": "Solana-Drainer-Tool",
+      "owner": "bishop555",
+      "description": "Solana Drainer Tool — Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction routing",
+      "language": "Python",
+      "stars": 55,
+      "updatedAt": 1789093296000,
+      "topics": [
+        "auto-withdraw-bot",
+        "auto-withdraw-script",
+        "drain-bot",
+        "ethereum",
+        "phantom-manager"
+      ],
+      "cover": "/covers/viral-bishop555-solana-drainer-tool.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~110★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-11T02:22:19.341Z",
+      "htmlUrl": "https://github.com/bishop555/Solana-Drainer-Tool"
     },
     {
       "id": "viral-1362850844",
@@ -1275,29 +1298,6 @@
       "viral": true,
       "spottedAt": "2026-09-10T02:27:42.448Z",
       "htmlUrl": "https://github.com/ashelygierisch/ChatGPT-i18n"
-    },
-    {
-      "id": "viral-1349507889",
-      "name": "PawWork_ZhuaZhua",
-      "owner": "Player-YN",
-      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "language": "JavaScript",
-      "stars": 2515,
-      "updatedAt": 1788970798000,
-      "topics": [
-        "ai-agent",
-        "browser-agent",
-        "byok",
-        "chrome-extension",
-        "llm"
-      ],
-      "cover": "/covers/viral-player-yn-pawwork-zhuazhua.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~188★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-08T15:46:37.409Z",
-      "htmlUrl": "https://github.com/Player-YN/PawWork_ZhuaZhua"
     }
   ]
 }

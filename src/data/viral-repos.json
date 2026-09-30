@@ -1,14 +1,37 @@
 {
-  "updatedAt": "2026-09-30T17:22:17.564Z",
+  "updatedAt": "2026-09-30T21:44:09.373Z",
   "source": "github-search-velocity",
   "repos": [
+    {
+      "id": "viral-1379574728",
+      "name": "jev-chat-jarvis",
+      "owner": "jev-chat",
+      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "language": "Kotlin",
+      "stars": 7181,
+      "updatedAt": 1790705097000,
+      "topics": [
+        "accessibility-service",
+        "ai-assistant",
+        "android",
+        "chat-assistant",
+        "chat-copilot"
+      ],
+      "cover": "/covers/viral-jev-chat-jev-chat-jarvis.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~761★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-29T17:24:42.805Z",
+      "htmlUrl": "https://github.com/jev-chat/jev-chat-jarvis"
+    },
     {
       "id": "viral-1396688303",
       "name": "dots",
       "owner": "feder-cr",
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "language": "Python",
-      "stars": 1868,
+      "stars": 1930,
       "updatedAt": 1790724241000,
       "topics": [
         "ai-agent",
@@ -18,12 +41,58 @@
         "browser-agent"
       ],
       "cover": "/covers/viral-feder-cr-dots.webp",
-      "sfx": "BOOM!!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~2453★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~2046★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-30T11:42:43.119Z",
       "htmlUrl": "https://github.com/feder-cr/dots"
+    },
+    {
+      "id": "viral-1391438314",
+      "name": "coucou",
+      "owner": "Louis-CFM",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+      "language": "Swift",
+      "stars": 1006,
+      "updatedAt": 1790790238000,
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "dynamic-island"
+      ],
+      "cover": "/covers/viral-louis-cfm-coucou.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~336★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-30T17:22:17.564Z",
+      "htmlUrl": "https://github.com/Louis-CFM/coucou"
+    },
+    {
+      "id": "viral-1397016507",
+      "name": "universal-modder",
+      "owner": "rehan-remade",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "language": "Python",
+      "stars": 728,
+      "updatedAt": 1790804240000,
+      "topics": [
+        "age-of-empires",
+        "claude-code",
+        "claude-code-plugin",
+        "fal",
+        "game-assets"
+      ],
+      "cover": "/covers/viral-rehan-remade-universal-modder.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~1044★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-30T11:42:43.119Z",
+      "htmlUrl": "https://github.com/rehan-remade/universal-modder"
     },
     {
       "id": "viral-1396918266",
@@ -38,144 +107,32 @@
         "github"
       ],
       "cover": "/covers/viral-opsafari-hypoarena.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~948★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~721★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-30T11:42:43.119Z",
       "htmlUrl": "https://github.com/OpSafari/hypoarena"
     },
     {
-      "id": "viral-1397016507",
-      "name": "universal-modder",
-      "owner": "rehan-remade",
-      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-      "language": "Python",
-      "stars": 524,
-      "updatedAt": 1790744442000,
-      "topics": [
-        "age-of-empires",
-        "claude-code",
-        "claude-code-plugin",
-        "fal",
-        "game-assets"
-      ],
-      "cover": "/covers/viral-rehan-remade-universal-modder.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~1017★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-30T11:42:43.119Z",
-      "htmlUrl": "https://github.com/rehan-remade/universal-modder"
-    },
-    {
-      "id": "viral-1391438314",
-      "name": "coucou",
-      "owner": "Louis-CFM",
-      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
-      "language": "Swift",
-      "stars": 466,
-      "updatedAt": 1790781644000,
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "dynamic-island"
-      ],
-      "cover": "/covers/viral-louis-cfm-coucou.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~166★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-30T17:22:17.564Z",
-      "htmlUrl": "https://github.com/Louis-CFM/coucou"
-    },
-    {
-      "id": "viral-1380635125",
-      "name": "unreal-agent",
-      "owner": "unreallabsai",
-      "description": "Async-first agent harness",
-      "language": "Go",
-      "stars": 2038,
-      "updatedAt": 1790190506000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-unreallabsai-unreal-agent.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~233★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-30T17:22:17.564Z",
-      "htmlUrl": "https://github.com/unreallabsai/unreal-agent"
-    },
-    {
-      "id": "viral-1373655162",
-      "name": "jev-ultrafast",
-      "owner": "browser-use",
-      "description": "Fastest and cheapest web agent",
-      "language": "Python",
-      "stars": 21387,
-      "updatedAt": 1790708667000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-browser-use-jev-ultrafast.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~1644★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-28T22:49:41.577Z",
-      "htmlUrl": "https://github.com/browser-use/jev-ultrafast"
-    },
-    {
-      "id": "viral-1379574728",
-      "name": "jev-chat-jarvis",
-      "owner": "jev-chat",
-      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-      "language": "Kotlin",
-      "stars": 7179,
-      "updatedAt": 1790705097000,
-      "topics": [
-        "accessibility-service",
-        "ai-assistant",
-        "android",
-        "chat-assistant",
-        "chat-copilot"
-      ],
-      "cover": "/covers/viral-jev-chat-jev-chat-jarvis.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~776★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-29T17:24:42.805Z",
-      "htmlUrl": "https://github.com/jev-chat/jev-chat-jarvis"
-    },
-    {
-      "id": "viral-1393965829",
-      "name": "AIHOT",
-      "owner": "KKKKhazix",
-      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "id": "viral-1394011672",
+      "name": "mcp-extensions",
+      "owner": "openai",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
       "language": "TypeScript",
-      "stars": 4016,
-      "updatedAt": 1790775663000,
+      "stars": 449,
+      "updatedAt": 1790710239000,
       "topics": [
-        "ai",
-        "content-curation",
-        "llm",
-        "mcp",
-        "news-aggregator"
+        "trending",
+        "github"
       ],
-      "cover": "/covers/viral-kkkkhazix-aihot.webp",
-      "sfx": "HOT!!",
+      "cover": "/covers/viral-openai-mcp-extensions.webp",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~2311★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~240★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-09-29T03:35:36.996Z",
-      "htmlUrl": "https://github.com/KKKKhazix/AIHOT"
+      "spottedAt": "2026-09-29T21:43:41.815Z",
+      "htmlUrl": "https://github.com/openai/mcp-extensions"
     },
     {
       "id": "viral-1396764964",
@@ -206,7 +163,7 @@
       "owner": "JohnHeibel",
       "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
       "language": "JavaScript",
-      "stars": 1571,
+      "stars": 1585,
       "updatedAt": 1790349063000,
       "topics": [
         "trending",
@@ -215,10 +172,70 @@
       "cover": "/covers/viral-johnheibel-pdoomvideo.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~203★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~200★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-30T17:22:17.564Z",
       "htmlUrl": "https://github.com/JohnHeibel/PDoomVideo"
+    },
+    {
+      "id": "viral-1380635125",
+      "name": "unreal-agent",
+      "owner": "unreallabsai",
+      "description": "Async-first agent harness",
+      "language": "Go",
+      "stars": 2039,
+      "updatedAt": 1790190506000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-unreallabsai-unreal-agent.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~228★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-30T17:22:17.564Z",
+      "htmlUrl": "https://github.com/unreallabsai/unreal-agent"
+    },
+    {
+      "id": "viral-1390938824",
+      "name": "motion-video-kit",
+      "owner": "echris6",
+      "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "language": "Python",
+      "stars": 524,
+      "updatedAt": 1790636145000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-echris6-motion-video-kit.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~158★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-30T21:44:09.373Z",
+      "htmlUrl": "https://github.com/echris6/motion-video-kit"
+    },
+    {
+      "id": "viral-1374702542",
+      "name": "NanoJev",
+      "owner": "TianyuCodings",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "language": "Python",
+      "stars": 2453,
+      "updatedAt": 1789984708000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-tianyucodings-nanojev.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~185★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-30T21:44:09.373Z",
+      "htmlUrl": "https://github.com/TianyuCodings/NanoJev"
     },
     {
       "id": "viral-1396765235",
@@ -226,16 +243,16 @@
       "owner": "deepseek-ai",
       "description": "A high-performance communication library for machine learning training and inference on Huawei Ascend NPUs.",
       "language": "C++",
-      "stars": 175,
+      "stars": 180,
       "updatedAt": 1790729594000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-deepseek-ai-deepep-ascend.webp",
-      "sfx": "RISE!!",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~253★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~206★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-30T03:21:32.967Z",
       "htmlUrl": "https://github.com/deepseek-ai/DeepEP-Ascend"
@@ -246,7 +263,7 @@
       "owner": "blendi-remade",
       "description": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
       "language": "JavaScript",
-      "stars": 150,
+      "stars": 156,
       "updatedAt": 1790727022000,
       "topics": [
         "3d",
@@ -256,9 +273,9 @@
         "landing-page"
       ],
       "cover": "/covers/viral-blendi-remade-dioramas.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~209★/day). Pin it before your AI stack falls behind.",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~173★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-30T11:42:43.119Z",
       "htmlUrl": "https://github.com/blendi-remade/dioramas"
@@ -284,13 +301,56 @@
       "htmlUrl": "https://github.com/OpSafari/laborix"
     },
     {
+      "id": "viral-1373655162",
+      "name": "jev-ultrafast",
+      "owner": "browser-use",
+      "description": "Fastest and cheapest web agent",
+      "language": "Python",
+      "stars": 21387,
+      "updatedAt": 1790708667000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-browser-use-jev-ultrafast.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~1644★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-28T22:49:41.577Z",
+      "htmlUrl": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "id": "viral-1393965829",
+      "name": "AIHOT",
+      "owner": "KKKKhazix",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "language": "TypeScript",
+      "stars": 4049,
+      "updatedAt": 1790775663000,
+      "topics": [
+        "ai",
+        "content-curation",
+        "llm",
+        "mcp",
+        "news-aggregator"
+      ],
+      "cover": "/covers/viral-kkkkhazix-aihot.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~2109★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-29T03:35:36.996Z",
+      "htmlUrl": "https://github.com/KKKKhazix/AIHOT"
+    },
+    {
       "id": "viral-1385946301",
       "name": "Strata",
       "owner": "Niko1221",
-      "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "language": "C++",
-      "stars": 2674,
-      "updatedAt": 1790784139000,
+      "stars": 2921,
+      "updatedAt": 1790790657000,
       "topics": [
         "trending",
         "github"
@@ -298,7 +358,7 @@
       "cover": "/covers/viral-niko1221-strata.webp",
       "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~444★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~470★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-28T12:33:16.572Z",
       "htmlUrl": "https://github.com/Niko1221/Strata"
@@ -309,8 +369,8 @@
       "owner": "kaankiziltug",
       "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
       "language": "HTML",
-      "stars": 1021,
-      "updatedAt": 1790784549000,
+      "stars": 1071,
+      "updatedAt": 1790792210000,
       "topics": [
         "agent-skills",
         "branding",
@@ -321,30 +381,10 @@
       "cover": "/covers/viral-kaankiziltug-logo-design-skill.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~233★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~235★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-28T22:49:41.577Z",
       "htmlUrl": "https://github.com/kaankiziltug/logo-design-skill"
-    },
-    {
-      "id": "viral-1394011672",
-      "name": "mcp-extensions",
-      "owner": "openai",
-      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
-      "language": "TypeScript",
-      "stars": 407,
-      "updatedAt": 1790710239000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-openai-mcp-extensions.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~241★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-29T21:43:41.815Z",
-      "htmlUrl": "https://github.com/openai/mcp-extensions"
     },
     {
       "id": "viral-1391717301",
@@ -352,7 +392,7 @@
       "owner": "openJiuwen-ai",
       "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
       "language": "Python",
-      "stars": 273,
+      "stars": 277,
       "updatedAt": 1790785522000,
       "topics": [
         "trending",
@@ -372,16 +412,16 @@
       "owner": "JoasASantos",
       "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
       "language": "Unknown",
-      "stars": 466,
+      "stars": 478,
       "updatedAt": 1790606087000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-joasasantos-offensive-security-ai-models.webp",
-      "sfx": "FIRE!",
+      "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~163★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~157★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-28T22:49:41.577Z",
       "htmlUrl": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
@@ -415,7 +455,7 @@
       "owner": "moguzbulbul",
       "description": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
       "language": "JavaScript",
-      "stars": 347,
+      "stars": 349,
       "updatedAt": 1790553556000,
       "topics": [
         "trending",
@@ -478,7 +518,7 @@
       "owner": "zai-org",
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "language": "TypeScript",
-      "stars": 7240,
+      "stars": 7250,
       "updatedAt": 1790676414000,
       "topics": [
         "trending",
@@ -487,7 +527,7 @@
       "cover": "/covers/viral-zai-org-zcode.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~708★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~697★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-27T20:40:16.718Z",
       "htmlUrl": "https://github.com/zai-org/ZCode"
@@ -498,7 +538,7 @@
       "owner": "dzhng",
       "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
       "language": "TypeScript",
-      "stars": 1877,
+      "stars": 1902,
       "updatedAt": 1790667022000,
       "topics": [
         "ai-sdk",
@@ -510,7 +550,7 @@
       "cover": "/covers/viral-dzhng-jevgrep.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~412★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~402★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-27T02:55:36.446Z",
       "htmlUrl": "https://github.com/dzhng/jevgrep"
@@ -521,7 +561,7 @@
       "owner": "yihui-dev",
       "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
       "language": "Unknown",
-      "stars": 1059,
+      "stars": 1076,
       "updatedAt": 1790734162000,
       "topics": [
         "ai-video",
@@ -531,9 +571,9 @@
         "claude-opus"
       ],
       "cover": "/covers/viral-yihui-dev-awesome-opus5-5-videos.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~306★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~295★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-27T16:09:21.638Z",
       "htmlUrl": "https://github.com/yihui-dev/awesome-opus5-5-videos"
@@ -567,7 +607,7 @@
       "owner": "mizorewww",
       "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "language": "Python",
-      "stars": 6651,
+      "stars": 6654,
       "updatedAt": 1790055291000,
       "topics": [
         "apple-silicon",
@@ -579,7 +619,7 @@
       "cover": "/covers/viral-mizorewww-laya-mlx.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~597★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~587★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-27T11:08:27.104Z",
       "htmlUrl": "https://github.com/mizorewww/laya-mlx"
@@ -590,7 +630,7 @@
       "owner": "lemomo-ai",
       "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "language": "JavaScript",
-      "stars": 670,
+      "stars": 678,
       "updatedAt": 1790728348000,
       "topics": [
         "ai-agents",
@@ -600,9 +640,9 @@
         "claude"
       ],
       "cover": "/covers/viral-lemomo-ai-lemo-opuscar.webp",
-      "sfx": "BANG!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~156★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~151★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-27T02:55:36.446Z",
       "htmlUrl": "https://github.com/lemomo-ai/lemo-opuscar"
@@ -631,138 +671,6 @@
       "htmlUrl": "https://github.com/Appllama/liquid-glass-chat-ui"
     },
     {
-      "id": "viral-1376713674",
-      "name": "ai-engineering-interview-questions-company-wise",
-      "owner": "pallavi-shekhar",
-      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "language": "Markdown",
-      "stars": 1586,
-      "updatedAt": 1790656967000,
-      "topics": [
-        "ai",
-        "ai-engineering",
-        "ai-engineering-interview",
-        "ai-interview",
-        "ai-interview-questions"
-      ],
-      "cover": "/covers/viral-pallavi-shekhar-ai-engineering-interview-questions-company-wise.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~140★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-26T10:35:39.691Z",
-      "htmlUrl": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
-    },
-    {
-      "id": "viral-1388594776",
-      "name": "onetake",
-      "owner": "feitangyuan",
-      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "language": "Python",
-      "stars": 1046,
-      "updatedAt": 1790646826000,
-      "topics": [
-        "agent-skill",
-        "animation",
-        "canvas",
-        "claude-skill",
-        "launch-video"
-      ],
-      "cover": "/covers/viral-feitangyuan-onetake.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~233★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-26T15:29:24.179Z",
-      "htmlUrl": "https://github.com/feitangyuan/onetake"
-    },
-    {
-      "id": "viral-1387374666",
-      "name": "CapCut-Pro-macOS-Windows",
-      "owner": "SpecterLouse",
-      "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
-      "language": "Unknown",
-      "stars": 457,
-      "updatedAt": 1790786023000,
-      "topics": [
-        "ai-captions",
-        "ai-video-editor",
-        "cap-cut-alternative",
-        "capcut-activate",
-        "capcut-ai-video-generator"
-      ],
-      "cover": "/covers/viral-specterlouse-capcut-pro-macos-windows.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~168★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-26T02:53:22.578Z",
-      "htmlUrl": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows"
-    },
-    {
-      "id": "viral-1388261262",
-      "name": "company-brain",
-      "owner": "supermemoryai",
-      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-      "language": "TypeScript",
-      "stars": 867,
-      "updatedAt": 1790574641000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-supermemoryai-company-brain.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~182★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-26T10:35:39.691Z",
-      "htmlUrl": "https://github.com/supermemoryai/company-brain"
-    },
-    {
-      "id": "viral-1377694077",
-      "name": "laya-coreml",
-      "owner": "mizorewww",
-      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
-      "language": "Python",
-      "stars": 1530,
-      "updatedAt": 1790058789000,
-      "topics": [
-        "apple-neural-engine",
-        "apple-silicon",
-        "coreml",
-        "decision-model",
-        "laya"
-      ],
-      "cover": "/covers/viral-mizorewww-laya-coreml.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~142★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-26T15:29:24.179Z",
-      "htmlUrl": "https://github.com/mizorewww/laya-coreml"
-    },
-    {
-      "id": "viral-1376970259",
-      "name": "AirCard-iOS",
-      "owner": "Mak5er",
-      "description": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
-      "language": "Swift",
-      "stars": 1385,
-      "updatedAt": 1789938072000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-mak5er-aircard-ios.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~126★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-26T20:28:30.820Z",
-      "htmlUrl": "https://github.com/Mak5er/AirCard-iOS"
-    },
-    {
       "id": "viral-1389755987",
       "name": "orc-claude-plugin",
       "owner": "admte",
@@ -783,12 +691,81 @@
       "htmlUrl": "https://github.com/admte/orc-claude-plugin"
     },
     {
+      "id": "viral-1376713674",
+      "name": "ai-engineering-interview-questions-company-wise",
+      "owner": "pallavi-shekhar",
+      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "language": "Markdown",
+      "stars": 1587,
+      "updatedAt": 1790656967000,
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "ai-engineering-interview",
+        "ai-interview",
+        "ai-interview-questions"
+      ],
+      "cover": "/covers/viral-pallavi-shekhar-ai-engineering-interview-questions-company-wise.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~135★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-26T10:35:39.691Z",
+      "htmlUrl": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
+    },
+    {
+      "id": "viral-1388594776",
+      "name": "onetake",
+      "owner": "feitangyuan",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "language": "Python",
+      "stars": 1053,
+      "updatedAt": 1790646826000,
+      "topics": [
+        "agent-skill",
+        "animation",
+        "canvas",
+        "claude-skill",
+        "launch-video"
+      ],
+      "cover": "/covers/viral-feitangyuan-onetake.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~225★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-26T15:29:24.179Z",
+      "htmlUrl": "https://github.com/feitangyuan/onetake"
+    },
+    {
+      "id": "viral-1387374666",
+      "name": "CapCut-Pro-macOS-Windows",
+      "owner": "SpecterLouse",
+      "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
+      "language": "Unknown",
+      "stars": 458,
+      "updatedAt": 1790786023000,
+      "topics": [
+        "ai-captions",
+        "ai-video-editor",
+        "cap-cut-alternative",
+        "capcut-activate",
+        "capcut-ai-video-generator"
+      ],
+      "cover": "/covers/viral-specterlouse-capcut-pro-macos-windows.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~168★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-26T02:53:22.578Z",
+      "htmlUrl": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows"
+    },
+    {
       "id": "viral-1379166549",
       "name": "AnyJev",
       "owner": "nokia-applied-research",
       "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
       "language": "Python",
-      "stars": 984,
+      "stars": 985,
       "updatedAt": 1790585213000,
       "topics": [
         "calibration",
@@ -804,6 +781,112 @@
       "viral": true,
       "spottedAt": "2026-09-25T16:15:50.247Z",
       "htmlUrl": "https://github.com/nokia-applied-research/AnyJev"
+    },
+    {
+      "id": "viral-1388261262",
+      "name": "company-brain",
+      "owner": "supermemoryai",
+      "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "language": "TypeScript",
+      "stars": 872,
+      "updatedAt": 1790574641000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-supermemoryai-company-brain.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~176★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-26T10:35:39.691Z",
+      "htmlUrl": "https://github.com/supermemoryai/company-brain"
+    },
+    {
+      "id": "viral-1377694077",
+      "name": "laya-coreml",
+      "owner": "mizorewww",
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "language": "Python",
+      "stars": 1530,
+      "updatedAt": 1790058789000,
+      "topics": [
+        "apple-neural-engine",
+        "apple-silicon",
+        "coreml",
+        "decision-model",
+        "laya"
+      ],
+      "cover": "/covers/viral-mizorewww-laya-coreml.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~140★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-26T15:29:24.179Z",
+      "htmlUrl": "https://github.com/mizorewww/laya-coreml"
+    },
+    {
+      "id": "viral-1376970259",
+      "name": "AirCard-iOS",
+      "owner": "Mak5er",
+      "description": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+      "language": "Swift",
+      "stars": 1392,
+      "updatedAt": 1789938072000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-mak5er-aircard-ios.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~126★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-26T20:28:30.820Z",
+      "htmlUrl": "https://github.com/Mak5er/AirCard-iOS"
+    },
+    {
+      "id": "viral-1386004688",
+      "name": "bridgeclip",
+      "owner": "bridge-mind",
+      "description": "Open-source AI video clipping desktop app by BridgeMind",
+      "language": "Python",
+      "stars": 346,
+      "updatedAt": 1790732896000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-bridge-mind-bridgeclip.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~159★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-24T20:59:38.858Z",
+      "htmlUrl": "https://github.com/bridge-mind/bridgeclip"
+    },
+    {
+      "id": "viral-1385832170",
+      "name": "omarchy-meeting-recorder",
+      "owner": "jankeesvw",
+      "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+      "language": "Rust",
+      "stars": 320,
+      "updatedAt": 1790763714000,
+      "topics": [
+        "gtk4",
+        "hyprland",
+        "libadwaita",
+        "meeting-recorder",
+        "omarchy"
+      ],
+      "cover": "/covers/viral-jankeesvw-omarchy-meeting-recorder.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~167★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-25T02:50:13.380Z",
+      "htmlUrl": "https://github.com/jankeesvw/omarchy-meeting-recorder"
     },
     {
       "id": "viral-1383926459",
@@ -856,7 +939,7 @@
       "owner": "amitshekhariitbhu",
       "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
       "language": "Markdown",
-      "stars": 474,
+      "stars": 476,
       "updatedAt": 1790312011000,
       "topics": [
         "ai",
@@ -902,8 +985,8 @@
       "owner": "jaredpalmer",
       "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
       "language": "Python",
-      "stars": 8031,
-      "updatedAt": 1790767904000,
+      "stars": 8055,
+      "updatedAt": 1790801870000,
       "topics": [
         "decision-model",
         "jev",
@@ -912,7 +995,7 @@
       "cover": "/covers/viral-jaredpalmer-kev.webp",
       "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~625★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~618★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-24T16:15:33.399Z",
       "htmlUrl": "https://github.com/jaredpalmer/kev"
@@ -923,8 +1006,8 @@
       "owner": "yetone",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
-      "stars": 3695,
-      "updatedAt": 1790788883000,
+      "stars": 3738,
+      "updatedAt": 1790804242000,
       "topics": [
         "claude-code",
         "codex",
@@ -935,7 +1018,7 @@
       "cover": "/covers/viral-yetone-magpie.webp",
       "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~525★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~517★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-24T02:32:55.771Z",
       "htmlUrl": "https://github.com/yetone/magpie"
@@ -946,8 +1029,8 @@
       "owner": "yibie",
       "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
       "language": "Python",
-      "stars": 2022,
-      "updatedAt": 1790753543000,
+      "stars": 2025,
+      "updatedAt": 1790795999000,
       "topics": [
         "awesome",
         "awesome-list",
@@ -957,7 +1040,7 @@
       "cover": "/covers/viral-yibie-awesome-jev.webp",
       "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~154★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~152★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-24T16:15:33.399Z",
       "htmlUrl": "https://github.com/yibie/awesome-jev"
@@ -978,12 +1061,32 @@
         "cloudflare"
       ],
       "cover": "/covers/viral-mikehasa-golive-skill.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~160★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~156★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-09-24T10:52:42.359Z",
       "htmlUrl": "https://github.com/mikehasa/golive-skill"
+    },
+    {
+      "id": "viral-1374005005",
+      "name": "fast-jev-compaction",
+      "owner": "tamaratran",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "language": "TypeScript",
+      "stars": 7248,
+      "updatedAt": 1789706731000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-tamaratran-fast-jev-compaction.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~531★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-24T10:52:42.359Z",
+      "htmlUrl": "https://github.com/tamaratran/fast-jev-compaction"
     },
     {
       "id": "viral-1383988294",
@@ -1009,112 +1112,6 @@
       "htmlUrl": "https://github.com/yukitorido/short-video-generator-AI"
     },
     {
-      "id": "viral-1385110521",
-      "name": "zeroclaw-ui",
-      "owner": "Cosmicchibattle",
-      "description": "UI for Zeroclaw setup",
-      "language": "TypeScript",
-      "stars": 201,
-      "updatedAt": 1790279944000,
-      "topics": [
-        "agentic-ai",
-        "agentic-workflow",
-        "agentic-workflows",
-        "agentic-workspace",
-        "zeroclaw"
-      ],
-      "cover": "/covers/viral-cosmicchibattle-zeroclaw-ui.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~186★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-25T02:50:13.380Z",
-      "htmlUrl": "https://github.com/Cosmicchibattle/zeroclaw-ui"
-    },
-    {
-      "id": "viral-1371378654",
-      "name": "jianying-headless",
-      "owner": "mcncarl",
-      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-      "language": "Python",
-      "stars": 2889,
-      "updatedAt": 1790473833000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-mcncarl-jianying-headless.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~215★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-23T15:53:13.587Z",
-      "htmlUrl": "https://github.com/mcncarl/jianying-headless"
-    },
-    {
-      "id": "viral-1374005005",
-      "name": "fast-jev-compaction",
-      "owner": "tamaratran",
-      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "language": "TypeScript",
-      "stars": 7240,
-      "updatedAt": 1789706731000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-tamaratran-fast-jev-compaction.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~537★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-24T10:52:42.359Z",
-      "htmlUrl": "https://github.com/tamaratran/fast-jev-compaction"
-    },
-    {
-      "id": "viral-1386004688",
-      "name": "bridgeclip",
-      "owner": "bridge-mind",
-      "description": "Open-source AI video clipping desktop app by BridgeMind",
-      "language": "Python",
-      "stars": 346,
-      "updatedAt": 1790732896000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-bridge-mind-bridgeclip.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~159★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-24T20:59:38.858Z",
-      "htmlUrl": "https://github.com/bridge-mind/bridgeclip"
-    },
-    {
-      "id": "viral-1385832170",
-      "name": "omarchy-meeting-recorder",
-      "owner": "jankeesvw",
-      "description": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
-      "language": "Rust",
-      "stars": 320,
-      "updatedAt": 1790763714000,
-      "topics": [
-        "gtk4",
-        "hyprland",
-        "libadwaita",
-        "meeting-recorder",
-        "omarchy"
-      ],
-      "cover": "/covers/viral-jankeesvw-omarchy-meeting-recorder.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~167★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-25T02:50:13.380Z",
-      "htmlUrl": "https://github.com/jankeesvw/omarchy-meeting-recorder"
-    },
-    {
       "id": "viral-1386061631",
       "name": "zh-tech-writing",
       "owner": "leter",
@@ -1136,26 +1133,6 @@
       "viral": true,
       "spottedAt": "2026-09-25T10:55:15.769Z",
       "htmlUrl": "https://github.com/leter/zh-tech-writing"
-    },
-    {
-      "id": "viral-1373687654",
-      "name": "AirCard",
-      "owner": "Mak5er",
-      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-      "language": "Swift",
-      "stars": 5015,
-      "updatedAt": 1790113477000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-mak5er-aircard.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~387★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-09-23T20:55:41.931Z",
-      "htmlUrl": "https://github.com/Mak5er/AirCard"
     },
     {
       "id": "viral-1383023635",
@@ -1186,7 +1163,7 @@
       "owner": "JohnHeibel",
       "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
       "language": "JavaScript",
-      "stars": 618,
+      "stars": 627,
       "updatedAt": 1790235681000,
       "topics": [
         "trending",
@@ -1201,27 +1178,27 @@
       "htmlUrl": "https://github.com/JohnHeibel/ClaudeAnimationBase"
     },
     {
-      "id": "viral-1384228920",
-      "name": "rooms",
-      "owner": "saragordic",
-      "description": "Switch between projects on your Mac. Every project is a room: its windows, laid out, one shortcut away.",
-      "language": "Swift",
-      "stars": 349,
-      "updatedAt": 1790448926000,
+      "id": "viral-1385110521",
+      "name": "zeroclaw-ui",
+      "owner": "Cosmicchibattle",
+      "description": "UI for Zeroclaw setup",
+      "language": "TypeScript",
+      "stars": 201,
+      "updatedAt": 1790279944000,
       "topics": [
-        "macos",
-        "macos-app",
-        "menubar",
-        "menubar-app",
-        "productivity"
+        "agentic-ai",
+        "agentic-workflow",
+        "agentic-workflows",
+        "agentic-workspace",
+        "zeroclaw"
       ],
-      "cover": "/covers/viral-saragordic-rooms.webp",
-      "sfx": "BOOM!!",
+      "cover": "/covers/viral-cosmicchibattle-zeroclaw-ui.webp",
+      "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~152★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~186★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-09-24T02:32:55.771Z",
-      "htmlUrl": "https://github.com/saragordic/rooms"
+      "spottedAt": "2026-09-25T02:50:13.380Z",
+      "htmlUrl": "https://github.com/Cosmicchibattle/zeroclaw-ui"
     },
     {
       "id": "viral-1385271151",
@@ -1270,6 +1247,26 @@
       "htmlUrl": "https://github.com/Unkilla/CCleaner-Pro-for-Win-macOS"
     },
     {
+      "id": "viral-1371378654",
+      "name": "jianying-headless",
+      "owner": "mcncarl",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "language": "Python",
+      "stars": 2889,
+      "updatedAt": 1790473833000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-mcncarl-jianying-headless.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~215★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-09-23T15:53:13.587Z",
+      "htmlUrl": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
       "id": "viral-1371757322",
       "name": "openmuse",
       "owner": "CopilotKit",
@@ -1290,27 +1287,24 @@
       "htmlUrl": "https://github.com/CopilotKit/openmuse"
     },
     {
-      "id": "viral-1379003933",
-      "name": "WeChatBridge",
-      "owner": "freestylefly",
-      "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "id": "viral-1373687654",
+      "name": "AirCard",
+      "owner": "Mak5er",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "language": "Swift",
-      "stars": 934,
-      "updatedAt": 1790640533000,
+      "stars": 5015,
+      "updatedAt": 1790113477000,
       "topics": [
-        "ai-agent",
-        "chat-history",
-        "macos",
-        "obsidian",
-        "share-extension"
+        "trending",
+        "github"
       ],
-      "cover": "/covers/viral-freestylefly-wechatbridge.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~150★/day). Pin it before your AI stack falls behind.",
+      "cover": "/covers/viral-mak5er-aircard.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~387★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-09-23T02:43:27.108Z",
-      "htmlUrl": "https://github.com/freestylefly/WeChatBridge"
+      "spottedAt": "2026-09-23T20:55:41.931Z",
+      "htmlUrl": "https://github.com/Mak5er/AirCard"
     }
   ]
 }

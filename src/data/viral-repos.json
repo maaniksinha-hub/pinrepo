@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T12:01:06.853Z",
+  "updatedAt": "2026-10-26T22:09:10.169Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -8,7 +8,7 @@
       "owner": "kingcharleslzy-ai",
       "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
       "language": "JavaScript",
-      "stars": 2741,
+      "stars": 2819,
       "updatedAt": 1792925092000,
       "topics": [
         "agent-tools",
@@ -18,147 +18,12 @@
         "dsh"
       ],
       "cover": "/covers/viral-kingcharleslzy-ai-dsh-purge.webp",
-      "sfx": "FIRE!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~269★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~266★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-26T12:01:06.853Z",
       "htmlUrl": "https://github.com/kingcharleslzy-ai/dsh-purge"
-    },
-    {
-      "id": "viral-1423101235",
-      "name": "cleanyourtv",
-      "owner": "Gathin23",
-      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "language": "Python",
-      "stars": 37433,
-      "updatedAt": 1792997533000,
-      "topics": [
-        "adb",
-        "adblock",
-        "android-tv",
-        "android-tv-launcher",
-        "apple-tv"
-      ],
-      "cover": "/covers/viral-gathin23-cleanyourtv.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~4087★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T10:29:29.000Z",
-      "htmlUrl": "https://github.com/Gathin23/cleanyourtv"
-    },
-    {
-      "id": "viral-1426080579",
-      "name": "free-my-tv",
-      "owner": "simbasjungles",
-      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-      "language": "Java",
-      "stars": 4719,
-      "updatedAt": 1792964900000,
-      "topics": [
-        "android-tv",
-        "claude-code",
-        "google-tv",
-        "home-screen",
-        "launcher"
-      ],
-      "cover": "/covers/viral-simbasjungles-free-my-tv.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~705★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T02:37:25.959Z",
-      "htmlUrl": "https://github.com/simbasjungles/free-my-tv"
-    },
-    {
-      "id": "viral-1422597771",
-      "name": "learnharness",
-      "owner": "amosblomqvist",
-      "description": "Agent harness for learning difficult things.",
-      "language": "TypeScript",
-      "stars": 1969,
-      "updatedAt": 1792988199000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-amosblomqvist-learnharness.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~203★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T10:29:29.000Z",
-      "htmlUrl": "https://github.com/amosblomqvist/learnharness"
-    },
-    {
-      "id": "viral-1430513158",
-      "name": "BeautifulRust",
-      "owner": "morganlinton",
-      "description": "A Claude Code plugin that teaches Claude to write idiomatic, robust Rust",
-      "language": "Python",
-      "stars": 1006,
-      "updatedAt": 1792981641000,
-      "topics": [
-        "claude-code",
-        "claude-plugin",
-        "claude-skills",
-        "coding-agent",
-        "rust"
-      ],
-      "cover": "/covers/viral-morganlinton-beautifulrust.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~298★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T10:29:29.000Z",
-      "htmlUrl": "https://github.com/morganlinton/BeautifulRust"
-    },
-    {
-      "id": "viral-1428369484",
-      "name": "cleanyourtv-app",
-      "owner": "udhaykumarbala",
-      "description": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
-      "language": "Kotlin",
-      "stars": 677,
-      "updatedAt": 1792931172000,
-      "topics": [
-        "adb",
-        "android-tv",
-        "debloat",
-        "fire-tv",
-        "google-tv"
-      ],
-      "cover": "/covers/viral-udhaykumarbala-cleanyourtv-app.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~132★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-26T02:36:02.235Z",
-      "htmlUrl": "https://github.com/udhaykumarbala/cleanyourtv-app"
-    },
-    {
-      "id": "viral-1433057196",
-      "name": "ex-ussr-kinship-research",
-      "owner": "DenisSergeevitch",
-      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "language": "Python",
-      "stars": 663,
-      "updatedAt": 1793012677000,
-      "topics": [
-        "agent-skills",
-        "archives",
-        "claude-code",
-        "codex",
-        "family-history"
-      ],
-      "cover": "/covers/viral-denissergeevitch-ex-ussr-kinship-research.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~614★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T15:21:41.973Z",
-      "htmlUrl": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
     },
     {
       "id": "viral-1431830406",
@@ -166,16 +31,16 @@
       "owner": "t3dotgg",
       "description": "The agent skills I use every day. Works with Claude Code and Codex.",
       "language": "Python",
-      "stars": 758,
+      "stars": 1483,
       "updatedAt": 1792895151000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-t3dotgg-tstack.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~331★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~546★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-26T12:01:06.853Z",
       "htmlUrl": "https://github.com/t3dotgg/tstack"
@@ -186,16 +51,16 @@
       "owner": "andyhuo520",
       "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
       "language": "TypeScript",
-      "stars": 322,
+      "stars": 635,
       "updatedAt": 1793015534000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-andyhuo520-digital-human-koubo.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~644★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~867★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-26T12:01:06.853Z",
       "htmlUrl": "https://github.com/andyhuo520/digital-human-koubo"
@@ -206,19 +71,42 @@
       "owner": "DrWhax",
       "description": "Decrypt IPA's on MacOS",
       "language": "Go",
-      "stars": 311,
-      "updatedAt": 1793013481000,
+      "stars": 452,
+      "updatedAt": 1793036140000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-drwhax-unfairplay.webp",
-      "sfx": "RISE!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~510★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~438★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-26T12:01:06.853Z",
       "htmlUrl": "https://github.com/DrWhax/unfairplay"
+    },
+    {
+      "id": "viral-1433846971",
+      "name": "GEOInflow",
+      "owner": "yaojingang",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "language": "TypeScript",
+      "stars": 325,
+      "updatedAt": 1793027252000,
+      "topics": [
+        "ai-analytics",
+        "geo",
+        "mit",
+        "postgresql",
+        "self-hosted"
+      ],
+      "cover": "/covers/viral-yaojingang-geoinflow.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~412★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-26T12:01:06.853Z",
+      "htmlUrl": "https://github.com/yaojingang/GEOInflow"
     },
     {
       "id": "viral-1434171555",
@@ -236,35 +124,12 @@
         "pdf-compressor"
       ],
       "cover": "/covers/viral-free-cracks-adobe-acrobat-pro.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~574★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~548★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-26T12:01:06.853Z",
       "htmlUrl": "https://github.com/free-cracks/Adobe-Acrobat-Pro"
-    },
-    {
-      "id": "viral-1432649361",
-      "name": "CVEngine",
-      "owner": "hevnsnt",
-      "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "language": "Python",
-      "stars": 286,
-      "updatedAt": 1792985971000,
-      "topics": [
-        "ai",
-        "attack-surface-management",
-        "bbot",
-        "cybersecurity",
-        "mcp"
-      ],
-      "cover": "/covers/viral-hevnsnt-cvengine.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~183★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-26T02:36:02.235Z",
-      "htmlUrl": "https://github.com/hevnsnt/CVEngine"
     },
     {
       "id": "viral-1432883796",
@@ -272,7 +137,7 @@
       "owner": "ZiChuanLan",
       "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
       "language": "JavaScript",
-      "stars": 214,
+      "stars": 274,
       "updatedAt": 1793007403000,
       "topics": [
         "claude-code",
@@ -282,35 +147,12 @@
         "pi"
       ],
       "cover": "/covers/viral-zichuanlan-agent-purge.webp",
-      "sfx": "HOT!!",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~172★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~164★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-26T12:01:06.853Z",
       "htmlUrl": "https://github.com/ZiChuanLan/agent-purge"
-    },
-    {
-      "id": "viral-1433846971",
-      "name": "GEOInflow",
-      "owner": "yaojingang",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "language": "TypeScript",
-      "stars": 190,
-      "updatedAt": 1793007365000,
-      "topics": [
-        "ai-analytics",
-        "geo",
-        "mit",
-        "postgresql",
-        "self-hosted"
-      ],
-      "cover": "/covers/viral-yaojingang-geoinflow.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~380★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-26T12:01:06.853Z",
-      "htmlUrl": "https://github.com/yaojingang/GEOInflow"
     },
     {
       "id": "viral-1434248915",
@@ -328,55 +170,12 @@
         "roblox-aim-assist"
       ],
       "cover": "/covers/viral-arcade-tools-roblox-script.webp",
-      "sfx": "HOT!!",
+      "sfx": "ZOOM!!",
       "height": "tall",
       "godMode": "Going viral (~354★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-26T12:01:06.853Z",
       "htmlUrl": "https://github.com/arcade-tools/Roblox-script"
-    },
-    {
-      "id": "viral-1433599699",
-      "name": "Roblox-Scripts",
-      "owner": "rbl-all-toosl",
-      "description": "🎯 Roblox-Scripts-Executor-Pc-Desktop-Any-Mod-Menu-Cheats-Script🎯",
-      "language": "HTML",
-      "stars": 172,
-      "updatedAt": 1792960135000,
-      "topics": [
-        "any-game-cheats",
-        "roblox-aim-assist",
-        "roblox-fly-noclip",
-        "roblox-hub-2026",
-        "roblox-menu-pc"
-      ],
-      "cover": "/covers/viral-rbl-all-toosl-roblox-scripts.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~266★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-26T02:36:02.235Z",
-      "htmlUrl": "https://github.com/rbl-all-toosl/Roblox-Scripts"
-    },
-    {
-      "id": "viral-1433010899",
-      "name": "capri-desktop",
-      "owner": "mochiiwuff",
-      "description": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
-      "language": "JavaScript",
-      "stars": 170,
-      "updatedAt": 1793012853000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-mochiiwuff-capri-desktop.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-26T02:36:02.235Z",
-      "htmlUrl": "https://github.com/mochiiwuff/capri-desktop"
     },
     {
       "id": "viral-1433588727",
@@ -402,6 +201,448 @@
       "htmlUrl": "https://github.com/boyuchengz/canvas-mcp"
     },
     {
+      "id": "viral-1423101235",
+      "name": "cleanyourtv",
+      "owner": "Gathin23",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "language": "Python",
+      "stars": 39046,
+      "updatedAt": 1793036690000,
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv"
+      ],
+      "cover": "/covers/viral-gathin23-cleanyourtv.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~4075★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T10:29:29.000Z",
+      "htmlUrl": "https://github.com/Gathin23/cleanyourtv"
+    },
+    {
+      "id": "viral-1426080579",
+      "name": "free-my-tv",
+      "owner": "simbasjungles",
+      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "language": "Java",
+      "stars": 4847,
+      "updatedAt": 1793044790000,
+      "topics": [
+        "android-tv",
+        "claude-code",
+        "google-tv",
+        "home-screen",
+        "launcher"
+      ],
+      "cover": "/covers/viral-simbasjungles-free-my-tv.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~682★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T02:37:25.959Z",
+      "htmlUrl": "https://github.com/simbasjungles/free-my-tv"
+    },
+    {
+      "id": "viral-1422597771",
+      "name": "learnharness",
+      "owner": "amosblomqvist",
+      "description": "Agent harness for learning difficult things.",
+      "language": "TypeScript",
+      "stars": 2316,
+      "updatedAt": 1792988199000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-amosblomqvist-learnharness.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~229★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T10:29:29.000Z",
+      "htmlUrl": "https://github.com/amosblomqvist/learnharness"
+    },
+    {
+      "id": "viral-1430513158",
+      "name": "BeautifulRust",
+      "owner": "morganlinton",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "language": "Python",
+      "stars": 1200,
+      "updatedAt": 1793022353000,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "clippy"
+      ],
+      "cover": "/covers/viral-morganlinton-beautifulrust.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~316★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T10:29:29.000Z",
+      "htmlUrl": "https://github.com/morganlinton/BeautifulRust"
+    },
+    {
+      "id": "viral-1427107663",
+      "name": "EAGLE-4",
+      "owner": "eagle-hq",
+      "description": "Official Inference Code of EAGLE-4",
+      "language": "Python",
+      "stars": 1006,
+      "updatedAt": 1793048530000,
+      "topics": [
+        "eagle",
+        "gpu",
+        "llm-inference",
+        "sglang",
+        "speculative-decoding"
+      ],
+      "cover": "/covers/viral-eagle-hq-eagle-4.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~179★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T10:29:29.000Z",
+      "htmlUrl": "https://github.com/eagle-hq/EAGLE-4"
+    },
+    {
+      "id": "viral-1433057196",
+      "name": "ex-ussr-kinship-research",
+      "owner": "DenisSergeevitch",
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "language": "Python",
+      "stars": 784,
+      "updatedAt": 1793046839000,
+      "topics": [
+        "agent-skills",
+        "archives",
+        "claude-code",
+        "codex",
+        "family-history"
+      ],
+      "cover": "/covers/viral-denissergeevitch-ex-ussr-kinship-research.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~522★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T15:21:41.973Z",
+      "htmlUrl": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
+    },
+    {
+      "id": "viral-1428369484",
+      "name": "cleanyourtv-app",
+      "owner": "udhaykumarbala",
+      "description": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
+      "language": "Kotlin",
+      "stars": 730,
+      "updatedAt": 1793016071000,
+      "topics": [
+        "adb",
+        "android-tv",
+        "debloat",
+        "fire-tv",
+        "google-tv"
+      ],
+      "cover": "/covers/viral-udhaykumarbala-cleanyourtv-app.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~132★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-26T02:36:02.235Z",
+      "htmlUrl": "https://github.com/udhaykumarbala/cleanyourtv-app"
+    },
+    {
+      "id": "viral-1428058681",
+      "name": "php2shell-poc",
+      "owner": "ikow",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "language": "Python",
+      "stars": 1829,
+      "updatedAt": 1792708896000,
+      "topics": [
+        "cve-2026-109618",
+        "cve-2026-109619",
+        "detection-rules",
+        "exploit",
+        "php-exploit"
+      ],
+      "cover": "/covers/viral-ikow-php2shell-poc.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~327★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-26T22:09:10.169Z",
+      "htmlUrl": "https://github.com/ikow/php2shell-poc"
+    },
+    {
+      "id": "viral-1426877531",
+      "name": "harp",
+      "owner": "dominikmartn",
+      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "language": "Rust",
+      "stars": 652,
+      "updatedAt": 1793039360000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-dominikmartn-harp.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~137★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-24T20:02:26.787Z",
+      "htmlUrl": "https://github.com/dominikmartn/harp"
+    },
+    {
+      "id": "viral-1432400572",
+      "name": "tv-fresh",
+      "owner": "wangrongding",
+      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+      "language": "Shell",
+      "stars": 498,
+      "updatedAt": 1792949617000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-wangrongding-tv-fresh.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~225★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T10:29:29.000Z",
+      "htmlUrl": "https://github.com/wangrongding/tv-fresh"
+    },
+    {
+      "id": "viral-1432649361",
+      "name": "CVEngine",
+      "owner": "hevnsnt",
+      "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+      "language": "Python",
+      "stars": 371,
+      "updatedAt": 1793051370000,
+      "topics": [
+        "ai",
+        "attack-surface-management",
+        "bbot",
+        "cybersecurity",
+        "mcp"
+      ],
+      "cover": "/covers/viral-hevnsnt-cvengine.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~187★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-26T02:36:02.235Z",
+      "htmlUrl": "https://github.com/hevnsnt/CVEngine"
+    },
+    {
+      "id": "viral-1427126014",
+      "name": "day-trader-skill",
+      "owner": "Jakeschincariol",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "language": "Python",
+      "stars": 2033,
+      "updatedAt": 1792505880000,
+      "topics": [
+        "backtesting",
+        "claude",
+        "claude-skills",
+        "day-trading",
+        "stock-market"
+      ],
+      "cover": "/covers/viral-jakeschincariol-day-trader-skill.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~321★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-26T02:36:02.235Z",
+      "htmlUrl": "https://github.com/Jakeschincariol/day-trader-skill"
+    },
+    {
+      "id": "viral-1433010899",
+      "name": "capri-desktop",
+      "owner": "mochiiwuff",
+      "description": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
+      "language": "JavaScript",
+      "stars": 231,
+      "updatedAt": 1793029710000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-mochiiwuff-capri-desktop.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-26T02:36:02.235Z",
+      "htmlUrl": "https://github.com/mochiiwuff/capri-desktop"
+    },
+    {
+      "id": "viral-1434616998",
+      "name": "ai-app-playbook",
+      "owner": "blakeandersonw",
+      "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "language": "TypeScript",
+      "stars": 186,
+      "updatedAt": 1793033725000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-blakeandersonw-ai-app-playbook.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~372★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-26T22:09:10.169Z",
+      "htmlUrl": "https://github.com/blakeandersonw/ai-app-playbook"
+    },
+    {
+      "id": "viral-1416497190",
+      "name": "dsh-purge",
+      "owner": "mmparko",
+      "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
+      "language": "JavaScript",
+      "stars": 2452,
+      "updatedAt": 1791870646000,
+      "topics": [
+        "archive",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "dsh-plugins"
+      ],
+      "cover": "/covers/viral-mmparko-dsh-purge.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~179★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-26T22:09:10.169Z",
+      "htmlUrl": "https://github.com/mmparko/dsh-purge"
+    },
+    {
+      "id": "viral-1432231624",
+      "name": "glm-5.3-abliterated",
+      "owner": "routerhubSI",
+      "description": "GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides.",
+      "language": "Python",
+      "stars": 390,
+      "updatedAt": 1792858237000,
+      "topics": [
+        "abliterated",
+        "abliterated-models",
+        "ai-api",
+        "ai-jailbreaks",
+        "api-gateway"
+      ],
+      "cover": "/covers/viral-routerhubsi-glm-5-3-abliterated.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~166★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T02:37:25.959Z",
+      "htmlUrl": "https://github.com/routerhubSI/glm-5.3-abliterated"
+    },
+    {
+      "id": "viral-1432398049",
+      "name": "uncensored-ai-api",
+      "owner": "routerhubSI",
+      "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "language": "Unknown",
+      "stars": 366,
+      "updatedAt": 1792861757000,
+      "topics": [
+        "abliterated-models",
+        "ai-api",
+        "ai-gateway",
+        "anthropic-compatible",
+        "claude-api"
+      ],
+      "cover": "/covers/viral-routerhubsi-uncensored-ai-api.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~165★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T02:37:25.959Z",
+      "htmlUrl": "https://github.com/routerhubSI/uncensored-ai-api"
+    },
+    {
+      "id": "viral-1433599699",
+      "name": "Roblox-Scripts",
+      "owner": "rbl-all-toosl",
+      "description": "🎯 Roblox-Scripts-Executor-Pc-Desktop-Any-Mod-Menu-Cheats-Script🎯",
+      "language": "HTML",
+      "stars": 172,
+      "updatedAt": 1792960135000,
+      "topics": [
+        "any-game-cheats",
+        "roblox-aim-assist",
+        "roblox-fly-noclip",
+        "roblox-hub-2026",
+        "roblox-menu-pc"
+      ],
+      "cover": "/covers/viral-rbl-all-toosl-roblox-scripts.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~161★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-26T02:36:02.235Z",
+      "htmlUrl": "https://github.com/rbl-all-toosl/Roblox-Scripts"
+    },
+    {
+      "id": "viral-1415387508",
+      "name": "mccarbon",
+      "owner": "yeqv111",
+      "description": "麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP",
+      "language": "Python",
+      "stars": 1955,
+      "updatedAt": 1791875756000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-yeqv111-mccarbon.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~145★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T10:29:29.000Z",
+      "htmlUrl": "https://github.com/yeqv111/mccarbon"
+    },
+    {
+      "id": "viral-1432698181",
+      "name": "Free-Deepseek",
+      "owner": "aideveloper-web",
+      "description": "Explore Free DeepSeek AI, a standalone AI application for users interested in artificial intelligence, conversational tools, and AI-assisted workflows.",
+      "language": "Unknown",
+      "stars": 109,
+      "updatedAt": 1792980769000,
+      "topics": [
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-api",
+        "deepseek-chat",
+        "deepseek-free"
+      ],
+      "cover": "/covers/viral-aideveloper-web-free-deepseek.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~188★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T02:37:25.959Z",
+      "htmlUrl": "https://github.com/aideveloper-web/Free-Deepseek"
+    },
+    {
       "id": "viral-1428519987",
       "name": "ai-jailbreaks",
       "owner": "Alejandros17487",
@@ -425,6 +666,26 @@
       "htmlUrl": "https://github.com/Alejandros17487/ai-jailbreaks"
     },
     {
+      "id": "viral-1432414341",
+      "name": "mcreplay",
+      "owner": "YoyoLin008",
+      "description": "McReplay（麦回放）— Structural snapshots, change reports, and local MCP replay for McDonald's China integrations.",
+      "language": "Python",
+      "stars": 206,
+      "updatedAt": 1792868163000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-yoyolin008-mcreplay.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~148★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-25T02:37:25.959Z",
+      "htmlUrl": "https://github.com/YoyoLin008/mcreplay"
+    },
+    {
       "id": "viral-1432294978",
       "name": "mcd-kcal-picker",
       "owner": "vxcn",
@@ -445,12 +706,55 @@
       "htmlUrl": "https://github.com/vxcn/mcd-kcal-picker"
     },
     {
+      "id": "viral-1416386910",
+      "name": "qwen21-nsfw-pose-skill",
+      "owner": "Arekejoker",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "language": "Python",
+      "stars": 3748,
+      "updatedAt": 1793032987000,
+      "topics": [
+        "agent-skill",
+        "comfyui",
+        "image-generation",
+        "openclaw",
+        "pose-control"
+      ],
+      "cover": "/covers/viral-arekejoker-qwen21-nsfw-pose-skill.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~272★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-24T10:04:22.311Z",
+      "htmlUrl": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+    },
+    {
+      "id": "viral-1424070461",
+      "name": "tv-detox",
+      "owner": "Ansub",
+      "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "language": "Java",
+      "stars": 1629,
+      "updatedAt": 1792992990000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-ansub-tv-detox.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~188★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-24T10:04:22.311Z",
+      "htmlUrl": "https://github.com/Ansub/tv-detox"
+    },
+    {
       "id": "viral-1431851693",
       "name": "android-ad-cleaner",
       "owner": "rddmwmddr",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "language": "Python",
-      "stars": 1465,
+      "stars": 1830,
       "updatedAt": 1792946763000,
       "topics": [
         "adb",
@@ -460,9 +764,9 @@
         "debloat"
       ],
       "cover": "/covers/viral-rddmwmddr-android-ad-cleaner.webp",
-      "sfx": "FIRE!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~646★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~680★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-24T15:10:15.797Z",
       "htmlUrl": "https://github.com/rddmwmddr/android-ad-cleaner"
@@ -473,8 +777,8 @@
       "owner": "cranebeaker",
       "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
       "language": "Python",
-      "stars": 1398,
-      "updatedAt": 1792940196000,
+      "stars": 1436,
+      "updatedAt": 1793031593000,
       "topics": [
         "trending",
         "github"
@@ -511,29 +815,6 @@
       "htmlUrl": "https://github.com/onehumanbeing/esp32-iphone-agent"
     },
     {
-      "id": "viral-1416386910",
-      "name": "qwen21-nsfw-pose-skill",
-      "owner": "Arekejoker",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "language": "Python",
-      "stars": 3743,
-      "updatedAt": 1792479810000,
-      "topics": [
-        "agent-skill",
-        "comfyui",
-        "image-generation",
-        "openclaw",
-        "pose-control"
-      ],
-      "cover": "/covers/viral-arekejoker-qwen21-nsfw-pose-skill.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~280★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-24T10:04:22.311Z",
-      "htmlUrl": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
-    },
-    {
       "id": "viral-1415358670",
       "name": "solid-glass",
       "owner": "deeplethe",
@@ -557,156 +838,27 @@
       "htmlUrl": "https://github.com/deeplethe/solid-glass"
     },
     {
-      "id": "viral-1427107663",
-      "name": "EAGLE-4",
-      "owner": "eagle-hq",
-      "description": "Official Inference Code of EAGLE-4",
+      "id": "viral-1415214046",
+      "name": "new-term-radar",
+      "owner": "zhuyansen",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "language": "Python",
-      "stars": 1001,
-      "updatedAt": 1792830856000,
+      "stars": 1792,
+      "updatedAt": 1792932080000,
       "topics": [
-        "eagle",
-        "gpu",
-        "llm-inference",
-        "sglang",
-        "speculative-decoding"
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills"
       ],
-      "cover": "/covers/viral-eagle-hq-eagle-4.webp",
+      "cover": "/covers/viral-zhuyansen-new-term-radar.webp",
       "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~179★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~132★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-10-25T10:29:29.000Z",
-      "htmlUrl": "https://github.com/eagle-hq/EAGLE-4"
-    },
-    {
-      "id": "viral-1432400572",
-      "name": "tv-fresh",
-      "owner": "wangrongding",
-      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
-      "language": "Shell",
-      "stars": 455,
-      "updatedAt": 1792949617000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-wangrongding-tv-fresh.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~254★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T10:29:29.000Z",
-      "htmlUrl": "https://github.com/wangrongding/tv-fresh"
-    },
-    {
-      "id": "viral-1427126014",
-      "name": "day-trader-skill",
-      "owner": "Jakeschincariol",
-      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "language": "Python",
-      "stars": 1862,
-      "updatedAt": 1792505880000,
-      "topics": [
-        "backtesting",
-        "claude",
-        "claude-skills",
-        "day-trading",
-        "stock-market"
-      ],
-      "cover": "/covers/viral-jakeschincariol-day-trader-skill.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~315★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-26T02:36:02.235Z",
-      "htmlUrl": "https://github.com/Jakeschincariol/day-trader-skill"
-    },
-    {
-      "id": "viral-1415387508",
-      "name": "mccarbon",
-      "owner": "yeqv111",
-      "description": "麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP",
-      "language": "Python",
-      "stars": 1955,
-      "updatedAt": 1791875756000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-yeqv111-mccarbon.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~145★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T10:29:29.000Z",
-      "htmlUrl": "https://github.com/yeqv111/mccarbon"
-    },
-    {
-      "id": "viral-1424070461",
-      "name": "tv-detox",
-      "owner": "Ansub",
-      "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
-      "language": "Java",
-      "stars": 1582,
-      "updatedAt": 1792992990000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-ansub-tv-detox.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~192★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-24T10:04:22.311Z",
-      "htmlUrl": "https://github.com/Ansub/tv-detox"
-    },
-    {
-      "id": "viral-1432231624",
-      "name": "glm-5.3-abliterated",
-      "owner": "routerhubSI",
-      "description": "GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides.",
-      "language": "Python",
-      "stars": 389,
-      "updatedAt": 1792858237000,
-      "topics": [
-        "abliterated",
-        "abliterated-models",
-        "ai-api",
-        "ai-jailbreaks",
-        "api-gateway"
-      ],
-      "cover": "/covers/viral-routerhubsi-glm-5-3-abliterated.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~202★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T02:37:25.959Z",
-      "htmlUrl": "https://github.com/routerhubSI/glm-5.3-abliterated"
-    },
-    {
-      "id": "viral-1432398049",
-      "name": "uncensored-ai-api",
-      "owner": "routerhubSI",
-      "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-      "language": "Unknown",
-      "stars": 366,
-      "updatedAt": 1792861757000,
-      "topics": [
-        "abliterated-models",
-        "ai-api",
-        "ai-gateway",
-        "anthropic-compatible",
-        "claude-api"
-      ],
-      "cover": "/covers/viral-routerhubsi-uncensored-ai-api.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~204★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T02:37:25.959Z",
-      "htmlUrl": "https://github.com/routerhubSI/uncensored-ai-api"
+      "spottedAt": "2026-10-23T10:48:50.714Z",
+      "htmlUrl": "https://github.com/zhuyansen/new-term-radar"
     },
     {
       "id": "viral-1431597980",
@@ -727,69 +879,6 @@
       "viral": true,
       "spottedAt": "2026-10-24T10:04:22.311Z",
       "htmlUrl": "https://github.com/ivarvong/lantern"
-    },
-    {
-      "id": "viral-1426877531",
-      "name": "harp",
-      "owner": "dominikmartn",
-      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "language": "Rust",
-      "stars": 632,
-      "updatedAt": 1792578594000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-dominikmartn-harp.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~137★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-24T20:02:26.787Z",
-      "htmlUrl": "https://github.com/dominikmartn/harp"
-    },
-    {
-      "id": "viral-1432414341",
-      "name": "mcreplay",
-      "owner": "YoyoLin008",
-      "description": "McReplay（麦回放）— Structural snapshots, change reports, and local MCP replay for McDonald's China integrations.",
-      "language": "Python",
-      "stars": 206,
-      "updatedAt": 1792868163000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-yoyolin008-mcreplay.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~148★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T02:37:25.959Z",
-      "htmlUrl": "https://github.com/YoyoLin008/mcreplay"
-    },
-    {
-      "id": "viral-1432698181",
-      "name": "Free-Deepseek",
-      "owner": "aideveloper-web",
-      "description": "Explore Free DeepSeek AI, a standalone AI application for users interested in artificial intelligence, conversational tools, and AI-assisted workflows.",
-      "language": "Unknown",
-      "stars": 109,
-      "updatedAt": 1792980769000,
-      "topics": [
-        "deepseek",
-        "deepseek-ai",
-        "deepseek-api",
-        "deepseek-chat",
-        "deepseek-free"
-      ],
-      "cover": "/covers/viral-aideveloper-web-free-deepseek.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~188★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T02:37:25.959Z",
-      "htmlUrl": "https://github.com/aideveloper-web/Free-Deepseek"
     },
     {
       "id": "viral-1431815066",
@@ -835,27 +924,6 @@
       "htmlUrl": "https://github.com/xkx121029/mcd-vibe-commit"
     },
     {
-      "id": "viral-1432694091",
-      "name": "pixeluxe-ai",
-      "owner": "breakbrawlerheart",
-      "description": "PixeLuxe is an AI image generation interface built around a single idea: a consistent, cinematic visual direction — deep shadow, magenta light, confident framing — instead of generic model output.",
-      "language": "Unknown",
-      "stars": 100,
-      "updatedAt": 1792887935000,
-      "topics": [
-        "explicit-content",
-        "hitomi-la",
-        "sex"
-      ],
-      "cover": "/covers/viral-breakbrawlerheart-pixeluxe-ai.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~200★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-25T02:37:25.959Z",
-      "htmlUrl": "https://github.com/breakbrawlerheart/pixeluxe-ai"
-    },
-    {
       "id": "viral-1432168526",
       "name": "mcd-meal-mate",
       "owner": "xanthichi",
@@ -879,27 +947,25 @@
       "htmlUrl": "https://github.com/xanthichi/mcd-meal-mate"
     },
     {
-      "id": "viral-1415214046",
-      "name": "new-term-radar",
-      "owner": "zhuyansen",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "language": "Python",
-      "stars": 1792,
-      "updatedAt": 1792932080000,
+      "id": "viral-1432694091",
+      "name": "pixeluxe-ai",
+      "owner": "breakbrawlerheart",
+      "description": "PixeLuxe is an AI image generation interface built around a single idea: a consistent, cinematic visual direction — deep shadow, magenta light, confident framing — instead of generic model output.",
+      "language": "Unknown",
+      "stars": 100,
+      "updatedAt": 1792887935000,
       "topics": [
-        "agent-skills",
-        "ai",
-        "aisa",
-        "claude-code",
-        "claude-skills"
+        "explicit-content",
+        "hitomi-la",
+        "sex"
       ],
-      "cover": "/covers/viral-zhuyansen-new-term-radar.webp",
-      "sfx": "RISE!!",
+      "cover": "/covers/viral-breakbrawlerheart-pixeluxe-ai.webp",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~132★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~200★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-10-23T10:48:50.714Z",
-      "htmlUrl": "https://github.com/zhuyansen/new-term-radar"
+      "spottedAt": "2026-10-25T02:37:25.959Z",
+      "htmlUrl": "https://github.com/breakbrawlerheart/pixeluxe-ai"
     },
     {
       "id": "viral-1425429552",
@@ -907,16 +973,16 @@
       "owner": "EthanArbuckle",
       "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
       "language": "C",
-      "stars": 2153,
+      "stars": 2174,
       "updatedAt": 1792879192000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-ethanarbuckle-fairplay-decrypt.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~304★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~290★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-23T02:49:29.227Z",
       "htmlUrl": "https://github.com/EthanArbuckle/fairplay-decrypt"
@@ -927,16 +993,16 @@
       "owner": "Snapintosh",
       "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
       "language": "Python",
-      "stars": 959,
+      "stars": 973,
       "updatedAt": 1792904743000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-snapintosh-snapintosh.webp",
-      "sfx": "RISE!!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~216★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~200★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-23T10:48:50.714Z",
       "htmlUrl": "https://github.com/Snapintosh/Snapintosh"
@@ -947,7 +1013,7 @@
       "owner": "alchaincyf",
       "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "language": "JavaScript",
-      "stars": 1711,
+      "stars": 1732,
       "updatedAt": 1792671577000,
       "topics": [
         "agent-skills",
@@ -959,10 +1025,30 @@
       "cover": "/covers/viral-alchaincyf-huashu-motion.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~214★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~206★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-23T20:51:04.410Z",
       "htmlUrl": "https://github.com/alchaincyf/huashu-motion"
+    },
+    {
+      "id": "viral-1429198796",
+      "name": "rossark-motion-skill",
+      "owner": "rossark0",
+      "description": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.",
+      "language": "Swift",
+      "stars": 506,
+      "updatedAt": 1792651126000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-rossark0-rossark-motion-skill.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~124★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-22T21:03:20.694Z",
+      "htmlUrl": "https://github.com/rossark0/rossark-motion-skill"
     },
     {
       "id": "viral-1429712836",
@@ -1108,7 +1194,7 @@
       "owner": "Caho1",
       "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
       "language": "TypeScript",
-      "stars": 1420,
+      "stars": 1428,
       "updatedAt": 1793010239000,
       "topics": [
         "anthropic",
@@ -1131,8 +1217,8 @@
       "owner": "reason-machines",
       "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
       "language": "Rust",
-      "stars": 1250,
-      "updatedAt": 1792997165000,
+      "stars": 1260,
+      "updatedAt": 1793029022000,
       "topics": [
         "coding-agents",
         "iroh",
@@ -1154,7 +1240,7 @@
       "owner": "Leonxlnx",
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "language": "Python",
-      "stars": 2854,
+      "stars": 2903,
       "updatedAt": 1792710779000,
       "topics": [
         "ai-agents",
@@ -1166,10 +1252,50 @@
       "cover": "/covers/viral-leonxlnx-earshot.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~254★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~249★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-10-22T10:56:35.705Z",
       "htmlUrl": "https://github.com/Leonxlnx/earshot"
+    },
+    {
+      "id": "viral-1428714029",
+      "name": "supermimic_vibed",
+      "owner": "zita-ch",
+      "description": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training",
+      "language": "Python",
+      "stars": 606,
+      "updatedAt": 1793019375000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-zita-ch-supermimic-vibed.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~123★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-22T10:56:35.705Z",
+      "htmlUrl": "https://github.com/zita-ch/supermimic_vibed"
+    },
+    {
+      "id": "viral-1422883896",
+      "name": "leanrea",
+      "owner": "aicodeking",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "language": "Python",
+      "stars": 2950,
+      "updatedAt": 1792409661000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-aicodeking-leanrea.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~301★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-10-22T21:03:20.694Z",
+      "htmlUrl": "https://github.com/aicodeking/leanrea"
     },
     {
       "id": "viral-1413021530",
@@ -1193,132 +1319,6 @@
       "viral": true,
       "spottedAt": "2026-10-22T16:24:46.115Z",
       "htmlUrl": "https://github.com/rociiu/talorys"
-    },
-    {
-      "id": "viral-1413187188",
-      "name": "mailcheap",
-      "owner": "marclou",
-      "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-      "language": "JavaScript",
-      "stars": 1319,
-      "updatedAt": 1792752427000,
-      "topics": [
-        "ai-agents",
-        "amazon-ses",
-        "beehiiv-alternative",
-        "email",
-        "email-marketing"
-      ],
-      "cover": "/covers/viral-marclou-mailcheap.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~107★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-22T16:24:46.115Z",
-      "htmlUrl": "https://github.com/marclou/mailcheap"
-    },
-    {
-      "id": "viral-1422883896",
-      "name": "leanrea",
-      "owner": "aicodeking",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "language": "Python",
-      "stars": 2731,
-      "updatedAt": 1792409661000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-aicodeking-leanrea.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~291★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-22T21:03:20.694Z",
-      "htmlUrl": "https://github.com/aicodeking/leanrea"
-    },
-    {
-      "id": "viral-1420751050",
-      "name": "git-ai",
-      "owner": "feder-cr",
-      "description": "Git designed for AI agents.",
-      "language": "Go",
-      "stars": 999,
-      "updatedAt": 1792753955000,
-      "topics": [
-        "ai-agents",
-        "coding-agents",
-        "git",
-        "golang",
-        "scion"
-      ],
-      "cover": "/covers/viral-feder-cr-git-ai.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~131★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-22T21:03:20.694Z",
-      "htmlUrl": "https://github.com/feder-cr/git-ai"
-    },
-    {
-      "id": "viral-1428714029",
-      "name": "supermimic_vibed",
-      "owner": "zita-ch",
-      "description": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training",
-      "language": "Python",
-      "stars": 587,
-      "updatedAt": 1792615179000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-zita-ch-supermimic-vibed.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~123★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-22T10:56:35.705Z",
-      "htmlUrl": "https://github.com/zita-ch/supermimic_vibed"
-    },
-    {
-      "id": "viral-1429198796",
-      "name": "rossark-motion-skill",
-      "owner": "rossark0",
-      "description": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.",
-      "language": "Swift",
-      "stars": 498,
-      "updatedAt": 1792651126000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-rossark0-rossark-motion-skill.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~124★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-22T21:03:20.694Z",
-      "htmlUrl": "https://github.com/rossark0/rossark-motion-skill"
-    },
-    {
-      "id": "viral-1429396529",
-      "name": "vvv",
-      "owner": "actionow-ai",
-      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
-      "language": "Python",
-      "stars": 324,
-      "updatedAt": 1792750485000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-actionow-ai-vvv.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~128★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-10-23T10:48:50.714Z",
-      "htmlUrl": "https://github.com/actionow-ai/vvv"
     }
   ]
 }

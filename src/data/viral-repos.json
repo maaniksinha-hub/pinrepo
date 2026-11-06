@@ -1,15 +1,38 @@
 {
-  "updatedAt": "2026-11-06T04:33:08.165Z",
+  "updatedAt": "2026-11-06T13:32:34.864Z",
   "source": "github-search-velocity",
   "repos": [
+    {
+      "id": "viral-1447903382",
+      "name": "roblox-studio-mcp",
+      "owner": "HerdBuilderEstimate",
+      "description": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+      "language": "Python",
+      "stars": 427,
+      "updatedAt": 1793945816000,
+      "topics": [
+        "ai-tools",
+        "automation",
+        "claude",
+        "cursor",
+        "developer-tools"
+      ],
+      "cover": "/covers/viral-herdbuilderestimate-roblox-studio-mcp.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~854★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-06T13:32:34.864Z",
+      "htmlUrl": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp"
+    },
     {
       "id": "viral-1432967563",
       "name": "dsh-Go",
       "owner": "ccch1mneyyy",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "language": "Dart",
-      "stars": 11802,
-      "updatedAt": 1793938502000,
+      "stars": 12564,
+      "updatedAt": 1793971927000,
       "topics": [
         "ai-agent",
         "android",
@@ -20,7 +43,7 @@
       "cover": "/covers/viral-ccch1mneyyy-dsh-go.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~996★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~1028★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-05T04:34:46.012Z",
       "htmlUrl": "https://github.com/ccch1mneyyy/dsh-Go"
@@ -31,8 +54,8 @@
       "owner": "wangzan101",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "language": "Kotlin",
-      "stars": 7184,
-      "updatedAt": 1793893597000,
+      "stars": 7316,
+      "updatedAt": 1793956810000,
       "topics": [
         "accessibility",
         "ai-agent",
@@ -43,7 +66,7 @@
       "cover": "/covers/viral-wangzan101-mika.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~947★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~919★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-05T04:34:46.012Z",
       "htmlUrl": "https://github.com/wangzan101/Mika"
@@ -54,7 +77,7 @@
       "owner": "deepseek-ai",
       "description": "Towards a More Autonomous Agent System",
       "language": "TypeScript",
-      "stars": 19692,
+      "stars": 20050,
       "updatedAt": 1793698154000,
       "topics": [
         "trending",
@@ -63,7 +86,7 @@
       "cover": "/covers/viral-deepseek-ai-dsh-superagent-prototype.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~3400★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~3251★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-06T04:33:08.165Z",
       "htmlUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype"
@@ -74,7 +97,7 @@
       "owner": "worldonlyu",
       "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "language": "Python",
-      "stars": 2520,
+      "stars": 2761,
       "updatedAt": 1793937126000,
       "topics": [
         "trending",
@@ -83,10 +106,33 @@
       "cover": "/covers/viral-worldonlyu-google-ai-pro-2year-zerocost-auto.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~1607★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~1421★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-04T23:03:36.264Z",
       "htmlUrl": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "id": "viral-1438661890",
+      "name": "rea-video",
+      "owner": "JuneYaooo",
+      "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+      "language": "Python",
+      "stars": 2585,
+      "updatedAt": 1793962501000,
+      "topics": [
+        "agent-skills",
+        "ai-video",
+        "aigc-detection",
+        "claude-code",
+        "codex"
+      ],
+      "cover": "/covers/viral-juneyaooo-rea-video.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~328★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-05T13:48:59.472Z",
+      "htmlUrl": "https://github.com/JuneYaooo/rea-video"
     },
     {
       "id": "viral-1432859403",
@@ -94,8 +140,8 @@
       "owner": "qybaihe",
       "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
       "language": "TypeScript",
-      "stars": 2453,
-      "updatedAt": 1793930953000,
+      "stars": 2502,
+      "updatedAt": 1793959615000,
       "topics": [
         "adversarial-ai",
         "claude-code",
@@ -112,75 +158,12 @@
       "htmlUrl": "https://github.com/qybaihe/bla"
     },
     {
-      "id": "viral-1438018242",
-      "name": "nvzhuang",
-      "owner": "paipiange",
-      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "language": "HTML",
-      "stars": 2261,
-      "updatedAt": 1793924522000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-paipiange-nvzhuang.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~285★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-04T23:03:36.264Z",
-      "htmlUrl": "https://github.com/paipiange/nvzhuang"
-    },
-    {
-      "id": "viral-1438661890",
-      "name": "rea-video",
-      "owner": "JuneYaooo",
-      "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
-      "language": "Python",
-      "stars": 2240,
-      "updatedAt": 1793897892000,
-      "topics": [
-        "agent-skills",
-        "ai-video",
-        "aigc-detection",
-        "claude-code",
-        "codex"
-      ],
-      "cover": "/covers/viral-juneyaooo-rea-video.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~298★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-05T13:48:59.472Z",
-      "htmlUrl": "https://github.com/JuneYaooo/rea-video"
-    },
-    {
-      "id": "viral-1438623288",
-      "name": "unslop",
-      "owner": "heydamir",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "language": "JavaScript",
-      "stars": 9975,
-      "updatedAt": 1793551570000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-heydamir-unslop.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~1324★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-05T04:34:46.012Z",
-      "htmlUrl": "https://github.com/heydamir/unslop"
-    },
-    {
       "id": "viral-1439885901",
       "name": "sapper-v2",
       "owner": "N1nEmAn",
       "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Creat",
       "language": "Python",
-      "stars": 1385,
+      "stars": 1431,
       "updatedAt": 1793710028000,
       "topics": [
         "ai-agents",
@@ -198,75 +181,6 @@
       "htmlUrl": "https://github.com/N1nEmAn/sapper-v2"
     },
     {
-      "id": "viral-1446569267",
-      "name": "watson-username-footprint-finder",
-      "owner": "AtomIllusionistDwell",
-      "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
-      "language": "TypeScript",
-      "stars": 431,
-      "updatedAt": 1793858837000,
-      "topics": [
-        "digital-footprint",
-        "electron",
-        "people-search",
-        "react",
-        "reverse-lookup"
-      ],
-      "cover": "/covers/viral-atomillusionistdwell-watson-username-footprint-finder.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~446★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-05T23:06:41.815Z",
-      "htmlUrl": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder"
-    },
-    {
-      "id": "viral-1446565991",
-      "name": "youtube-uploader",
-      "owner": "dragonwolfshovel",
-      "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
-      "language": "Python",
-      "stars": 426,
-      "updatedAt": 1793855795000,
-      "topics": [
-        "automation",
-        "batch-processing",
-        "cli-tool",
-        "content-creator",
-        "metadata-manager"
-      ],
-      "cover": "/covers/viral-dragonwolfshovel-youtube-uploader.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~439★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-05T13:48:59.472Z",
-      "htmlUrl": "https://github.com/dragonwolfshovel/youtube-uploader"
-    },
-    {
-      "id": "viral-1446578592",
-      "name": "steam-inventory-value-desktop",
-      "owner": "MythicHokageRepel",
-      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
-      "language": "JavaScript",
-      "stars": 416,
-      "updatedAt": 1793858912000,
-      "topics": [
-        "csgo-skins",
-        "desktop-app",
-        "electron",
-        "inventory-value",
-        "price-tracker"
-      ],
-      "cover": "/covers/viral-mythichokagerepel-steam-inventory-value-desktop.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~434★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-05T23:06:41.815Z",
-      "htmlUrl": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop"
-    },
-    {
       "id": "viral-1447225443",
       "name": "Token-Sniper",
       "owner": "Nebularotunnel",
@@ -282,12 +196,58 @@
         "dex"
       ],
       "cover": "/covers/viral-nebularotunnel-token-sniper.webp",
-      "sfx": "BOOM!!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~763★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~441★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-05T23:06:41.815Z",
       "htmlUrl": "https://github.com/Nebularotunnel/Token-Sniper"
+    },
+    {
+      "id": "viral-1447145240",
+      "name": "poki",
+      "owner": "JosssphZhou",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "language": "JavaScript",
+      "stars": 351,
+      "updatedAt": 1793963888000,
+      "topics": [
+        "ai-agents",
+        "automation",
+        "ios",
+        "iphone",
+        "mcp"
+      ],
+      "cover": "/covers/viral-josssphzhou-poki.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~375★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-05T23:06:41.815Z",
+      "htmlUrl": "https://github.com/JosssphZhou/poki"
+    },
+    {
+      "id": "viral-1446569267",
+      "name": "watson-username-footprint-finder",
+      "owner": "AtomIllusionistDwell",
+      "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "language": "TypeScript",
+      "stars": 436,
+      "updatedAt": 1793858837000,
+      "topics": [
+        "digital-footprint",
+        "electron",
+        "people-search",
+        "react",
+        "reverse-lookup"
+      ],
+      "cover": "/covers/viral-atomillusionistdwell-watson-username-footprint-finder.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~325★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-05T23:06:41.815Z",
+      "htmlUrl": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder"
     },
     {
       "id": "viral-1431830406",
@@ -295,7 +255,7 @@
       "owner": "t3dotgg",
       "description": "The agent skills I use every day. Works with Claude Code and Codex.",
       "language": "Python",
-      "stars": 3106,
+      "stars": 3142,
       "updatedAt": 1793155083000,
       "topics": [
         "trending",
@@ -310,50 +270,47 @@
       "htmlUrl": "https://github.com/t3dotgg/tstack"
     },
     {
-      "id": "viral-1447145240",
-      "name": "poki",
-      "owner": "JosssphZhou",
-      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "language": "JavaScript",
-      "stars": 278,
-      "updatedAt": 1793937985000,
+      "id": "viral-1446575402",
+      "name": "hermes-voice",
+      "owner": "majorminorlabs",
+      "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
+      "language": "Python",
+      "stars": 326,
+      "updatedAt": 1793971132000,
       "topics": [
-        "ai-agents",
-        "automation",
-        "ios",
-        "iphone",
-        "mcp"
+        "trending",
+        "github"
       ],
-      "cover": "/covers/viral-josssphzhou-poki.webp",
-      "sfx": "ZOOM!!",
+      "cover": "/covers/viral-majorminorlabs-hermes-voice.webp",
+      "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~495★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-05T23:06:41.815Z",
-      "htmlUrl": "https://github.com/JosssphZhou/poki"
+      "spottedAt": "2026-11-06T13:32:34.864Z",
+      "htmlUrl": "https://github.com/majorminorlabs/hermes-voice"
     },
     {
-      "id": "viral-1445375150",
-      "name": "imei-repair",
-      "owner": "MagpieDirect",
-      "description": "Free Imei Repair Tool 2023: Full working installer with all features activated, ready to run on your desktop.",
-      "language": "Unknown",
-      "stars": 400,
-      "updatedAt": 1793781818000,
+      "id": "viral-1446578592",
+      "name": "steam-inventory-value-desktop",
+      "owner": "MythicHokageRepel",
+      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "language": "JavaScript",
+      "stars": 422,
+      "updatedAt": 1793858912000,
       "topics": [
-        "automation",
-        "chimera",
-        "cpid",
-        "developer-tools",
-        "device-unlocking"
+        "csgo-skins",
+        "desktop-app",
+        "electron",
+        "inventory-value",
+        "price-tracker"
       ],
-      "cover": "/covers/viral-magpiedirect-imei-repair.webp",
-      "sfx": "ZOOM!!",
+      "cover": "/covers/viral-mythichokagerepel-steam-inventory-value-desktop.webp",
+      "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~219★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~317★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-05T23:06:41.815Z",
-      "htmlUrl": "https://github.com/MagpieDirect/imei-repair"
+      "htmlUrl": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop"
     },
     {
       "id": "viral-1445374651",
@@ -379,12 +336,95 @@
       "htmlUrl": "https://github.com/SpyIllusionistRank/frp-unlock-tool"
     },
     {
+      "id": "viral-1438018242",
+      "name": "nvzhuang",
+      "owner": "paipiange",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "language": "HTML",
+      "stars": 2279,
+      "updatedAt": 1793924522000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-paipiange-nvzhuang.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~274★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-04T23:03:36.264Z",
+      "htmlUrl": "https://github.com/paipiange/nvzhuang"
+    },
+    {
+      "id": "viral-1438623288",
+      "name": "unslop",
+      "owner": "heydamir",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "language": "JavaScript",
+      "stars": 10421,
+      "updatedAt": 1793551570000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-heydamir-unslop.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~1317★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-05T04:34:46.012Z",
+      "htmlUrl": "https://github.com/heydamir/unslop"
+    },
+    {
+      "id": "viral-1443985070",
+      "name": "agent-autoloop",
+      "owner": "KKKKhazix",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "language": "TypeScript",
+      "stars": 3516,
+      "updatedAt": 1793971029000,
+      "topics": [
+        "ai-agents",
+        "automation",
+        "claude-code",
+        "cli",
+        "codex"
+      ],
+      "cover": "/covers/viral-kkkkhazix-agent-autoloop.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~1089★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-04T04:16:37.945Z",
+      "htmlUrl": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "id": "viral-1433974029",
+      "name": "skills",
+      "owner": "benjitaylor",
+      "description": "Skills for AI coding agents.",
+      "language": "TypeScript",
+      "stars": 2183,
+      "updatedAt": 1793849666000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-benjitaylor-skills.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~195★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-04T13:35:23.946Z",
+      "htmlUrl": "https://github.com/benjitaylor/skills"
+    },
+    {
       "id": "viral-1439372976",
       "name": "pixelfx",
       "owner": "patch-gg",
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "language": "JavaScript",
-      "stars": 5339,
+      "stars": 5493,
       "updatedAt": 1793436254000,
       "topics": [
         "agent-skills",
@@ -394,9 +434,9 @@
         "gamedev"
       ],
       "cover": "/covers/viral-patch-gg-pixelfx.webp",
-      "sfx": "RISE!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~773★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~754★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-04T23:03:36.264Z",
       "htmlUrl": "https://github.com/patch-gg/pixelfx"
@@ -407,19 +447,223 @@
       "owner": "elvarofficial",
       "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
       "language": "JavaScript",
-      "stars": 2228,
+      "stars": 2342,
       "updatedAt": 1793455266000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-elvarofficial-teardown.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~328★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~327★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-04T23:03:36.264Z",
       "htmlUrl": "https://github.com/elvarofficial/teardown"
+    },
+    {
+      "id": "viral-1446565991",
+      "name": "youtube-uploader",
+      "owner": "dragonwolfshovel",
+      "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+      "language": "Python",
+      "stars": 428,
+      "updatedAt": 1793855795000,
+      "topics": [
+        "automation",
+        "batch-processing",
+        "cli-tool",
+        "content-creator",
+        "metadata-manager"
+      ],
+      "cover": "/covers/viral-dragonwolfshovel-youtube-uploader.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~318★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-05T13:48:59.472Z",
+      "htmlUrl": "https://github.com/dragonwolfshovel/youtube-uploader"
+    },
+    {
+      "id": "viral-1447014328",
+      "name": "ray-sticker-shop",
+      "owner": "imraywang",
+      "description": "一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill）",
+      "language": "Python",
+      "stars": 255,
+      "updatedAt": 1793884147000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-imraywang-ray-sticker-shop.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~251★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-06T13:32:34.864Z",
+      "htmlUrl": "https://github.com/imraywang/ray-sticker-shop"
+    },
+    {
+      "id": "viral-1447320029",
+      "name": "data-grip",
+      "owner": "BrickShadeCanopy",
+      "description": "Data Grip 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal software catalog management.",
+      "language": "Unknown",
+      "stars": 201,
+      "updatedAt": 1793900510000,
+      "topics": [
+        "atas-platform",
+        "atas-pro",
+        "automation",
+        "database-ide",
+        "datagrip-2026"
+      ],
+      "cover": "/covers/viral-brickshadecanopy-data-grip.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~243★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-06T13:32:34.864Z",
+      "htmlUrl": "https://github.com/BrickShadeCanopy/data-grip"
+    },
+    {
+      "id": "viral-1448023351",
+      "name": "autodesk-revit",
+      "owner": "feelingmediatorpace",
+      "description": "Autodesk Revit 2026 pre-configured environment for streamlined desktop software utility deployment.",
+      "language": "Unknown",
+      "stars": 200,
+      "updatedAt": 1793954403000,
+      "topics": [
+        "autodesk-3d",
+        "autodesk-revit-2023-pro",
+        "autodesk-revit-2025",
+        "autodesk-revit-mcp",
+        "autodesk-revit-pc"
+      ],
+      "cover": "/covers/viral-feelingmediatorpace-autodesk-revit.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~400★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-06T13:32:34.864Z",
+      "htmlUrl": "https://github.com/feelingmediatorpace/autodesk-revit"
+    },
+    {
+      "id": "viral-1447320095",
+      "name": "easy-worship",
+      "owner": "Sapphirekocheer",
+      "description": "Easy Worship 2023 automated deployment pipeline ready for immediate professional desktop software utility configuration.",
+      "language": "Unknown",
+      "stars": 200,
+      "updatedAt": 1793900515000,
+      "topics": [
+        "automation",
+        "church-presentation",
+        "desktop",
+        "developer-tools",
+        "easyworship"
+      ],
+      "cover": "/covers/viral-sapphirekocheer-easy-worship.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~242★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-06T13:32:34.864Z",
+      "htmlUrl": "https://github.com/Sapphirekocheer/easy-worship"
+    },
+    {
+      "id": "viral-1447463948",
+      "name": "turkish-anti-ai-skill",
+      "owner": "yucezerey",
+      "description": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+      "language": "Python",
+      "stars": 186,
+      "updatedAt": 1793919681000,
+      "topics": [
+        "agent-skills",
+        "ai-skills",
+        "ai-writing",
+        "claude-code",
+        "codex"
+      ],
+      "cover": "/covers/viral-yucezerey-turkish-anti-ai-skill.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~256★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-06T13:32:34.864Z",
+      "htmlUrl": "https://github.com/yucezerey/turkish-anti-ai-skill"
+    },
+    {
+      "id": "viral-1445375150",
+      "name": "imei-repair",
+      "owner": "MagpieDirect",
+      "description": "Free Imei Repair Tool 2023: Full working installer with all features activated, ready to run on your desktop.",
+      "language": "Unknown",
+      "stars": 400,
+      "updatedAt": 1793781818000,
+      "topics": [
+        "automation",
+        "chimera",
+        "cpid",
+        "developer-tools",
+        "device-unlocking"
+      ],
+      "cover": "/covers/viral-magpiedirect-imei-repair.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~219★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-05T23:06:41.815Z",
+      "htmlUrl": "https://github.com/MagpieDirect/imei-repair"
+    },
+    {
+      "id": "viral-1442223451",
+      "name": "uncensored-ai-api",
+      "owner": "UncensoredLabs",
+      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "language": "JavaScript",
+      "stars": 939,
+      "updatedAt": 1793566627000,
+      "topics": [
+        "abliterated-models",
+        "ai-models",
+        "chat-api",
+        "deepseek",
+        "deepseek-flash-uncensored"
+      ],
+      "cover": "/covers/viral-uncensoredlabs-uncensored-ai-api.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~205★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-04T13:35:23.946Z",
+      "htmlUrl": "https://github.com/UncensoredLabs/uncensored-ai-api"
+    },
+    {
+      "id": "viral-1444561183",
+      "name": "watson-AI-osint-all-in-one",
+      "owner": "Chipwithinflash",
+      "description": "Free OSINT search tool for Windows. 3100+ sources, one field, no terminal.",
+      "language": "TypeScript",
+      "stars": 495,
+      "updatedAt": 1793725133000,
+      "topics": [
+        "desktop",
+        "electron",
+        "email-lookup",
+        "footprint",
+        "osint"
+      ],
+      "cover": "/covers/viral-chipwithinflash-watson-ai-osint-all-in-one.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~568★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-04T13:35:23.946Z",
+      "htmlUrl": "https://github.com/Chipwithinflash/watson-AI-osint-all-in-one"
     },
     {
       "id": "viral-1445948047",
@@ -427,7 +671,7 @@
       "owner": "Balanov",
       "description": "One tiny HTTPS contract between any agent and any service. Quote, approve, commit, receipt. Zero dependencies. MIT.",
       "language": "JavaScript",
-      "stars": 225,
+      "stars": 230,
       "updatedAt": 1793840244000,
       "topics": [
         "agents"
@@ -462,6 +706,72 @@
       "viral": true,
       "spottedAt": "2026-11-05T13:48:59.472Z",
       "htmlUrl": "https://github.com/TalonMacawShock/wondshare-recoverit"
+    },
+    {
+      "id": "viral-1444635695",
+      "name": "muse4ai",
+      "owner": "andrew-babo",
+      "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "language": "TypeScript",
+      "stars": 914,
+      "updatedAt": 1793969511000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-andrew-babo-muse4ai.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~324★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-04T13:35:23.946Z",
+      "htmlUrl": "https://github.com/andrew-babo/muse4ai"
+    },
+    {
+      "id": "viral-1444593808",
+      "name": "stolen-crypto-tracer",
+      "owner": "PatchBuilderAmplify",
+      "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+      "language": "JavaScript",
+      "stars": 407,
+      "updatedAt": 1793725722000,
+      "topics": [
+        "blockchain",
+        "crypto",
+        "exchange",
+        "osint",
+        "report"
+      ],
+      "cover": "/covers/viral-patchbuilderamplify-stolen-crypto-tracer.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~219★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-04T13:35:23.946Z",
+      "htmlUrl": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
+    },
+    {
+      "id": "viral-1445377780",
+      "name": "unlocktool",
+      "owner": "Roninteeliminate",
+      "description": "Unlocktool 2026 - Full working installer with all features unlocked and ready to run on your desktop.",
+      "language": "Unknown",
+      "stars": 301,
+      "updatedAt": 1793781971000,
+      "topics": [
+        "android-repair-tools",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source"
+      ],
+      "cover": "/covers/viral-roninteeliminate-unlocktool.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~249★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-05T04:34:46.012Z",
+      "htmlUrl": "https://github.com/Roninteeliminate/unlocktool"
     },
     {
       "id": "viral-1445377862",
@@ -510,6 +820,29 @@
       "htmlUrl": "https://github.com/VectorLobsterBearing/landr-plugin-bundle"
     },
     {
+      "id": "viral-1445372501",
+      "name": "aida-64-extreme",
+      "owner": "driveinspectorgrow",
+      "description": "Ready-to-run desktop installation build of Aida 64 Extreme 2026. Full working installer with complete standalone setup, pre-activated for...",
+      "language": "Unknown",
+      "stars": 300,
+      "updatedAt": 1793781668000,
+      "topics": [
+        "aida64",
+        "aida64-extreme-compatibility-check",
+        "aida64-extreme-detailed-reporting",
+        "aida64-extreme-hardware-diagnostics",
+        "aida64-extreme-setup"
+      ],
+      "cover": "/covers/viral-driveinspectorgrow-aida-64-extreme.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~247★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-05T04:34:46.012Z",
+      "htmlUrl": "https://github.com/driveinspectorgrow/aida-64-extreme"
+    },
+    {
       "id": "viral-1445372488",
       "name": "adobe-substance-3d",
       "owner": "rivettypegap3",
@@ -531,95 +864,6 @@
       "viral": true,
       "spottedAt": "2026-11-05T13:48:59.472Z",
       "htmlUrl": "https://github.com/rivettypegap3/adobe-substance-3d"
-    },
-    {
-      "id": "viral-1444635695",
-      "name": "muse4ai",
-      "owner": "andrew-babo",
-      "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
-      "language": "TypeScript",
-      "stars": 846,
-      "updatedAt": 1793813926000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-andrew-babo-muse4ai.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~345★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-04T13:35:23.946Z",
-      "htmlUrl": "https://github.com/andrew-babo/muse4ai"
-    },
-    {
-      "id": "viral-1442223451",
-      "name": "uncensored-ai-api",
-      "owner": "UncensoredLabs",
-      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
-      "language": "JavaScript",
-      "stars": 884,
-      "updatedAt": 1793566627000,
-      "topics": [
-        "abliterated-models",
-        "ai-models",
-        "chat-api",
-        "deepseek",
-        "deepseek-flash-uncensored"
-      ],
-      "cover": "/covers/viral-uncensoredlabs-uncensored-ai-api.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~205★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-04T13:35:23.946Z",
-      "htmlUrl": "https://github.com/UncensoredLabs/uncensored-ai-api"
-    },
-    {
-      "id": "viral-1444561183",
-      "name": "watson-AI-osint-all-in-one",
-      "owner": "Chipwithinflash",
-      "description": "Free OSINT search tool for Windows. 3100+ sources, one field, no terminal.",
-      "language": "TypeScript",
-      "stars": 495,
-      "updatedAt": 1793725133000,
-      "topics": [
-        "desktop",
-        "electron",
-        "email-lookup",
-        "footprint",
-        "osint"
-      ],
-      "cover": "/covers/viral-chipwithinflash-watson-ai-osint-all-in-one.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~568★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-04T13:35:23.946Z",
-      "htmlUrl": "https://github.com/Chipwithinflash/watson-AI-osint-all-in-one"
-    },
-    {
-      "id": "viral-1444593808",
-      "name": "stolen-crypto-tracer",
-      "owner": "PatchBuilderAmplify",
-      "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
-      "language": "JavaScript",
-      "stars": 407,
-      "updatedAt": 1793725722000,
-      "topics": [
-        "blockchain",
-        "crypto",
-        "exchange",
-        "osint",
-        "report"
-      ],
-      "cover": "/covers/viral-patchbuilderamplify-stolen-crypto-tracer.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~219★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-04T13:35:23.946Z",
-      "htmlUrl": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
     },
     {
       "id": "viral-1444558353",
@@ -696,8 +940,8 @@
       "owner": "rddmwmddr",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "language": "Python",
-      "stars": 6594,
-      "updatedAt": 1793938959000,
+      "stars": 6670,
+      "updatedAt": 1793970687000,
       "topics": [
         "adb",
         "ai-agent",
@@ -708,99 +952,10 @@
       "cover": "/covers/viral-rddmwmddr-android-ad-cleaner.webp",
       "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~509★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~500★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-03T13:24:10.940Z",
       "htmlUrl": "https://github.com/rddmwmddr/android-ad-cleaner"
-    },
-    {
-      "id": "viral-1443985070",
-      "name": "agent-autoloop",
-      "owner": "KKKKhazix",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "language": "TypeScript",
-      "stars": 3350,
-      "updatedAt": 1793938446000,
-      "topics": [
-        "ai-agents",
-        "automation",
-        "claude-code",
-        "cli",
-        "codex"
-      ],
-      "cover": "/covers/viral-kkkkhazix-agent-autoloop.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~1173★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-04T04:16:37.945Z",
-      "htmlUrl": "https://github.com/KKKKhazix/agent-autoloop"
-    },
-    {
-      "id": "viral-1433974029",
-      "name": "skills",
-      "owner": "benjitaylor",
-      "description": "Skills for AI coding agents.",
-      "language": "TypeScript",
-      "stars": 2136,
-      "updatedAt": 1793849666000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-benjitaylor-skills.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~195★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-04T13:35:23.946Z",
-      "htmlUrl": "https://github.com/benjitaylor/skills"
-    },
-    {
-      "id": "viral-1445377780",
-      "name": "unlocktool",
-      "owner": "Roninteeliminate",
-      "description": "Unlocktool 2026 - Full working installer with all features unlocked and ready to run on your desktop.",
-      "language": "Unknown",
-      "stars": 301,
-      "updatedAt": 1793781971000,
-      "topics": [
-        "android-repair-tools",
-        "automation",
-        "desktop",
-        "developer-tools",
-        "open-source"
-      ],
-      "cover": "/covers/viral-roninteeliminate-unlocktool.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~249★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-05T04:34:46.012Z",
-      "htmlUrl": "https://github.com/Roninteeliminate/unlocktool"
-    },
-    {
-      "id": "viral-1445372501",
-      "name": "aida-64-extreme",
-      "owner": "driveinspectorgrow",
-      "description": "Ready-to-run desktop installation build of Aida 64 Extreme 2026. Full working installer with complete standalone setup, pre-activated for...",
-      "language": "Unknown",
-      "stars": 300,
-      "updatedAt": 1793781668000,
-      "topics": [
-        "aida64",
-        "aida64-extreme-compatibility-check",
-        "aida64-extreme-detailed-reporting",
-        "aida64-extreme-hardware-diagnostics",
-        "aida64-extreme-setup"
-      ],
-      "cover": "/covers/viral-driveinspectorgrow-aida-64-extreme.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~247★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-05T04:34:46.012Z",
-      "htmlUrl": "https://github.com/driveinspectorgrow/aida-64-extreme"
     },
     {
       "id": "viral-1435695423",
@@ -808,7 +963,7 @@
       "owner": "anhao",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "language": "TypeScript",
-      "stars": 6118,
+      "stars": 6208,
       "updatedAt": 1793779750000,
       "topics": [
         "ai-art",
@@ -820,7 +975,7 @@
       "cover": "/covers/viral-anhao-ai-pose-gallery-zh.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~633★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~618★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-03T00:17:17.683Z",
       "htmlUrl": "https://github.com/anhao/ai-pose-gallery-zh"
@@ -831,8 +986,8 @@
       "owner": "lexifina",
       "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
       "language": "HTML",
-      "stars": 1822,
-      "updatedAt": 1793939507000,
+      "stars": 1833,
+      "updatedAt": 1793971491000,
       "topics": [
         "git",
         "law",
@@ -854,8 +1009,8 @@
       "owner": "wquguru",
       "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
       "language": "Swift",
-      "stars": 1509,
-      "updatedAt": 1793929316000,
+      "stars": 1538,
+      "updatedAt": 1793971347000,
       "topics": [
         "android",
         "linux",
@@ -864,9 +1019,9 @@
         "meeting-notes"
       ],
       "cover": "/covers/viral-wquguru-cicada.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~305★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~289★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-03T22:45:39.361Z",
       "htmlUrl": "https://github.com/wquguru/cicada"
@@ -900,7 +1055,7 @@
       "owner": "haydenschmitty",
       "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "language": "JavaScript",
-      "stars": 3005,
+      "stars": 3036,
       "updatedAt": 1793650008000,
       "topics": [
         "ai-coding",
@@ -910,9 +1065,9 @@
         "claude-code-plugin"
       ],
       "cover": "/covers/viral-haydenschmitty-floorplan.webp",
-      "sfx": "BANG!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~310★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~302★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-03T13:24:10.940Z",
       "htmlUrl": "https://github.com/haydenschmitty/floorplan"
@@ -923,7 +1078,7 @@
       "owner": "mhfed",
       "description": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
       "language": "Shell",
-      "stars": 445,
+      "stars": 453,
       "updatedAt": 1793874861000,
       "topics": [
         "agent-md",
@@ -969,16 +1124,16 @@
       "owner": "mromidev",
       "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
       "language": "TypeScript",
-      "stars": 1812,
+      "stars": 1952,
       "updatedAt": 1793512634000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-mromidev-claude-animated-shorts.webp",
-      "sfx": "HOT!!",
+      "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~366★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~367★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-02T14:25:23.266Z",
       "htmlUrl": "https://github.com/mromidev/claude-animated-shorts"
@@ -1012,7 +1167,7 @@
       "owner": "Balanov",
       "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
       "language": "Go",
-      "stars": 463,
+      "stars": 466,
       "updatedAt": 1793642095000,
       "topics": [
         "trending",
@@ -1170,8 +1325,8 @@
       "owner": "modelflare-ai",
       "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the a",
       "language": "Python",
-      "stars": 2720,
-      "updatedAt": 1793870125000,
+      "stars": 2727,
+      "updatedAt": 1793963850000,
       "topics": [
         "ai-agent",
         "ai-assistant",
@@ -1180,160 +1335,12 @@
         "computer-use"
       ],
       "cover": "/covers/viral-modelflare-ai-anymodelbot.webp",
-      "sfx": "HOT!!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~277★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~267★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-02T14:25:23.266Z",
       "htmlUrl": "https://github.com/modelflare-ai/AnyModelBot"
-    },
-    {
-      "id": "viral-1442808316",
-      "name": "wondshare-recoverit",
-      "owner": "stoneworkerenlarge",
-      "description": "Wondshare Recoverit 2026: Full working installer with complete data recovery capabilities, ready to run on your desktop.",
-      "language": "Unknown",
-      "stars": 200,
-      "updatedAt": 1793614564000,
-      "topics": [
-        "android-data-recovery-software-fonelab",
-        "automation",
-        "data-recovery",
-        "data-recovery-software",
-        "data-recovery-tool"
-      ],
-      "cover": "/covers/viral-stoneworkerenlarge-wondshare-recoverit.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~342★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-03T00:17:17.683Z",
-      "htmlUrl": "https://github.com/stoneworkerenlarge/wondshare-recoverit"
-    },
-    {
-      "id": "viral-1441517767",
-      "name": "stack-diagram",
-      "owner": "caru-ini",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "language": "TypeScript",
-      "stars": 1879,
-      "updatedAt": 1793677366000,
-      "topics": [
-        "agent-skills",
-        "architecture-diagram",
-        "claude-code",
-        "claude-skills",
-        "codex"
-      ],
-      "cover": "/covers/viral-caru-ini-stack-diagram.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~379★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-01T21:33:35.905Z",
-      "htmlUrl": "https://github.com/caru-ini/stack-diagram"
-    },
-    {
-      "id": "viral-1433904617",
-      "name": "digital-human-koubo",
-      "owner": "andyhuo520",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "language": "TypeScript",
-      "stars": 1826,
-      "updatedAt": 1793448346000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-andyhuo520-digital-human-koubo.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~182★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-02T03:46:00.509Z",
-      "htmlUrl": "https://github.com/andyhuo520/digital-human-koubo"
-    },
-    {
-      "id": "viral-1438732649",
-      "name": "HairDeck",
-      "owner": "hyz317",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "language": "Python",
-      "stars": 812,
-      "updatedAt": 1793689818000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-hyz317-hairdeck.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~185★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-02T03:46:00.509Z",
-      "htmlUrl": "https://github.com/hyz317/HairDeck"
-    },
-    {
-      "id": "viral-1441489322",
-      "name": "phongent",
-      "owner": "mylea1",
-      "description": "基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端",
-      "language": "Kotlin",
-      "stars": 336,
-      "updatedAt": 1793625777000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-mylea1-phongent.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~215★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-02T14:25:23.266Z",
-      "htmlUrl": "https://github.com/mylea1/phongent"
-    },
-    {
-      "id": "viral-1442802414",
-      "name": "anyunlock",
-      "owner": "Streetbratreasure",
-      "description": "Anyunlock 2026: Full working installer for a powerful desktop utility configuration, ready to run right out of the box.",
-      "language": "Unknown",
-      "stars": 339,
-      "updatedAt": 1793614225000,
-      "topics": [
-        "apple-id-remove",
-        "apple-id-remover",
-        "developer-tools",
-        "device-tool",
-        "frp-tool"
-      ],
-      "cover": "/covers/viral-streetbratreasure-anyunlock.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~576★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-03T00:17:17.683Z",
-      "htmlUrl": "https://github.com/Streetbratreasure/anyunlock"
-    },
-    {
-      "id": "viral-1442499170",
-      "name": "minecraft-aim-assist",
-      "owner": "davidlopez-x05x8",
-      "description": "Minecraft Aim Assist 2026 — Smooth aiming assistance for 1.21.4 Fabric. Adaptive tracking, customizable FOV, visibility check and clean UI. Easy install, regularly updated",
-      "language": "Python",
-      "stars": 301,
-      "updatedAt": 1793593189000,
-      "topics": [
-        "minecraft"
-      ],
-      "cover": "/covers/viral-davidlopez-x05x8-minecraft-aim-assist.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~170★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-02T14:25:23.266Z",
-      "htmlUrl": "https://github.com/davidlopez-x05x8/minecraft-aim-assist"
     }
   ]
 }

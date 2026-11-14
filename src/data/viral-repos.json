@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:06:19.441Z",
+  "updatedAt": "2026-11-14T04:24:37.024Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -8,8 +8,8 @@
       "owner": "KKKKhazix",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stars": 5118,
-      "updatedAt": 1794591687000,
+      "stars": 5161,
+      "updatedAt": 1794621682000,
       "topics": [
         "ai-agents",
         "automation",
@@ -18,12 +18,120 @@
         "codex"
       ],
       "cover": "/covers/viral-kkkkhazix-agent-autoloop.webp",
-      "sfx": "FIRE!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~482★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~476★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T04:29:11.358Z",
       "htmlUrl": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "id": "viral-1443650212",
+      "name": "gputaskman",
+      "owner": "shanselman",
+      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "language": "Python",
+      "stars": 3099,
+      "updatedAt": 1794610660000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-shanselman-gputaskman.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~278★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/shanselman/gputaskman"
+    },
+    {
+      "id": "viral-1443186633",
+      "name": "kiri",
+      "owner": "libracoder",
+      "description": "A small, fast container runtime for macOS, Windows and Linux",
+      "language": "Rust",
+      "stars": 2339,
+      "updatedAt": 1794627537000,
+      "topics": [
+        "containers",
+        "docker",
+        "kubernetes",
+        "linux",
+        "macos"
+      ],
+      "cover": "/covers/viral-libracoder-kiri.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~187★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-13T04:29:11.358Z",
+      "htmlUrl": "https://github.com/libracoder/kiri"
+    },
+    {
+      "id": "viral-1447145240",
+      "name": "poki",
+      "owner": "JosssphZhou",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "language": "Swift",
+      "stars": 1114,
+      "updatedAt": 1794629874000,
+      "topics": [
+        "ai-agents",
+        "automation",
+        "ios",
+        "iphone",
+        "mcp"
+      ],
+      "cover": "/covers/viral-josssphzhou-poki.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~137★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-13T04:29:11.358Z",
+      "htmlUrl": "https://github.com/JosssphZhou/poki"
+    },
+    {
+      "id": "viral-1444573070",
+      "name": "agent_skills",
+      "owner": "janestreet",
+      "description": "Agent skills",
+      "language": "Unknown",
+      "stars": 8329,
+      "updatedAt": 1793729653000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-janestreet-agent-skills.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~795★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/janestreet/agent_skills"
+    },
+    {
+      "id": "viral-1455515238",
+      "name": "sakurai-skill",
+      "owner": "kociden",
+      "description": "桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語）",
+      "language": "Python",
+      "stars": 225,
+      "updatedAt": 1794519719000,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "game-design",
+        "gamedev"
+      ],
+      "cover": "/covers/viral-kociden-sakurai-skill.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~164★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-13T13:43:51.004Z",
+      "htmlUrl": "https://github.com/kociden/sakurai-skill"
     },
     {
       "id": "viral-1456719459",
@@ -41,9 +149,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-eagrafki-byte-ai-manus.webp",
-      "sfx": "RISE!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/eagrafki-byte/ai--manus"
@@ -87,9 +195,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-tyesheh-ai-manus.webp",
-      "sfx": "HOT!!",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/tyesheh/ai--manus"
@@ -110,9 +218,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-alphafalcongamer-creator-manus-ai.webp",
-      "sfx": "FIRE!",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/alphafalcongamer-creator/manus--ai"
@@ -133,9 +241,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-mtn-imran-khan-ai-manus.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/mtn-imran-khan/ai--manus"
@@ -179,9 +287,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-itprogamatikdedsec-ai-manus.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~258★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/ITprogamatikDedSec/ai--manus"
@@ -202,9 +310,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-python001-dev-manus-ai.webp",
-      "sfx": "RISE!!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/python001-dev/manus--ai"
@@ -225,9 +333,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-mtn-imran-khan-manus-ai.webp",
-      "sfx": "BOOM!!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/mtn-imran-khan/manus--ai"
@@ -248,9 +356,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-lebronstx-collab-manus-ai.webp",
-      "sfx": "HOT!!",
+      "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/lebronstx-collab/manus--ai"
@@ -340,9 +448,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-lloweryfn-rgb-manus-ai.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/lloweryfn-rgb/manus--ai"
@@ -363,9 +471,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-tonikriegers14-hue-ai-manus.webp",
-      "sfx": "RISE!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/tonikriegers14-hue/ai--manus"
@@ -455,9 +563,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-nachalnikokk-manus-ai.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/nachalnikokk/manus--ai"
@@ -480,7 +588,7 @@
       "cover": "/covers/viral-tonikriegers14-hue-manus-ai.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/tonikriegers14-hue/manus--ai"
@@ -547,9 +655,9 @@
         "chatbot"
       ],
       "cover": "/covers/viral-redderz-code-manus-ai.webp",
-      "sfx": "BOOM!!",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/Redderz-code/manus--ai"
@@ -572,53 +680,217 @@
       "cover": "/covers/viral-qweqeqeqweqeqwe-ai-manus.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T23:06:19.441Z",
       "htmlUrl": "https://github.com/qweqeqeqweqeqwe/ai--manus"
     },
     {
-      "id": "viral-1444112593",
-      "name": "cinecode",
-      "owner": "sarpstar",
-      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-      "language": "Python",
-      "stars": 2414,
-      "updatedAt": 1794519634000,
+      "id": "viral-1456720732",
+      "name": "manus--ai",
+      "owner": "stancaedy10-glitch",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "language": "Unknown",
+      "stars": 146,
+      "updatedAt": 1794581249000,
       "topics": [
-        "trending",
-        "github"
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
       ],
-      "cover": "/covers/viral-sarpstar-cinecode.webp",
-      "sfx": "BANG!",
+      "cover": "/covers/viral-stancaedy10-glitch-manus-ai.webp",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~235★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-12T05:13:02.415Z",
-      "htmlUrl": "https://github.com/sarpstar/cinecode"
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/stancaedy10-glitch/manus--ai"
     },
     {
-      "id": "viral-1443186633",
-      "name": "kiri",
-      "owner": "libracoder",
-      "description": "A small, fast container runtime for macOS, Windows and Linux",
-      "language": "Rust",
-      "stars": 2144,
-      "updatedAt": 1794587250000,
+      "id": "viral-1456720421",
+      "name": "ai--manus",
+      "owner": "stancaedy10-glitch",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": "Unknown",
+      "stars": 146,
+      "updatedAt": 1794581232000,
       "topics": [
-        "containers",
-        "docker",
-        "kubernetes",
-        "linux",
-        "macos"
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
       ],
-      "cover": "/covers/viral-libracoder-kiri.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~187★/day). Pin it before your AI stack falls behind.",
+      "cover": "/covers/viral-stancaedy10-glitch-ai-manus.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-13T04:29:11.358Z",
-      "htmlUrl": "https://github.com/libracoder/kiri"
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/stancaedy10-glitch/ai--manus"
+    },
+    {
+      "id": "viral-1456720350",
+      "name": "ai--manus",
+      "owner": "python001-dev",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": "Unknown",
+      "stars": 146,
+      "updatedAt": 1794581232000,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
+      ],
+      "cover": "/covers/viral-python001-dev-ai-manus.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/python001-dev/ai--manus"
+    },
+    {
+      "id": "viral-1456720269",
+      "name": "ai--manus",
+      "owner": "alphafalcongamer-creator",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": "Unknown",
+      "stars": 146,
+      "updatedAt": 1794581225000,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
+      ],
+      "cover": "/covers/viral-alphafalcongamer-creator-ai-manus.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/alphafalcongamer-creator/ai--manus"
+    },
+    {
+      "id": "viral-1456720190",
+      "name": "ai--manus",
+      "owner": "rambotronado112-sudo",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": "Unknown",
+      "stars": 146,
+      "updatedAt": 1794581222000,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
+      ],
+      "cover": "/covers/viral-rambotronado112-sudo-ai-manus.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/rambotronado112-sudo/ai--manus"
+    },
+    {
+      "id": "viral-1456719748",
+      "name": "manus--ai",
+      "owner": "Floxaep1",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "language": "Unknown",
+      "stars": 146,
+      "updatedAt": 1794581196000,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
+      ],
+      "cover": "/covers/viral-floxaep1-manus-ai.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/Floxaep1/manus--ai"
+    },
+    {
+      "id": "viral-1456719566",
+      "name": "ai--manus",
+      "owner": "melchersimon011-bot",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": "Unknown",
+      "stars": 146,
+      "updatedAt": 1794581193000,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
+      ],
+      "cover": "/covers/viral-melchersimon011-bot-ai-manus.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/melchersimon011-bot/ai--manus"
+    },
+    {
+      "id": "viral-1456719554",
+      "name": "ai--manus",
+      "owner": "lloweryfn-rgb",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": "Unknown",
+      "stars": 146,
+      "updatedAt": 1794581189000,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
+      ],
+      "cover": "/covers/viral-lloweryfn-rgb-ai-manus.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/lloweryfn-rgb/ai--manus"
+    },
+    {
+      "id": "viral-1456719430",
+      "name": "ai--manus",
+      "owner": "Floxaep1",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "language": "Unknown",
+      "stars": 146,
+      "updatedAt": 1794581180000,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "chatbot"
+      ],
+      "cover": "/covers/viral-floxaep1-ai-manus.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~257★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T04:24:37.024Z",
+      "htmlUrl": "https://github.com/Floxaep1/ai--manus"
     },
     {
       "id": "viral-1448515937",
@@ -626,8 +898,8 @@
       "owner": "DIYgod",
       "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
       "language": "Go",
-      "stars": 2079,
-      "updatedAt": 1794579483000,
+      "stars": 2090,
+      "updatedAt": 1794621115000,
       "topics": [
         "ai-agent",
         "android",
@@ -636,126 +908,12 @@
         "iphone"
       ],
       "cover": "/covers/viral-diygod-pinky.webp",
-      "sfx": "RISE!!",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~301★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~279★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-12T14:25:17.277Z",
       "htmlUrl": "https://github.com/DIYgod/pinky"
-    },
-    {
-      "id": "viral-1450794567",
-      "name": "agentes-chat",
-      "owner": "agentes-chat",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, m",
-      "language": "TypeScript",
-      "stars": 1337,
-      "updatedAt": 1794610438000,
-      "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "browser-automation",
-        "chat",
-        "claude"
-      ],
-      "cover": "/covers/viral-agentes-chat-agentes-chat.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~283★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T14:25:17.277Z",
-      "htmlUrl": "https://github.com/agentes-chat/agentes-chat"
-    },
-    {
-      "id": "viral-1441521221",
-      "name": "cicada",
-      "owner": "wquguru",
-      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-      "language": "Swift",
-      "stars": 2212,
-      "updatedAt": 1794460704000,
-      "topics": [
-        "android",
-        "linux",
-        "live-captions",
-        "macos",
-        "meeting-notes"
-      ],
-      "cover": "/covers/viral-wquguru-cicada.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~179★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T23:02:45.370Z",
-      "htmlUrl": "https://github.com/wquguru/cicada"
-    },
-    {
-      "id": "viral-1447145240",
-      "name": "poki",
-      "owner": "JosssphZhou",
-      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "language": "Swift",
-      "stars": 1078,
-      "updatedAt": 1794610111000,
-      "topics": [
-        "ai-agents",
-        "automation",
-        "ios",
-        "iphone",
-        "mcp"
-      ],
-      "cover": "/covers/viral-josssphzhou-poki.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~137★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-13T04:29:11.358Z",
-      "htmlUrl": "https://github.com/JosssphZhou/poki"
-    },
-    {
-      "id": "viral-1455515238",
-      "name": "sakurai-skill",
-      "owner": "kociden",
-      "description": "桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語）",
-      "language": "Python",
-      "stars": 201,
-      "updatedAt": 1794519719000,
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "game-design",
-        "gamedev"
-      ],
-      "cover": "/covers/viral-kociden-sakurai-skill.webp",
-      "sfx": "FIRE!",
-      "height": "medium",
-      "godMode": "Going viral (~164★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-13T13:43:51.004Z",
-      "htmlUrl": "https://github.com/kociden/sakurai-skill"
-    },
-    {
-      "id": "viral-1455744896",
-      "name": "blender-ai-copilot-lab",
-      "owner": "precygtrucqui1981",
-      "description": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-i",
-      "language": "Unknown",
-      "stars": 151,
-      "updatedAt": 1794514105000,
-      "topics": [
-        "3d-automation",
-        "3d-modeling",
-        "blender",
-        "blender-addon",
-        "blender-agents"
-      ],
-      "cover": "/covers/viral-precygtrucqui1981-blender-ai-copilot-lab.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~141★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-13T13:43:51.004Z",
-      "htmlUrl": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab"
     },
     {
       "id": "viral-1440971520",
@@ -778,47 +936,47 @@
       "htmlUrl": "https://github.com/Lee-xeo/Claude-Cage"
     },
     {
-      "id": "viral-1441517767",
-      "name": "stack-diagram",
-      "owner": "caru-ini",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "language": "TypeScript",
-      "stars": 2481,
-      "updatedAt": 1794555490000,
-      "topics": [
-        "agent-skills",
-        "architecture-diagram",
-        "claude-code",
-        "claude-skills",
-        "codex"
-      ],
-      "cover": "/covers/viral-caru-ini-stack-diagram.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~200★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-11T04:00:44.521Z",
-      "htmlUrl": "https://github.com/caru-ini/stack-diagram"
-    },
-    {
-      "id": "viral-1440705679",
-      "name": "dsh-superagent-prototype",
-      "owner": "deepseek-ai",
-      "description": "Towards a More Autonomous Agent System",
-      "language": "TypeScript",
-      "stars": 23015,
-      "updatedAt": 1793698154000,
+      "id": "viral-1444112593",
+      "name": "cinecode",
+      "owner": "sarpstar",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "language": "Python",
+      "stars": 2430,
+      "updatedAt": 1794519634000,
       "topics": [
         "trending",
         "github"
       ],
-      "cover": "/covers/viral-deepseek-ai-dsh-superagent-prototype.webp",
-      "sfx": "BOOM!!",
+      "cover": "/covers/viral-sarpstar-cinecode.webp",
+      "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~1697★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~235★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-11T04:00:44.521Z",
-      "htmlUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+      "spottedAt": "2026-11-12T05:13:02.415Z",
+      "htmlUrl": "https://github.com/sarpstar/cinecode"
+    },
+    {
+      "id": "viral-1450794567",
+      "name": "agentes-chat",
+      "owner": "agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, m",
+      "language": "TypeScript",
+      "stars": 1354,
+      "updatedAt": 1794630239000,
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "browser-automation",
+        "chat",
+        "claude"
+      ],
+      "cover": "/covers/viral-agentes-chat-agentes-chat.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~263★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-12T14:25:17.277Z",
+      "htmlUrl": "https://github.com/agentes-chat/agentes-chat"
     },
     {
       "id": "viral-1447586025",
@@ -826,7 +984,7 @@
       "owner": "voyager-so",
       "description": "Headless 3D and VFX engine for agents. Research preview.",
       "language": "Rust",
-      "stars": 1517,
+      "stars": 1524,
       "updatedAt": 1794578242000,
       "topics": [
         "3d",
@@ -844,47 +1002,24 @@
       "htmlUrl": "https://github.com/voyager-so/vork"
     },
     {
-      "id": "viral-1448722374",
-      "name": "aion-2-trainer-tool",
-      "owner": "Arda313131882",
-      "description": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
-      "language": "HTML",
-      "stars": 1296,
-      "updatedAt": 1794604543000,
-      "topics": [
-        "aion-2",
-        "aion-2-2026",
-        "aion-2-game",
-        "aion-2-optimizer",
-        "aion-2-trainer"
-      ],
-      "cover": "/covers/viral-arda313131882-aion-2-trainer-tool.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~179★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-11T13:20:59.824Z",
-      "htmlUrl": "https://github.com/Arda313131882/aion-2-trainer-tool"
-    },
-    {
       "id": "viral-1453132706",
       "name": "yogurt",
       "owner": "FrigadeHQ",
-      "description": "Private AI meeting notes. Free and open source.",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "language": "TypeScript",
-      "stars": 1254,
-      "updatedAt": 1794610800000,
+      "stars": 1312,
+      "updatedAt": 1794625974000,
       "topics": [
         "ai-meeting-assistant",
+        "ai-notetaker",
         "electron",
-        "linux",
-        "llama-cpp",
-        "local-ai"
+        "granola-alternative",
+        "linux"
       ],
       "cover": "/covers/viral-frigadehq-yogurt.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~401★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~392★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-11T23:54:55.770Z",
       "htmlUrl": "https://github.com/FrigadeHQ/yogurt"
@@ -896,7 +1031,7 @@
       "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
       "language": "HTML",
       "stars": 1304,
-      "updatedAt": 1794517834000,
+      "updatedAt": 1794614280000,
       "topics": [
         "automation",
         "desktop",
@@ -913,36 +1048,13 @@
       "htmlUrl": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio"
     },
     {
-      "id": "viral-1448739787",
-      "name": "dvd-creator-game-enhancement",
-      "owner": "Sanidhya0510",
-      "description": "DVD-Creator 2026: Full Desktop Build, Every Feature Enabled",
-      "language": "HTML",
-      "stars": 1252,
-      "updatedAt": 1794517828000,
-      "topics": [
-        "acer-nitro",
-        "ais-data",
-        "aiseesoft-data-recovery-speed-comparison",
-        "aiseesoft-fonelab-for-ios",
-        "aiseesoft-recover-deleted-files"
-      ],
-      "cover": "/covers/viral-sanidhya0510-dvd-creator-game-enhancement.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~190★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-11T23:54:55.770Z",
-      "htmlUrl": "https://github.com/Sanidhya0510/dvd-creator-game-enhancement"
-    },
-    {
       "id": "viral-1448721877",
       "name": "aida-64-extreme",
       "owner": "hembramneeraj3-create",
       "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
       "language": "HTML",
       "stars": 1304,
-      "updatedAt": 1794513832000,
+      "updatedAt": 1794618800000,
       "topics": [
         "aida64",
         "aida64-extreme-compatibility-check",
@@ -957,6 +1069,121 @@
       "viral": true,
       "spottedAt": "2026-11-11T23:54:55.770Z",
       "htmlUrl": "https://github.com/hembramneeraj3-create/aida-64-extreme"
+    },
+    {
+      "id": "viral-1441521221",
+      "name": "cicada",
+      "owner": "wquguru",
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "language": "Swift",
+      "stars": 2227,
+      "updatedAt": 1794460704000,
+      "topics": [
+        "android",
+        "linux",
+        "live-captions",
+        "macos",
+        "meeting-notes"
+      ],
+      "cover": "/covers/viral-wquguru-cicada.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~179★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-12T23:02:45.370Z",
+      "htmlUrl": "https://github.com/wquguru/cicada"
+    },
+    {
+      "id": "viral-1448760087",
+      "name": "mt5-tradeprotocol",
+      "owner": "Marcian15350",
+      "description": "Trending open-source repository on GitHub.",
+      "language": "TypeScript",
+      "stars": 1104,
+      "updatedAt": 1794625173000,
+      "topics": [
+        "algorithmic-trading-quantitative",
+        "crypto",
+        "foreign-exchange",
+        "forex",
+        "mcp"
+      ],
+      "cover": "/covers/viral-marcian15350-mt5-tradeprotocol.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~165★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-12T14:25:17.277Z",
+      "htmlUrl": "https://github.com/Marcian15350/mt5-tradeprotocol"
+    },
+    {
+      "id": "viral-1451775929",
+      "name": "lot-map",
+      "owner": "alexeyw",
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "language": "TypeScript",
+      "stars": 746,
+      "updatedAt": 1794604505000,
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "cover": "/covers/viral-alexeyw-lot-map.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~180★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-12T23:02:45.370Z",
+      "htmlUrl": "https://github.com/alexeyw/lot-map"
+    },
+    {
+      "id": "viral-1442385098",
+      "name": "exact",
+      "owner": "expo",
+      "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
+      "language": "Rust",
+      "stars": 4041,
+      "updatedAt": 1794629698000,
+      "topics": [
+        "ai-agents",
+        "appkit",
+        "coding-agents",
+        "cross-platform",
+        "css"
+      ],
+      "cover": "/covers/viral-expo-exact.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~333★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-11T04:00:44.521Z",
+      "htmlUrl": "https://github.com/expo/exact"
+    },
+    {
+      "id": "viral-1448722374",
+      "name": "aion-2-trainer-tool",
+      "owner": "Arda313131882",
+      "description": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+      "language": "HTML",
+      "stars": 1296,
+      "updatedAt": 1794621657000,
+      "topics": [
+        "aion-2",
+        "aion-2-2026",
+        "aion-2-game",
+        "aion-2-optimizer",
+        "aion-2-trainer"
+      ],
+      "cover": "/covers/viral-arda313131882-aion-2-trainer-tool.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~179★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-11T13:20:59.824Z",
+      "htmlUrl": "https://github.com/Arda313131882/aion-2-trainer-tool"
     },
     {
       "id": "viral-1448734199",
@@ -980,6 +1207,29 @@
       "viral": true,
       "spottedAt": "2026-11-11T23:54:55.770Z",
       "htmlUrl": "https://github.com/CodeSouvik/clion-standalone-enhancement"
+    },
+    {
+      "id": "viral-1448739787",
+      "name": "dvd-creator-game-enhancement",
+      "owner": "Sanidhya0510",
+      "description": "DVD-Creator 2026: Full Desktop Build, Every Feature Enabled",
+      "language": "HTML",
+      "stars": 1252,
+      "updatedAt": 1794517828000,
+      "topics": [
+        "acer-nitro",
+        "ais-data",
+        "aiseesoft-data-recovery-speed-comparison",
+        "aiseesoft-fonelab-for-ios",
+        "aiseesoft-recover-deleted-files"
+      ],
+      "cover": "/covers/viral-sanidhya0510-dvd-creator-game-enhancement.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~190★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-11T23:54:55.770Z",
+      "htmlUrl": "https://github.com/Sanidhya0510/dvd-creator-game-enhancement"
     },
     {
       "id": "viral-1448736861",
@@ -1028,29 +1278,6 @@
       "htmlUrl": "https://github.com/shahnawaz0786/payday-3-enhancement-toolkit"
     },
     {
-      "id": "viral-1448760087",
-      "name": "mt5-tradeprotocol",
-      "owner": "Marcian15350",
-      "description": "Trending open-source repository on GitHub.",
-      "language": "TypeScript",
-      "stars": 1104,
-      "updatedAt": 1794608867000,
-      "topics": [
-        "algorithmic-trading-quantitative",
-        "crypto",
-        "foreign-exchange",
-        "forex",
-        "mcp"
-      ],
-      "cover": "/covers/viral-marcian15350-mt5-tradeprotocol.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~165★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T14:25:17.277Z",
-      "htmlUrl": "https://github.com/Marcian15350/mt5-tradeprotocol"
-    },
-    {
       "id": "viral-1448741352",
       "name": "easy-worship-desktop",
       "owner": "Luk177Master",
@@ -1072,29 +1299,6 @@
       "viral": true,
       "spottedAt": "2026-11-11T23:54:55.770Z",
       "htmlUrl": "https://github.com/Luk177Master/easy-worship-desktop"
-    },
-    {
-      "id": "viral-1451775929",
-      "name": "lot-map",
-      "owner": "alexeyw",
-      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
-      "language": "TypeScript",
-      "stars": 726,
-      "updatedAt": 1794604505000,
-      "topics": [
-        "agent-observability",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin"
-      ],
-      "cover": "/covers/viral-alexeyw-lot-map.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~180★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T23:02:45.370Z",
-      "htmlUrl": "https://github.com/alexeyw/lot-map"
     },
     {
       "id": "viral-1448724231",
@@ -1148,7 +1352,7 @@
       "owner": "linknimiball1974",
       "description": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream te",
       "language": "Unknown",
-      "stars": 360,
+      "stars": 394,
       "updatedAt": 1794514050000,
       "topics": [
         "dream-textures",
@@ -1164,204 +1368,6 @@
       "viral": true,
       "spottedAt": "2026-11-12T05:13:02.415Z",
       "htmlUrl": "https://github.com/linknimiball1974/ai-texture-forge"
-    },
-    {
-      "id": "viral-1454391705",
-      "name": "Hyperliquid-Trade-Bot",
-      "owner": "tigerogijzooav",
-      "description": "Independently analyze ROI, win rate, and PnL using the public Hyperliquid API, detect martingale/grid recovery strategies, and assess maximum drawdown and risk-adjusted returns. Read-only terminal checker — no trading, n",
-      "language": "Python",
-      "stars": 289,
-      "updatedAt": 1794610036000,
-      "topics": [
-        "ai-trade",
-        "binance-future",
-        "copy-trade",
-        "copytrade",
-        "crypto-trading-bot-windows"
-      ],
-      "cover": "/covers/viral-tigerogijzooav-hyperliquid-trade-bot.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~163★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T14:25:17.277Z",
-      "htmlUrl": "https://github.com/tigerogijzooav/Hyperliquid-Trade-Bot"
-    },
-    {
-      "id": "viral-1447227957",
-      "name": "ram-altman",
-      "owner": "IainKay",
-      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-      "language": "Shell",
-      "stars": 2104,
-      "updatedAt": 1793980691000,
-      "topics": [
-        "bash",
-        "cron",
-        "dram",
-        "email",
-        "humor"
-      ],
-      "cover": "/covers/viral-iainkay-ram-altman.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~261★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T05:13:02.415Z",
-      "htmlUrl": "https://github.com/IainKay/ram-altman"
-    },
-    {
-      "id": "viral-1454561955",
-      "name": "SnowCatQQ",
-      "owner": "DandanLLab",
-      "description": "SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开",
-      "language": "TypeScript",
-      "stars": 282,
-      "updatedAt": 1794610082000,
-      "topics": [
-        "chatbot",
-        "electron",
-        "mcp",
-        "napcat",
-        "onebot"
-      ],
-      "cover": "/covers/viral-dandanllab-snowcatqq.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~158★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T14:25:17.277Z",
-      "htmlUrl": "https://github.com/DandanLLab/SnowCatQQ"
-    },
-    {
-      "id": "viral-1453767250",
-      "name": "adobe-substance-3d",
-      "owner": "DensityApothecary",
-      "description": "Creative Studio App 2026 pre-configured environment for secure digital asset deployment pipeline, ready for isolated local workstation execution.",
-      "language": "HTML",
-      "stars": 706,
-      "updatedAt": 1794388966000,
-      "topics": [
-        "automation",
-        "developer-tools",
-        "guide-setup-adobe-substance-3d",
-        "how-to-install-adobe-substance-3d",
-        "how-to-setup-adobe-substance-3d"
-      ],
-      "cover": "/covers/viral-densityapothecary-adobe-substance-3d.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~1412★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-11T13:20:59.824Z",
-      "htmlUrl": "https://github.com/DensityApothecary/adobe-substance-3d"
-    },
-    {
-      "id": "viral-1441526188",
-      "name": "claude-animated-shorts",
-      "owner": "mromidev",
-      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "language": "TypeScript",
-      "stars": 3254,
-      "updatedAt": 1793512634000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-mromidev-claude-animated-shorts.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~258★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T05:13:02.415Z",
-      "htmlUrl": "https://github.com/mromidev/claude-animated-shorts"
-    },
-    {
-      "id": "viral-1439522537",
-      "name": "teardown",
-      "owner": "elvarofficial",
-      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "language": "JavaScript",
-      "stars": 3311,
-      "updatedAt": 1793455266000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-elvarofficial-teardown.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T23:02:45.370Z",
-      "htmlUrl": "https://github.com/elvarofficial/teardown"
-    },
-    {
-      "id": "viral-1454221776",
-      "name": "guizang-game-skill",
-      "owner": "op7418",
-      "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
-      "language": "JavaScript",
-      "stars": 311,
-      "updatedAt": 1794421351000,
-      "topics": [
-        "3d-game",
-        "action-game",
-        "agent-skills",
-        "ai-agents",
-        "ai-generated"
-      ],
-      "cover": "/covers/viral-op7418-guizang-game-skill.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~158★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T14:25:17.277Z",
-      "htmlUrl": "https://github.com/op7418/guizang-game-skill"
-    },
-    {
-      "id": "viral-1455383610",
-      "name": "mate",
-      "owner": "lawandrorder",
-      "description": "Mate, your mate while you shop. A text-first shopping agent for cashback, personal discount codes, package tracking and price-drop alerts. Includes a starter agent, web chat, original icon set and docs. mate.fm ",
-      "language": "Python",
-      "stars": 139,
-      "updatedAt": 1794493143000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-lawandrorder-mate.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~141★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-12T23:02:45.370Z",
-      "htmlUrl": "https://github.com/lawandrorder/mate"
-    },
-    {
-      "id": "viral-1442385098",
-      "name": "exact",
-      "owner": "expo",
-      "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-      "language": "Rust",
-      "stars": 3977,
-      "updatedAt": 1794610862000,
-      "topics": [
-        "ai-agents",
-        "appkit",
-        "coding-agents",
-        "cross-platform",
-        "css"
-      ],
-      "cover": "/covers/viral-expo-exact.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~334★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-11T04:00:44.521Z",
-      "htmlUrl": "https://github.com/expo/exact"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T22:21:15.753Z",
+  "updatedAt": "2026-11-16T04:08:57.013Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -26,13 +26,59 @@
       "htmlUrl": "https://github.com/libracoder/kiri"
     },
     {
+      "id": "viral-1453132706",
+      "name": "yogurt",
+      "owner": "FrigadeHQ",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "language": "TypeScript",
+      "stars": 1675,
+      "updatedAt": 1794802114000,
+      "topics": [
+        "ai-meeting-assistant",
+        "ai-notetaker",
+        "electron",
+        "granola-alternative",
+        "linux"
+      ],
+      "cover": "/covers/viral-frigadehq-yogurt.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~314★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-16T04:08:57.013Z",
+      "htmlUrl": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "id": "viral-1455416555",
+      "name": "blender-ai-mcp-addon",
+      "owner": "hitkeeen",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "language": "Unknown",
+      "stars": 1523,
+      "updatedAt": 1794493996000,
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai"
+      ],
+      "cover": "/covers/viral-hitkeeen-blender-ai-mcp-addon.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~427★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-16T04:08:57.013Z",
+      "htmlUrl": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+    },
+    {
       "id": "viral-1443985070",
       "name": "agent-autoloop",
       "owner": "KKKKhazix",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stars": 5493,
-      "updatedAt": 1794764638000,
+      "stars": 5544,
+      "updatedAt": 1794792514000,
       "topics": [
         "ai-agents",
         "automation",
@@ -41,9 +87,9 @@
         "codex"
       ],
       "cover": "/covers/viral-kkkkhazix-agent-autoloop.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~436★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~432★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-13T04:29:11.358Z",
       "htmlUrl": "https://github.com/KKKKhazix/agent-autoloop"
@@ -54,8 +100,8 @@
       "owner": "shanselman",
       "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
       "language": "Python",
-      "stars": 3333,
-      "updatedAt": 1794781246000,
+      "stars": 3350,
+      "updatedAt": 1794791698000,
       "topics": [
         "trending",
         "github"
@@ -74,7 +120,7 @@
       "owner": "duwqijlk",
       "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "language": "Python",
-      "stars": 981,
+      "stars": 1113,
       "updatedAt": 1794711333000,
       "topics": [
         "trending",
@@ -83,7 +129,7 @@
       "cover": "/covers/viral-duwqijlk-muse-protocol.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~524★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~526★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-14T12:48:22.207Z",
       "htmlUrl": "https://github.com/duwqijlk/muse-protocol"
@@ -94,7 +140,7 @@
       "owner": "janestreet",
       "description": "Agent skills",
       "language": "Unknown",
-      "stars": 8948,
+      "stars": 9095,
       "updatedAt": 1793729653000,
       "topics": [
         "trending",
@@ -103,7 +149,7 @@
       "cover": "/covers/viral-janestreet-agent-skills.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~732★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~729★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-14T04:24:37.024Z",
       "htmlUrl": "https://github.com/janestreet/agent_skills"
@@ -147,9 +193,9 @@
         "chatgpt"
       ],
       "cover": "/covers/viral-trackboatwrightplan-github-copilot-app.webp",
-      "sfx": "BOOM!!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~339★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~279★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-14T21:52:38.429Z",
       "htmlUrl": "https://github.com/trackboatwrightplan/GitHub-Copilot-app"
@@ -331,9 +377,9 @@
         "chatgpt"
       ],
       "cover": "/covers/viral-trackersnailgrip-github-copilot-app.webp",
-      "sfx": "BANG!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~341★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~281★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-14T21:52:38.429Z",
       "htmlUrl": "https://github.com/trackersnailgrip/GitHub-Copilot-app"
@@ -423,9 +469,9 @@
         "chatgpt"
       ],
       "cover": "/covers/viral-toppatronweave-github-copilot-app.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~339★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~279★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-14T21:52:38.429Z",
       "htmlUrl": "https://github.com/toppatronweave/GitHub-Copilot-app"
@@ -722,9 +768,9 @@
         "iptv-m3u8"
       ],
       "cover": "/covers/viral-tremorbuffalospire-iptv-player-2-0.webp",
-      "sfx": "RISE!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~339★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~279★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-14T21:52:38.429Z",
       "htmlUrl": "https://github.com/tremorbuffalospire/IPTV_Player_2.0"
@@ -873,7 +919,7 @@
       "owner": "YellowLaborerMarket",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "language": "Makefile",
-      "stars": 473,
+      "stars": 474,
       "updatedAt": 1794761371000,
       "topics": [
         "ai",
@@ -885,7 +931,7 @@
       "cover": "/covers/viral-yellowlaborermarket-gemini-config-checker.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~946★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~948★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-"
@@ -1326,52 +1372,6 @@
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-"
-    },
-    {
-      "id": "viral-1459019359",
-      "name": "Gemini-Config-Checker-",
-      "owner": "WinnerSpecialist",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
-      "stars": 473,
-      "updatedAt": 1794761290000,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
-      ],
-      "cover": "/covers/viral-winnerspecialist-gemini-config-checker.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~946★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-15T22:21:15.753Z",
-      "htmlUrl": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-"
-    },
-    {
-      "id": "viral-1456853224",
-      "name": "ai--manus",
-      "owner": "BarrierCenter",
-      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "language": "Unknown",
-      "stars": 297,
-      "updatedAt": 1794739043000,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-sdk",
-        "anthropic",
-        "chatbot"
-      ],
-      "cover": "/covers/viral-barriercenter-ai-manus.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~319★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-14T12:48:22.207Z",
-      "htmlUrl": "https://github.com/BarrierCenter/ai--manus"
     }
   ]
 }

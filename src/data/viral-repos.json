@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T01:23:57.948Z",
+  "updatedAt": "2026-11-17T15:19:10.482Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -8,8 +8,8 @@
       "owner": "DIYgod",
       "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
       "language": "Go",
-      "stars": 2289,
-      "updatedAt": 1794878365000,
+      "stars": 2354,
+      "updatedAt": 1794913884000,
       "topics": [
         "ai-agent",
         "android",
@@ -24,6 +24,138 @@
       "viral": true,
       "spottedAt": "2026-11-17T01:23:57.948Z",
       "htmlUrl": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "id": "viral-1460469810",
+      "name": "Wireless-Device-Battery-Monitor",
+      "owner": "krisgfx9",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious",
+      "language": "C++",
+      "stars": 1657,
+      "updatedAt": 1794920117000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-krisgfx9-wireless-device-battery-monitor.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~2004★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-17T15:19:10.482Z",
+      "htmlUrl": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "id": "viral-1455952445",
+      "name": "lastbook",
+      "owner": "Immortal-Protocols",
+      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "language": "Python",
+      "stars": 1279,
+      "updatedAt": 1794910149000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-immortal-protocols-lastbook.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~275★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-17T15:19:10.482Z",
+      "htmlUrl": "https://github.com/Immortal-Protocols/lastbook"
+    },
+    {
+      "id": "viral-1457362196",
+      "name": "mdldm-maitian",
+      "owner": "CzzzzzzJ",
+      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "language": "JavaScript",
+      "stars": 863,
+      "updatedAt": 1794913636000,
+      "topics": [
+        "automation",
+        "chrome-extension",
+        "creator-tools",
+        "dashboard",
+        "feishu"
+      ],
+      "cover": "/covers/viral-czzzzzzj-mdldm-maitian.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~249★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-17T15:19:10.482Z",
+      "htmlUrl": "https://github.com/CzzzzzzJ/mdldm-maitian"
+    },
+    {
+      "id": "viral-1460417668",
+      "name": "inference-optimisation-skill",
+      "owner": "sybil-solutions",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "language": "Python",
+      "stars": 662,
+      "updatedAt": 1794854408000,
+      "topics": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm"
+      ],
+      "cover": "/covers/viral-sybil-solutions-inference-optimisation-skill.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~769★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-17T15:19:10.482Z",
+      "htmlUrl": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "id": "viral-1459971684",
+      "name": "rust-anything",
+      "owner": "erkamyaman",
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "language": "Rust",
+      "stars": 428,
+      "updatedAt": 1794923643000,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "code-migration",
+        "codex"
+      ],
+      "cover": "/covers/viral-erkamyaman-rust-anything.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~378★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-17T15:19:10.482Z",
+      "htmlUrl": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "id": "viral-1460221483",
+      "name": "smelt-minecraft-mods-to-rust-converter",
+      "owner": "Orderchodrag",
+      "description": "Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly what is left.",
+      "language": "JavaScript",
+      "stars": 248,
+      "updatedAt": 1794843883000,
+      "topics": [
+        "cli",
+        "fabric",
+        "horizon",
+        "minecraft",
+        "minecraft-mods"
+      ],
+      "cover": "/covers/viral-orderchodrag-smelt-minecraft-mods-to-rust-converter.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~252★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-17T15:19:10.482Z",
+      "htmlUrl": "https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter"
     },
     {
       "id": "viral-1443186633",
@@ -54,8 +186,8 @@
       "owner": "FrigadeHQ",
       "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "language": "TypeScript",
-      "stars": 1878,
-      "updatedAt": 1794878460000,
+      "stars": 1966,
+      "updatedAt": 1794907541000,
       "topics": [
         "ai-meeting-assistant",
         "ai-notetaker",
@@ -64,9 +196,9 @@
         "linux"
       ],
       "cover": "/covers/viral-frigadehq-yogurt.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~302★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~289★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-16T04:08:57.013Z",
       "htmlUrl": "https://github.com/FrigadeHQ/yogurt"
@@ -77,19 +209,39 @@
       "owner": "ZiChuanLan",
       "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
       "language": "TypeScript",
-      "stars": 1160,
+      "stars": 1380,
       "updatedAt": 1794851288000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-zichuanlan-freebie-radar.webp",
-      "sfx": "RISE!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~248★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~262★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-16T14:27:29.389Z",
       "htmlUrl": "https://github.com/ZiChuanLan/freebie-radar"
+    },
+    {
+      "id": "viral-1457509118",
+      "name": "PeakCut",
+      "owner": "haziqahmedqasmi",
+      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "language": "Python",
+      "stars": 778,
+      "updatedAt": 1794921620000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-haziqahmedqasmi-peakcut.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~242★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-16T14:27:29.389Z",
+      "htmlUrl": "https://github.com/haziqahmedqasmi/PeakCut"
     },
     {
       "id": "viral-1457919852",
@@ -97,8 +249,8 @@
       "owner": "n4ze3m",
       "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
       "language": "Python",
-      "stars": 614,
-      "updatedAt": 1794856317000,
+      "stars": 669,
+      "updatedAt": 1794917320000,
       "topics": [
         "onnx",
         "text-to-speech",
@@ -136,24 +288,50 @@
       "htmlUrl": "https://github.com/hitkeeen/blender-ai-mcp-addon"
     },
     {
-      "id": "viral-1457509118",
-      "name": "PeakCut",
-      "owner": "haziqahmedqasmi",
-      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "id": "viral-1460180740",
+      "name": "boring-marketing-skills",
+      "owner": "boringmarketer",
+      "description": "31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
       "language": "Python",
-      "stars": 663,
-      "updatedAt": 1794757249000,
+      "stars": 415,
+      "updatedAt": 1794853740000,
       "topics": [
-        "trending",
-        "github"
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "copywriting"
       ],
-      "cover": "/covers/viral-haziqahmedqasmi-peakcut.webp",
-      "sfx": "BOOM!!",
+      "cover": "/covers/viral-boringmarketer-boring-marketing-skills.webp",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~242★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~412★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-17T01:23:57.948Z",
+      "htmlUrl": "https://github.com/boringmarketer/boring-marketing-skills"
+    },
+    {
+      "id": "viral-1459019359",
+      "name": "Gemini-Config-Checker-",
+      "owner": "WinnerSpecialist",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "language": "Makefile",
+      "stars": 473,
+      "updatedAt": 1794761290000,
+      "topics": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli"
+      ],
+      "cover": "/covers/viral-winnerspecialist-gemini-config-checker.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-16T14:27:29.389Z",
-      "htmlUrl": "https://github.com/haziqahmedqasmi/PeakCut"
+      "htmlUrl": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-"
     },
     {
       "id": "viral-1460406084",
@@ -177,29 +355,6 @@
       "viral": true,
       "spottedAt": "2026-11-17T01:23:57.948Z",
       "htmlUrl": "https://github.com/edgerunners2/capri-ai-desktop"
-    },
-    {
-      "id": "viral-1460180740",
-      "name": "boring-marketing-skills",
-      "owner": "boringmarketer",
-      "description": "31 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "language": "Python",
-      "stars": 149,
-      "updatedAt": 1794853740000,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "copywriting"
-      ],
-      "cover": "/covers/viral-boringmarketer-boring-marketing-skills.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~298★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-17T01:23:57.948Z",
-      "htmlUrl": "https://github.com/boringmarketer/boring-marketing-skills"
     },
     {
       "id": "viral-1458099087",
@@ -276,7 +431,7 @@
       "owner": "YellowLaborerMarket",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "language": "Makefile",
-      "stars": 474,
+      "stars": 475,
       "updatedAt": 1794761371000,
       "topics": [
         "ai",
@@ -288,7 +443,7 @@
       "cover": "/covers/viral-yellowlaborermarket-gemini-config-checker.webp",
       "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~349★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~245★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-"
@@ -311,7 +466,7 @@
       "cover": "/covers/viral-wyrmclimbermanacle-gemini-config-checker.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-"
@@ -334,7 +489,7 @@
       "cover": "/covers/viral-wisemeadowlarkspike-gemini-config-checker.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-"
@@ -357,7 +512,7 @@
       "cover": "/covers/viral-wireprovostpucker-gemini-config-checker.webp",
       "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WireProvostPucker/Gemini-Config-Checker-"
@@ -380,7 +535,7 @@
       "cover": "/covers/viral-wingdatavacuum-gemini-config-checker.webp",
       "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WingDataVacuum/Gemini-Config-Checker-"
@@ -403,7 +558,7 @@
       "cover": "/covers/viral-windowstaffgate11-gemini-config-checker.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-"
@@ -426,7 +581,7 @@
       "cover": "/covers/viral-windgatorrise37-gemini-config-checker.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WindGatorRise37/Gemini-Config-Checker-"
@@ -449,7 +604,7 @@
       "cover": "/covers/viral-westlocksmithspout-gemini-config-checker.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-"
@@ -472,33 +627,10 @@
       "cover": "/covers/viral-werewolfemuhub-gemini-config-checker.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-"
-    },
-    {
-      "id": "viral-1459019359",
-      "name": "Gemini-Config-Checker-",
-      "owner": "WinnerSpecialist",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
-      "stars": 473,
-      "updatedAt": 1794761290000,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
-      ],
-      "cover": "/covers/viral-winnerspecialist-gemini-config-checker.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-16T14:27:29.389Z",
-      "htmlUrl": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-"
     },
     {
       "id": "viral-1459019228",
@@ -518,7 +650,7 @@
       "cover": "/covers/viral-watchlespeed-gemini-config-checker.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/Watchlespeed/Gemini-Config-Checker-"
@@ -541,7 +673,7 @@
       "cover": "/covers/viral-weldbladesmithwharf-gemini-config-checker.webp",
       "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-"
@@ -564,7 +696,7 @@
       "cover": "/covers/viral-weightcashiercupola-gemini-config-checker.webp",
       "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/weightcashiercupola/Gemini-Config-Checker-"
@@ -587,7 +719,7 @@
       "cover": "/covers/viral-wharfbouldercolander-gemini-config-checker.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-"
@@ -610,7 +742,7 @@
       "cover": "/covers/viral-trooperfilter-gemini-config-checker.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/TrooperFilter/Gemini-Config-Checker-"
@@ -633,7 +765,7 @@
       "cover": "/covers/viral-vortexhostfeel-gemini-config-checker.webp",
       "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/VortexHostFeel/Gemini-Config-Checker-"
@@ -679,7 +811,7 @@
       "cover": "/covers/viral-typetyrantscheme-gemini-config-checker.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-"
@@ -702,7 +834,7 @@
       "cover": "/covers/viral-turtlereside-gemini-config-checker.webp",
       "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/TurtleReside/Gemini-Config-Checker-"
@@ -725,7 +857,7 @@
       "cover": "/covers/viral-violetnyudress-gemini-config-checker.webp",
       "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/Violetnyudress/Gemini-Config-Checker-"
@@ -748,7 +880,7 @@
       "cover": "/covers/viral-visionbeyondtrack-gemini-config-checker.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-"
@@ -774,26 +906,6 @@
       "htmlUrl": "https://github.com/shanselman/gputaskman"
     },
     {
-      "id": "viral-1457270665",
-      "name": "muse-protocol",
-      "owner": "duwqijlk",
-      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "language": "Python",
-      "stars": 1446,
-      "updatedAt": 1794711333000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-duwqijlk-muse-protocol.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~482★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-14T12:48:22.207Z",
-      "htmlUrl": "https://github.com/duwqijlk/muse-protocol"
-    },
-    {
       "id": "viral-1444573070",
       "name": "agent_skills",
       "owner": "janestreet",
@@ -812,6 +924,26 @@
       "viral": true,
       "spottedAt": "2026-11-14T04:24:37.024Z",
       "htmlUrl": "https://github.com/janestreet/agent_skills"
+    },
+    {
+      "id": "viral-1457270665",
+      "name": "muse-protocol",
+      "owner": "duwqijlk",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "language": "Python",
+      "stars": 1562,
+      "updatedAt": 1794711333000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-duwqijlk-muse-protocol.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~436★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T12:48:22.207Z",
+      "htmlUrl": "https://github.com/duwqijlk/muse-protocol"
     },
     {
       "id": "viral-1458091050",
@@ -1021,6 +1153,29 @@
       "htmlUrl": "https://github.com/topapothecarycanal/ai--manus2.0"
     },
     {
+      "id": "viral-1458092120",
+      "name": "GitHub-Copilot-app",
+      "owner": "trackersnailgrip",
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "language": "Unknown",
+      "stars": 667,
+      "updatedAt": 1794738763000,
+      "topics": [
+        "adminlte",
+        "agent-skills",
+        "ai",
+        "awesome",
+        "chatgpt"
+      ],
+      "cover": "/covers/viral-trackersnailgrip-github-copilot-app.webp",
+      "sfx": "VIRAL!!",
+      "height": "tall",
+      "godMode": "Going viral (~281★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-14T21:52:38.429Z",
+      "htmlUrl": "https://github.com/trackersnailgrip/GitHub-Copilot-app"
+    },
+    {
       "id": "viral-1458091425",
       "name": "IPTV_Player_2.0",
       "owner": "TowerStalker",
@@ -1067,29 +1222,6 @@
       "htmlUrl": "https://github.com/Titanlushrink/IPTV_Player_2.0"
     },
     {
-      "id": "viral-1458092120",
-      "name": "GitHub-Copilot-app",
-      "owner": "trackersnailgrip",
-      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-      "language": "Unknown",
-      "stars": 667,
-      "updatedAt": 1794738763000,
-      "topics": [
-        "adminlte",
-        "agent-skills",
-        "ai",
-        "awesome",
-        "chatgpt"
-      ],
-      "cover": "/covers/viral-trackersnailgrip-github-copilot-app.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~281★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-14T21:52:38.429Z",
-      "htmlUrl": "https://github.com/trackersnailgrip/GitHub-Copilot-app"
-    },
-    {
       "id": "viral-1458092242",
       "name": "GitHub-Copilot-app",
       "owner": "TrapBladesmith",
@@ -1111,52 +1243,6 @@
       "viral": true,
       "spottedAt": "2026-11-14T21:52:38.429Z",
       "htmlUrl": "https://github.com/TrapBladesmith/GitHub-Copilot-app"
-    },
-    {
-      "id": "viral-1458099075",
-      "name": "GitHub-Copilot-app",
-      "owner": "TurkeyDesignate",
-      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-      "language": "Unknown",
-      "stars": 665,
-      "updatedAt": 1794739002000,
-      "topics": [
-        "adminlte",
-        "agent-skills",
-        "ai",
-        "awesome",
-        "chatgpt"
-      ],
-      "cover": "/covers/viral-turkeydesignate-github-copilot-app.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~893★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-14T21:52:38.429Z",
-      "htmlUrl": "https://github.com/TurkeyDesignate/GitHub-Copilot-app"
-    },
-    {
-      "id": "viral-1458099121",
-      "name": "GitHub-Copilot-app",
-      "owner": "TurquoiseConsultant",
-      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-      "language": "Unknown",
-      "stars": 665,
-      "updatedAt": 1794739001000,
-      "topics": [
-        "adminlte",
-        "agent-skills",
-        "ai",
-        "awesome",
-        "chatgpt"
-      ],
-      "cover": "/covers/viral-turquoiseconsultant-github-copilot-app.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~893★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-14T21:52:38.429Z",
-      "htmlUrl": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app"
     },
     {
       "id": "viral-1458099119",
@@ -1251,12 +1337,12 @@
       "htmlUrl": "https://github.com/TradesmanRecord/GitHub-Copilot-app"
     },
     {
-      "id": "viral-1458099096",
+      "id": "viral-1458099075",
       "name": "GitHub-Copilot-app",
-      "owner": "Tealplesense",
+      "owner": "TurkeyDesignate",
       "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
       "language": "Unknown",
-      "stars": 664,
+      "stars": 665,
       "updatedAt": 1794739002000,
       "topics": [
         "adminlte",
@@ -1265,105 +1351,13 @@
         "awesome",
         "chatgpt"
       ],
-      "cover": "/covers/viral-tealplesense-github-copilot-app.webp",
-      "sfx": "RISE!!",
+      "cover": "/covers/viral-turkeydesignate-github-copilot-app.webp",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~892★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~893★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-14T21:52:38.429Z",
-      "htmlUrl": "https://github.com/Tealplesense/GitHub-Copilot-app"
-    },
-    {
-      "id": "viral-1458091509",
-      "name": "IPTV_Player_2.0",
-      "owner": "Tornadovonmodify",
-      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-      "language": "Rust",
-      "stars": 664,
-      "updatedAt": 1794739002000,
-      "topics": [
-        "dash",
-        "ip-tv",
-        "iptv",
-        "iptv-channels",
-        "iptv-m3u8"
-      ],
-      "cover": "/covers/viral-tornadovonmodify-iptv-player-2-0.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~1326★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-14T21:52:38.429Z",
-      "htmlUrl": "https://github.com/Tornadovonmodify/IPTV_Player_2.0"
-    },
-    {
-      "id": "viral-1458099072",
-      "name": "IPTV_Player_2.0",
-      "owner": "tremorbuffalospire",
-      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-      "language": "Rust",
-      "stars": 662,
-      "updatedAt": 1794738972000,
-      "topics": [
-        "dash",
-        "ip-tv",
-        "iptv",
-        "iptv-channels",
-        "iptv-m3u8"
-      ],
-      "cover": "/covers/viral-tremorbuffalospire-iptv-player-2-0.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~279★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-14T21:52:38.429Z",
-      "htmlUrl": "https://github.com/tremorbuffalospire/IPTV_Player_2.0"
-    },
-    {
-      "id": "viral-1458099122",
-      "name": "GitHub-Copilot-app",
-      "owner": "TrueDefenderRouter",
-      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-      "language": "Unknown",
-      "stars": 661,
-      "updatedAt": 1794739001000,
-      "topics": [
-        "adminlte",
-        "agent-skills",
-        "ai",
-        "awesome",
-        "chatgpt"
-      ],
-      "cover": "/covers/viral-truedefenderrouter-github-copilot-app.webp",
-      "sfx": "BANG!",
-      "height": "tall",
-      "godMode": "Going viral (~888★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-14T21:52:38.429Z",
-      "htmlUrl": "https://github.com/TrueDefenderRouter/GitHub-Copilot-app"
-    },
-    {
-      "id": "viral-1458099073",
-      "name": "IPTV_Player_2.0",
-      "owner": "TurquoiseFarmer",
-      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-      "language": "Rust",
-      "stars": 661,
-      "updatedAt": 1794738972000,
-      "topics": [
-        "dash",
-        "ip-tv",
-        "iptv",
-        "iptv-channels",
-        "iptv-m3u8"
-      ],
-      "cover": "/covers/viral-turquoisefarmer-iptv-player-2-0.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~888★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-14T21:52:38.429Z",
-      "htmlUrl": "https://github.com/TurquoiseFarmer/IPTV_Player_2.0"
+      "htmlUrl": "https://github.com/TurkeyDesignate/GitHub-Copilot-app"
     }
   ]
 }

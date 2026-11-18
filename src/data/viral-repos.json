@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:54:28.141Z",
+  "updatedAt": "2026-11-18T23:45:48.609Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -8,8 +8,8 @@
       "owner": "krisgfx9",
       "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious",
       "language": "C++",
-      "stars": 3611,
-      "updatedAt": 1795002095000,
+      "stars": 3932,
+      "updatedAt": 1795035508000,
       "topics": [
         "trending",
         "github"
@@ -17,33 +17,10 @@
       "cover": "/covers/viral-krisgfx9-wireless-device-battery-monitor.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~1995★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~1805★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
-    },
-    {
-      "id": "viral-1449548089",
-      "name": "phonebox",
-      "owner": "ersinkoc",
-      "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 123 widgets and 30 templates for system stats, AI coding, media and automation, in 12 languages. USB or paired",
-      "language": "C#",
-      "stars": 3041,
-      "updatedAt": 1795011311000,
-      "topics": [
-        "android",
-        "claude-code",
-        "codex",
-        "dashboard",
-        "desk-panel"
-      ],
-      "cover": "/covers/viral-ersinkoc-phonebox.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~278★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-18T00:19:57.680Z",
-      "htmlUrl": "https://github.com/ersinkoc/phonebox"
     },
     {
       "id": "viral-1459971684",
@@ -51,8 +28,8 @@
       "owner": "erkamyaman",
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "language": "Rust",
-      "stars": 2671,
-      "updatedAt": 1795008489000,
+      "stars": 3311,
+      "updatedAt": 1795036197000,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -63,10 +40,33 @@
       "cover": "/covers/viral-erkamyaman-rust-anything.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~1264★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~1334★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "id": "viral-1449548089",
+      "name": "phonebox",
+      "owner": "ersinkoc",
+      "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 12 languages. USB or paired",
+      "language": "C#",
+      "stars": 3225,
+      "updatedAt": 1795045022000,
+      "topics": [
+        "android",
+        "claude-code",
+        "codex",
+        "dashboard",
+        "desk-panel"
+      ],
+      "cover": "/covers/viral-ersinkoc-phonebox.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~286★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-18T00:19:57.680Z",
+      "htmlUrl": "https://github.com/ersinkoc/phonebox"
     },
     {
       "id": "viral-1450794567",
@@ -74,8 +74,8 @@
       "owner": "agentes-chat",
       "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, m",
       "language": "TypeScript",
-      "stars": 1704,
-      "updatedAt": 1795013505000,
+      "stars": 1719,
+      "updatedAt": 1795045508000,
       "topics": [
         "agentic-ai",
         "ai-agents",
@@ -86,7 +86,7 @@
       "cover": "/covers/viral-agentes-chat-agentes-chat.webp",
       "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~178★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~173★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-18T14:54:28.141Z",
       "htmlUrl": "https://github.com/agentes-chat/agentes-chat"
@@ -97,7 +97,7 @@
       "owner": "DIYgod",
       "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
       "language": "Go",
-      "stars": 2434,
+      "stars": 2459,
       "updatedAt": 1794980601000,
       "topics": [
         "ai-agent",
@@ -109,7 +109,7 @@
       "cover": "/covers/viral-diygod-pinky.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~204★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~200★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T01:23:57.948Z",
       "htmlUrl": "https://github.com/DIYgod/pinky"
@@ -120,8 +120,8 @@
       "owner": "Immortal-Protocols",
       "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
       "language": "Python",
-      "stars": 2025,
-      "updatedAt": 1794972303000,
+      "stars": 2156,
+      "updatedAt": 1795044145000,
       "topics": [
         "trending",
         "github"
@@ -129,7 +129,7 @@
       "cover": "/covers/viral-immortal-protocols-lastbook.webp",
       "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~360★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~359★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/Immortal-Protocols/lastbook"
@@ -140,7 +140,7 @@
       "owner": "CzzzzzzJ",
       "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
       "language": "JavaScript",
-      "stars": 1252,
+      "stars": 1302,
       "updatedAt": 1794970153000,
       "topics": [
         "automation",
@@ -150,78 +150,12 @@
         "feishu"
       ],
       "cover": "/covers/viral-czzzzzzj-mdldm-maitian.webp",
-      "sfx": "BOOM!!",
+      "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~281★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~270★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/CzzzzzzJ/mdldm-maitian"
-    },
-    {
-      "id": "viral-1447227957",
-      "name": "ram-altman",
-      "owner": "IainKay",
-      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-      "language": "Shell",
-      "stars": 2291,
-      "updatedAt": 1793980691000,
-      "topics": [
-        "bash",
-        "cron",
-        "dram",
-        "email",
-        "humor"
-      ],
-      "cover": "/covers/viral-iainkay-ram-altman.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~177★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-18T14:54:28.141Z",
-      "htmlUrl": "https://github.com/IainKay/ram-altman"
-    },
-    {
-      "id": "viral-1457509118",
-      "name": "PeakCut",
-      "owner": "haziqahmedqasmi",
-      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "language": "Python",
-      "stars": 990,
-      "updatedAt": 1794921620000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-haziqahmedqasmi-peakcut.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~230★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-16T14:27:29.389Z",
-      "htmlUrl": "https://github.com/haziqahmedqasmi/PeakCut"
-    },
-    {
-      "id": "viral-1460180740",
-      "name": "boring-marketing-skills",
-      "owner": "boringmarketer",
-      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "language": "Python",
-      "stars": 629,
-      "updatedAt": 1794956038000,
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "copywriting"
-      ],
-      "cover": "/covers/viral-boringmarketer-boring-marketing-skills.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~316★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-17T01:23:57.948Z",
-      "htmlUrl": "https://github.com/boringmarketer/boring-marketing-skills"
     },
     {
       "id": "viral-1460417668",
@@ -229,7 +163,7 @@
       "owner": "sybil-solutions",
       "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "language": "Python",
-      "stars": 1033,
+      "stars": 1105,
       "updatedAt": 1794854408000,
       "topics": [
         "agent-skill",
@@ -241,7 +175,7 @@
       "cover": "/covers/viral-sybil-solutions-inference-optimisation-skill.webp",
       "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~560★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~499★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/sybil-solutions/inference-optimisation-skill"
@@ -270,27 +204,27 @@
       "htmlUrl": "https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter"
     },
     {
-      "id": "viral-1443186633",
-      "name": "kiri",
-      "owner": "libracoder",
-      "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
-      "language": "Rust",
-      "stars": 6170,
-      "updatedAt": 1794780582000,
+      "id": "viral-1447227957",
+      "name": "ram-altman",
+      "owner": "IainKay",
+      "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "language": "Shell",
+      "stars": 2307,
+      "updatedAt": 1793980691000,
       "topics": [
-        "containers",
-        "docker",
-        "kubernetes",
-        "linux",
-        "macos"
+        "bash",
+        "cron",
+        "dram",
+        "email",
+        "humor"
       ],
-      "cover": "/covers/viral-libracoder-kiri.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~465★/day). Pin it before your AI stack falls behind.",
+      "cover": "/covers/viral-iainkay-ram-altman.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~173★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-15T22:21:15.753Z",
-      "htmlUrl": "https://github.com/libracoder/kiri"
+      "spottedAt": "2026-11-18T14:54:28.141Z",
+      "htmlUrl": "https://github.com/IainKay/ram-altman"
     },
     {
       "id": "viral-1453132706",
@@ -298,8 +232,8 @@
       "owner": "FrigadeHQ",
       "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "language": "TypeScript",
-      "stars": 2242,
-      "updatedAt": 1795011975000,
+      "stars": 2379,
+      "updatedAt": 1795044563000,
       "topics": [
         "ai-meeting-assistant",
         "ai-notetaker",
@@ -308,9 +242,9 @@
         "linux"
       ],
       "cover": "/covers/viral-frigadehq-yogurt.webp",
-      "sfx": "RISE!!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~288★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~292★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-16T04:08:57.013Z",
       "htmlUrl": "https://github.com/FrigadeHQ/yogurt"
@@ -321,7 +255,7 @@
       "owner": "ZiChuanLan",
       "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
       "language": "TypeScript",
-      "stars": 1576,
+      "stars": 1615,
       "updatedAt": 1794979285000,
       "topics": [
         "trending",
@@ -330,10 +264,30 @@
       "cover": "/covers/viral-zichuanlan-freebie-radar.webp",
       "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~253★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~244★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-16T14:27:29.389Z",
       "htmlUrl": "https://github.com/ZiChuanLan/freebie-radar"
+    },
+    {
+      "id": "viral-1457509118",
+      "name": "PeakCut",
+      "owner": "haziqahmedqasmi",
+      "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "language": "Python",
+      "stars": 1080,
+      "updatedAt": 1794921620000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-haziqahmedqasmi-peakcut.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~231★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-16T14:27:29.389Z",
+      "htmlUrl": "https://github.com/haziqahmedqasmi/PeakCut"
     },
     {
       "id": "viral-1457919852",
@@ -341,43 +295,43 @@
       "owner": "n4ze3m",
       "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
       "language": "Python",
-      "stars": 730,
-      "updatedAt": 1795013212000,
+      "stars": 745,
+      "updatedAt": 1795016183000,
       "topics": [
         "onnx",
         "text-to-speech",
         "tts"
       ],
       "cover": "/covers/viral-n4ze3m-tiny-voca.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~185★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~172★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-16T14:27:29.389Z",
       "htmlUrl": "https://github.com/n4ze3m/tiny-voca"
     },
     {
-      "id": "viral-1455416555",
-      "name": "blender-ai-mcp-addon",
-      "owner": "hitkeeen",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "language": "Unknown",
-      "stars": 2205,
-      "updatedAt": 1794493996000,
+      "id": "viral-1460180740",
+      "name": "boring-marketing-skills",
+      "owner": "boringmarketer",
+      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "language": "Python",
+      "stars": 659,
+      "updatedAt": 1794956038000,
       "topics": [
+        "agent-skills",
         "ai-agents",
-        "ai-assistant",
-        "blender",
-        "blender-addon",
-        "blender-ai"
+        "claude-code",
+        "codex",
+        "copywriting"
       ],
-      "cover": "/covers/viral-hitkeeen-blender-ai-mcp-addon.webp",
+      "cover": "/covers/viral-boringmarketer-boring-marketing-skills.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~495★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~279★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-16T04:08:57.013Z",
-      "htmlUrl": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+      "spottedAt": "2026-11-17T01:23:57.948Z",
+      "htmlUrl": "https://github.com/boringmarketer/boring-marketing-skills"
     },
     {
       "id": "viral-1460406084",
@@ -401,6 +355,52 @@
       "viral": true,
       "spottedAt": "2026-11-17T01:23:57.948Z",
       "htmlUrl": "https://github.com/edgerunners2/capri-ai-desktop"
+    },
+    {
+      "id": "viral-1443186633",
+      "name": "kiri",
+      "owner": "libracoder",
+      "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+      "language": "Rust",
+      "stars": 6170,
+      "updatedAt": 1794780582000,
+      "topics": [
+        "containers",
+        "docker",
+        "kubernetes",
+        "linux",
+        "macos"
+      ],
+      "cover": "/covers/viral-libracoder-kiri.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~465★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-15T22:21:15.753Z",
+      "htmlUrl": "https://github.com/libracoder/kiri"
+    },
+    {
+      "id": "viral-1455416555",
+      "name": "blender-ai-mcp-addon",
+      "owner": "hitkeeen",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "language": "Unknown",
+      "stars": 2205,
+      "updatedAt": 1794493996000,
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai"
+      ],
+      "cover": "/covers/viral-hitkeeen-blender-ai-mcp-addon.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~495★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-16T04:08:57.013Z",
+      "htmlUrl": "https://github.com/hitkeeen/blender-ai-mcp-addon"
     },
     {
       "id": "viral-1458099090",
@@ -443,7 +443,7 @@
       "cover": "/covers/viral-yellowlaborermarket-gemini-config-checker.webp",
       "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~163★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-"
@@ -466,7 +466,7 @@
       "cover": "/covers/viral-wyrmclimbermanacle-gemini-config-checker.webp",
       "sfx": "FIRE!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-"
@@ -489,7 +489,7 @@
       "cover": "/covers/viral-wisemeadowlarkspike-gemini-config-checker.webp",
       "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-"
@@ -512,7 +512,7 @@
       "cover": "/covers/viral-wireprovostpucker-gemini-config-checker.webp",
       "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WireProvostPucker/Gemini-Config-Checker-"
@@ -533,9 +533,9 @@
         "cli"
       ],
       "cover": "/covers/viral-wingdatavacuum-gemini-config-checker.webp",
-      "sfx": "BOOM!!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WingDataVacuum/Gemini-Config-Checker-"
@@ -558,7 +558,7 @@
       "cover": "/covers/viral-windowstaffgate11-gemini-config-checker.webp",
       "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-"
@@ -579,9 +579,9 @@
         "cli"
       ],
       "cover": "/covers/viral-windgatorrise37-gemini-config-checker.webp",
-      "sfx": "RISE!!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WindGatorRise37/Gemini-Config-Checker-"
@@ -604,7 +604,7 @@
       "cover": "/covers/viral-westlocksmithspout-gemini-config-checker.webp",
       "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-"
@@ -627,7 +627,7 @@
       "cover": "/covers/viral-werewolfemuhub-gemini-config-checker.webp",
       "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-"
@@ -648,9 +648,9 @@
         "cli"
       ],
       "cover": "/covers/viral-winnerspecialist-gemini-config-checker.webp",
-      "sfx": "HOT!!",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-16T14:27:29.389Z",
       "htmlUrl": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-"
@@ -673,7 +673,7 @@
       "cover": "/covers/viral-watchlespeed-gemini-config-checker.webp",
       "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/Watchlespeed/Gemini-Config-Checker-"
@@ -696,7 +696,7 @@
       "cover": "/covers/viral-weldbladesmithwharf-gemini-config-checker.webp",
       "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-"
@@ -719,7 +719,7 @@
       "cover": "/covers/viral-weightcashiercupola-gemini-config-checker.webp",
       "sfx": "BANG!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/weightcashiercupola/Gemini-Config-Checker-"
@@ -742,7 +742,7 @@
       "cover": "/covers/viral-wharfbouldercolander-gemini-config-checker.webp",
       "sfx": "FIRE!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-"
@@ -788,7 +788,7 @@
       "cover": "/covers/viral-vortexhostfeel-gemini-config-checker.webp",
       "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~144★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-15T22:21:15.753Z",
       "htmlUrl": "https://github.com/VortexHostFeel/Gemini-Config-Checker-"
@@ -954,7 +954,7 @@
       "owner": "duwqijlk",
       "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "language": "Python",
-      "stars": 1620,
+      "stars": 1627,
       "updatedAt": 1794711333000,
       "topics": [
         "trending",
@@ -963,7 +963,7 @@
       "cover": "/covers/viral-duwqijlk-muse-protocol.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~355★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~330★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-14T12:48:22.207Z",
       "htmlUrl": "https://github.com/duwqijlk/muse-protocol"

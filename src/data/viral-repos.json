@@ -1,15 +1,38 @@
 {
-  "updatedAt": "2026-11-21T05:02:07.000Z",
+  "updatedAt": "2026-11-21T13:59:10.560Z",
   "source": "github-search-velocity",
   "repos": [
+    {
+      "id": "viral-1453006141",
+      "name": "MROffice",
+      "owner": "XinaTian",
+      "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
+      "language": "TypeScript",
+      "stars": 1384,
+      "updatedAt": 1795250971000,
+      "topics": [
+        "agpl",
+        "document-editor",
+        "excel",
+        "office-suite",
+        "open-source"
+      ],
+      "cover": "/covers/viral-xinatian-mroffice.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~128★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-21T13:59:10.560Z",
+      "htmlUrl": "https://github.com/XinaTian/MROffice"
+    },
     {
       "id": "viral-1465547415",
       "name": "riemann-hypothesis",
       "owner": "leanprover-community",
-      "description": "Byte-exact mirror and independent Comparator setup for the Lean formalization claiming a proof of the Riemann Hypothesis (alpo.ge, 2026-11-20)",
+      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
       "language": "Lean",
-      "stars": 210,
-      "updatedAt": 1795235261000,
+      "stars": 312,
+      "updatedAt": 1795269249000,
       "topics": [
         "trending",
         "github"
@@ -23,13 +46,105 @@
       "htmlUrl": "https://github.com/leanprover-community/riemann-hypothesis"
     },
     {
+      "id": "viral-1465531278",
+      "name": "sprite-stacking",
+      "owner": "danielwh2",
+      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "language": "HTML",
+      "stars": 291,
+      "updatedAt": 1795224537000,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "cursor",
+        "fake-3d"
+      ],
+      "cover": "/covers/viral-danielwh2-sprite-stacking.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~298★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-21T05:02:07.000Z",
+      "htmlUrl": "https://github.com/danielwh2/sprite-stacking"
+    },
+    {
+      "id": "viral-1465571079",
+      "name": "premiere-pro-for-windows",
+      "owner": "w272732-a11y",
+      "description": "Edit and render video projects on Windows with Premiere Pro workflows.",
+      "language": "TypeScript",
+      "stars": 152,
+      "updatedAt": 1795232927000,
+      "topics": [
+        "4k",
+        "8k",
+        "content-creation",
+        "content-creators-automation",
+        "premier"
+      ],
+      "cover": "/covers/viral-w272732-a11y-premiere-pro-for-windows.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~263★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-21T05:02:07.000Z",
+      "htmlUrl": "https://github.com/w272732-a11y/premiere-pro-for-windows"
+    },
+    {
+      "id": "viral-1464778407",
+      "name": "adobe-firefly-image-creator",
+      "owner": "dickoyudha-netizen",
+      "description": "Generate images from text prompts with Adobe Firefly Image Creator.",
+      "language": "HTML",
+      "stars": 152,
+      "updatedAt": 1795232550000,
+      "topics": [
+        "adobe",
+        "ai-art",
+        "computer-vision",
+        "deep-learning",
+        "generative-ai"
+      ],
+      "cover": "/covers/viral-dickoyudha-netizen-adobe-firefly-image-creator.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~124★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-21T05:02:07.000Z",
+      "htmlUrl": "https://github.com/dickoyudha-netizen/adobe-firefly-image-creator"
+    },
+    {
+      "id": "viral-1465467593",
+      "name": "rob-run-mod-trainer",
+      "owner": "kendahthebean-cell",
+      "description": "Play Rob Run with a trainer that surfaces live game info as you go.",
+      "language": "TypeScript",
+      "stars": 151,
+      "updatedAt": 1795229736000,
+      "topics": [
+        "kefir-rob-run",
+        "rob-run-aim",
+        "rob-run-aimbot",
+        "rob-run-cheat-download",
+        "rob-run-esp-tool"
+      ],
+      "cover": "/covers/viral-kendahthebean-cell-rob-run-mod-trainer.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~234★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-21T05:02:07.000Z",
+      "htmlUrl": "https://github.com/kendahthebean-cell/rob-run-mod-trainer"
+    },
+    {
       "id": "viral-1452175380",
       "name": "linger",
       "owner": "simplexai-labs",
       "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can ru",
       "language": "TypeScript",
-      "stars": 3000,
-      "updatedAt": 1795237207000,
+      "stars": 3189,
+      "updatedAt": 1795267572000,
       "topics": [
         "agent-teams",
         "local-llm",
@@ -40,7 +155,7 @@
       "cover": "/covers/viral-simplexai-labs-linger.webp",
       "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~271★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~279★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-19T15:00:22.779Z",
       "htmlUrl": "https://github.com/simplexai-labs/linger"
@@ -51,14 +166,14 @@
       "owner": "iamajmeena",
       "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "language": "Python",
-      "stars": 1293,
-      "updatedAt": 1795236447000,
+      "stars": 1562,
+      "updatedAt": 1795260993000,
       "topics": [
+        "ai-video-clipper",
         "clipping",
+        "faster-whisper",
         "ffmpeg",
-        "shorts",
-        "video",
-        "whisper"
+        "gameplay-clipper"
       ],
       "cover": "/covers/viral-iamajmeena-neonclipping.webp",
       "sfx": "ZOOM!!",
@@ -74,42 +189,19 @@
       "owner": "kolbicz",
       "description": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
       "language": "Objective-C",
-      "stars": 1229,
+      "stars": 1240,
       "updatedAt": 1795184147000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-kolbicz-wqfiles.webp",
-      "sfx": "RISE!!",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~107★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~103★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-20T00:06:53.704Z",
       "htmlUrl": "https://github.com/kolbicz/WQFiles"
-    },
-    {
-      "id": "viral-1464271688",
-      "name": "blender-ai-mcp-addon",
-      "owner": "bookwjitchieni1986",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "language": "Unknown",
-      "stars": 1830,
-      "updatedAt": 1795099451000,
-      "topics": [
-        "ai-agents",
-        "ai-assistant",
-        "blender",
-        "blender-addon",
-        "blender-ai"
-      ],
-      "cover": "/covers/viral-bookwjitchieni1986-blender-ai-mcp-addon.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~1146★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-20T00:06:53.704Z",
-      "htmlUrl": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
     },
     {
       "id": "viral-1451775929",
@@ -117,7 +209,7 @@
       "owner": "alexeyw",
       "description": "Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
       "language": "TypeScript",
-      "stars": 1059,
+      "stars": 1095,
       "updatedAt": 1795235552000,
       "topics": [
         "agent-observability",
@@ -135,12 +227,35 @@
       "htmlUrl": "https://github.com/alexeyw/lot-map"
     },
     {
+      "id": "viral-1464271688",
+      "name": "blender-ai-mcp-addon",
+      "owner": "bookwjitchieni1986",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "language": "Unknown",
+      "stars": 1941,
+      "updatedAt": 1795099451000,
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai"
+      ],
+      "cover": "/covers/viral-bookwjitchieni1986-blender-ai-mcp-addon.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~985★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-20T00:06:53.704Z",
+      "htmlUrl": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
       "id": "viral-1465559592",
       "name": "riemann-hypothesis-lean",
       "owner": "CocoSgt",
       "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
       "language": "Lean",
-      "stars": 324,
+      "stars": 400,
       "updatedAt": 1795187616000,
       "topics": [
         "trending",
@@ -149,7 +264,7 @@
       "cover": "/covers/viral-cocosgt-riemann-hypothesis-lean.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~553★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~417★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-20T23:32:31.380Z",
       "htmlUrl": "https://github.com/CocoSgt/riemann-hypothesis-lean"
@@ -160,19 +275,42 @@
       "owner": "duwqijlk",
       "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "language": "Python",
-      "stars": 1705,
+      "stars": 1719,
       "updatedAt": 1794711333000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-duwqijlk-muse-protocol.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~238★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~228★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-20T23:32:31.380Z",
       "htmlUrl": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "id": "viral-1463149139",
+      "name": "gtavi-claudecode",
+      "owner": "Bodila51",
+      "description": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
+      "language": "Python",
+      "stars": 857,
+      "updatedAt": 1795080606000,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "clipping",
+        "gta6",
+        "tiktok"
+      ],
+      "cover": "/covers/viral-bodila51-gtavi-claudecode.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~681★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-19T15:00:22.779Z",
+      "htmlUrl": "https://github.com/Bodila51/gtavi-claudecode"
     },
     {
       "id": "viral-1449349157",
@@ -218,27 +356,50 @@
       "htmlUrl": "https://github.com/sjohansson2004/Exodus-Fake-Balance"
     },
     {
-      "id": "viral-1465531278",
-      "name": "sprite-stacking",
-      "owner": "danielwh2",
-      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "id": "viral-1466022470",
+      "name": "windows-activation-script-lekalin",
+      "owner": "ahmedbkareno1-stack",
+      "description": "Streamline Windows setup with Lekalin, a practical setup scripting tool.",
       "language": "HTML",
-      "stars": 161,
-      "updatedAt": 1795224537000,
+      "stars": 175,
+      "updatedAt": 1795248061000,
       "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "cursor",
-        "fake-3d"
+        "microsoft-copilot",
+        "microsoft365",
+        "microsoftexcel",
+        "office-scripts",
+        "office-suite"
       ],
-      "cover": "/covers/viral-danielwh2-sprite-stacking.webp",
-      "sfx": "VIRAL!!",
+      "cover": "/covers/viral-ahmedbkareno1-stack-windows-activation-script-lekalin.webp",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~267★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~303★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-21T05:02:07.000Z",
-      "htmlUrl": "https://github.com/danielwh2/sprite-stacking"
+      "spottedAt": "2026-11-21T13:59:10.560Z",
+      "htmlUrl": "https://github.com/ahmedbkareno1-stack/windows-activation-script-lekalin"
+    },
+    {
+      "id": "viral-1465999373",
+      "name": "microsoft-office-pro-jakaron",
+      "owner": "cowok-au",
+      "description": "Modular add-in framework that extends Microsoft Office workflows with custom task panes.",
+      "language": "HTML",
+      "stars": 166,
+      "updatedAt": 1795266415000,
+      "topics": [
+        "automation",
+        "awesome-list",
+        "gnome",
+        "libreoffice-extension",
+        "microsoft"
+      ],
+      "cover": "/covers/viral-cowok-au-microsoft-office-pro-jakaron.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~275★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-21T13:59:10.560Z",
+      "htmlUrl": "https://github.com/cowok-au/microsoft-office-pro-jakaron"
     },
     {
       "id": "viral-1465477177",
@@ -247,7 +408,7 @@
       "description": "Arc Raiders Norvena delivers sharp in-raid info and tactical readouts for focused play.",
       "language": "TypeScript",
       "stars": 158,
-      "updatedAt": 1795229923000,
+      "updatedAt": 1795258194000,
       "topics": [
         "arc-raiders",
         "extraction-shooter",
@@ -256,9 +417,9 @@
         "game-overlay"
       ],
       "cover": "/covers/viral-dev-bad-arc-raiders-norvena.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~238★/day). Pin it before your AI stack falls behind.",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~151★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-20T23:32:31.380Z",
       "htmlUrl": "https://github.com/dev-bad/arc-raiders-norvena"
@@ -270,7 +431,7 @@
       "description": "Opencode Project Workbench structures opencode project tasks, files, and workflow state.",
       "language": "HTML",
       "stars": 158,
-      "updatedAt": 1795232282000,
+      "updatedAt": 1795262111000,
       "topics": [
         "agentic-ai",
         "automation",
@@ -279,9 +440,9 @@
         "coding-agent"
       ],
       "cover": "/covers/viral-wozniakalan323-bit-opencode-project-workbench.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~247★/day). Pin it before your AI stack falls behind.",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~155★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-20T23:32:31.380Z",
       "htmlUrl": "https://github.com/wozniakalan323-bit/opencode-project-workbench"
@@ -293,7 +454,7 @@
       "description": "Orchestrates composable Claude Code agent workflows across isolated workspace contexts.",
       "language": "HTML",
       "stars": 158,
-      "updatedAt": 1795236233000,
+      "updatedAt": 1795268853000,
       "topics": [
         "agentic-ai",
         "anthropic",
@@ -302,9 +463,9 @@
         "code-review"
       ],
       "cover": "/covers/viral-zavi2997-droid-claude-code-agent-workspace.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~247★/day). Pin it before your AI stack falls behind.",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~154★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-20T23:32:31.380Z",
       "htmlUrl": "https://github.com/zavi2997-droid/claude-code-agent-workspace"
@@ -316,7 +477,7 @@
       "description": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
       "language": "TypeScript",
       "stars": 158,
-      "updatedAt": 1795229954000,
+      "updatedAt": 1795257447000,
       "topics": [
         "chat-interface",
         "chatbot",
@@ -325,9 +486,9 @@
         "local-ai"
       ],
       "cover": "/covers/viral-han938-open-webui-private-ai-desk.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~250★/day). Pin it before your AI stack falls behind.",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~156★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-20T23:32:31.380Z",
       "htmlUrl": "https://github.com/han938/open-webui-private-ai-desk"
@@ -339,7 +500,7 @@
       "description": "Document-grounded chat for Verona - AnythingLLM workspace integration.",
       "language": "Python",
       "stars": 157,
-      "updatedAt": 1795233185000,
+      "updatedAt": 1795263831000,
       "topics": [
         "agentic-ai",
         "agentic-workflow",
@@ -362,7 +523,7 @@
       "description": "Codex Cli Repo Workbench provides a local workspace for managing and inspecting Codex CLI repository",
       "language": "HTML",
       "stars": 156,
-      "updatedAt": 1795232944000,
+      "updatedAt": 1795263205000,
       "topics": [
         "agentic-ai",
         "automation",
@@ -372,11 +533,31 @@
       ],
       "cover": "/covers/viral-marketzy-codex-cli-repo-workbench.webp",
       "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~247★/day). Pin it before your AI stack falls behind.",
+      "height": "medium",
+      "godMode": "Going viral (~153★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-20T23:32:31.380Z",
       "htmlUrl": "https://github.com/marketzy/codex-cli-repo-workbench"
+    },
+    {
+      "id": "viral-1466075841",
+      "name": "skill-distill",
+      "owner": "sybil-solutions",
+      "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "language": "Python",
+      "stars": 155,
+      "updatedAt": 1795232881000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-sybil-solutions-skill-distill.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~303★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-21T13:59:10.560Z",
+      "htmlUrl": "https://github.com/sybil-solutions/skill-distill"
     },
     {
       "id": "viral-1465760283",
@@ -384,8 +565,8 @@
       "owner": "prajwaljeevan50-web",
       "description": "A friendly, feature-rich workspace built with and for its community.",
       "language": "JavaScript",
-      "stars": 152,
-      "updatedAt": 1795221775000,
+      "stars": 153,
+      "updatedAt": 1795248596000,
       "topics": [
         "ai-agents",
         "automation",
@@ -394,35 +575,12 @@
         "openclaw"
       ],
       "cover": "/covers/viral-prajwaljeevan50-web-openclaw-personal-workspace.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~304★/day). Pin it before your AI stack falls behind.",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~186★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-21T05:02:07.000Z",
       "htmlUrl": "https://github.com/prajwaljeevan50-web/openclaw-personal-workspace"
-    },
-    {
-      "id": "viral-1465571079",
-      "name": "premiere-pro-for-windows",
-      "owner": "w272732-a11y",
-      "description": "Edit and render video projects on Windows with Premiere Pro workflows.",
-      "language": "TypeScript",
-      "stars": 152,
-      "updatedAt": 1795232927000,
-      "topics": [
-        "4k",
-        "8k",
-        "content-creation",
-        "content-creators-automation",
-        "premier"
-      ],
-      "cover": "/covers/viral-w272732-a11y-premiere-pro-for-windows.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~263★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-21T05:02:07.000Z",
-      "htmlUrl": "https://github.com/w272732-a11y/premiere-pro-for-windows"
     },
     {
       "id": "viral-1465474430",
@@ -448,29 +606,6 @@
       "htmlUrl": "https://github.com/nearviral-bit/distant-horizons-minecraft-visibility-workspace"
     },
     {
-      "id": "viral-1464778407",
-      "name": "adobe-firefly-image-creator",
-      "owner": "dickoyudha-netizen",
-      "description": "Generate images from text prompts with Adobe Firefly Image Creator.",
-      "language": "HTML",
-      "stars": 152,
-      "updatedAt": 1795232550000,
-      "topics": [
-        "adobe",
-        "ai-art",
-        "computer-vision",
-        "deep-learning",
-        "generative-ai"
-      ],
-      "cover": "/covers/viral-dickoyudha-netizen-adobe-firefly-image-creator.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~124★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-21T05:02:07.000Z",
-      "htmlUrl": "https://github.com/dickoyudha-netizen/adobe-firefly-image-creator"
-    },
-    {
       "id": "viral-1465854044",
       "name": "delta-force-trainer-velmora",
       "owner": "2411500034-indra",
@@ -492,29 +627,6 @@
       "viral": true,
       "spottedAt": "2026-11-21T05:02:07.000Z",
       "htmlUrl": "https://github.com/2411500034-indra/delta-force-trainer-velmora"
-    },
-    {
-      "id": "viral-1465467593",
-      "name": "rob-run-mod-trainer",
-      "owner": "kendahthebean-cell",
-      "description": "Play Rob Run with a trainer that surfaces live game info as you go.",
-      "language": "TypeScript",
-      "stars": 151,
-      "updatedAt": 1795229736000,
-      "topics": [
-        "kefir-rob-run",
-        "rob-run-aim",
-        "rob-run-aimbot",
-        "rob-run-cheat-download",
-        "rob-run-esp-tool"
-      ],
-      "cover": "/covers/viral-kendahthebean-cell-rob-run-mod-trainer.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~234★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-21T05:02:07.000Z",
-      "htmlUrl": "https://github.com/kendahthebean-cell/rob-run-mod-trainer"
     },
     {
       "id": "viral-1464792567",
@@ -540,27 +652,24 @@
       "htmlUrl": "https://github.com/sahandranya/restic-varrona"
     },
     {
-      "id": "viral-1463149139",
-      "name": "gtavi-claudecode",
-      "owner": "Bodila51",
-      "description": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
+      "id": "viral-1463927360",
+      "name": "restaurant-ai-skills",
+      "owner": "heep-ai",
+      "description": "Practical AI skills for restaurant marketing, reservations and guest communication. Maintained by Heep.",
       "language": "Python",
-      "stars": 857,
-      "updatedAt": 1795080606000,
+      "stars": 237,
+      "updatedAt": 1795094496000,
       "topics": [
-        "agent-skills",
-        "claude-code",
-        "clipping",
-        "gta6",
-        "tiktok"
+        "trending",
+        "github"
       ],
-      "cover": "/covers/viral-bodila51-gtavi-claudecode.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~681★/day). Pin it before your AI stack falls behind.",
+      "cover": "/covers/viral-heep-ai-restaurant-ai-skills.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~108★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-19T15:00:22.779Z",
-      "htmlUrl": "https://github.com/Bodila51/gtavi-claudecode"
+      "spottedAt": "2026-11-21T13:59:10.560Z",
+      "htmlUrl": "https://github.com/heep-ai/restaurant-ai-skills"
     },
     {
       "id": "viral-1456913583",
@@ -588,16 +697,16 @@
       "owner": "huggingface",
       "description": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
       "language": "Python",
-      "stars": 1041,
+      "stars": 1062,
       "updatedAt": 1794827249000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-huggingface-pybot.webp",
-      "sfx": "BANG!",
+      "sfx": "VIRAL!!",
       "height": "medium",
-      "godMode": "Going viral (~121★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~117★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-19T15:00:22.779Z",
       "htmlUrl": "https://github.com/huggingface/pybot"
@@ -631,7 +740,7 @@
       "owner": "JDhruv14",
       "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
       "language": "TypeScript",
-      "stars": 1113,
+      "stars": 1118,
       "updatedAt": 1794302738000,
       "topics": [
         "claude-skill",
@@ -640,9 +749,9 @@
         "typescript"
       ],
       "cover": "/covers/viral-jdhruv14-line-art-animation.webp",
-      "sfx": "BOOM!!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~105★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~100★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-20T00:06:53.704Z",
       "htmlUrl": "https://github.com/JDhruv14/line-art-animation"
@@ -742,7 +851,7 @@
       "owner": "setyamickala",
       "description": "Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP",
       "language": "Python",
-      "stars": 93,
+      "stars": 94,
       "updatedAt": 1795075356000,
       "topics": [
         "airdrop",
@@ -765,8 +874,8 @@
       "owner": "erkamyaman",
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "language": "Rust",
-      "stars": 6786,
-      "updatedAt": 1795231143000,
+      "stars": 7100,
+      "updatedAt": 1795268694000,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -777,7 +886,7 @@
       "cover": "/covers/viral-erkamyaman-rust-anything.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~1443★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~1399★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/erkamyaman/rust-anything"
@@ -788,8 +897,8 @@
       "owner": "krisgfx9",
       "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious",
       "language": "C++",
-      "stars": 5396,
-      "updatedAt": 1795181803000,
+      "stars": 5633,
+      "updatedAt": 1795269426000,
       "topics": [
         "trending",
         "github"
@@ -797,7 +906,7 @@
       "cover": "/covers/viral-krisgfx9-wireless-device-battery-monitor.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~1227★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~1181★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
@@ -831,16 +940,16 @@
       "owner": "Immortal-Protocols",
       "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
       "language": "Python",
-      "stars": 2768,
+      "stars": 2824,
       "updatedAt": 1795232924000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-immortal-protocols-lastbook.webp",
-      "sfx": "RISE!!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~337★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~329★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/Immortal-Protocols/lastbook"
@@ -851,8 +960,8 @@
       "owner": "agentes-chat",
       "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, m",
       "language": "TypeScript",
-      "stars": 1858,
-      "updatedAt": 1795237023000,
+      "stars": 1888,
+      "updatedAt": 1795268263000,
       "topics": [
         "agentic-ai",
         "ai-agents",
@@ -861,9 +970,9 @@
         "claude"
       ],
       "cover": "/covers/viral-agentes-chat-agentes-chat.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~153★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~150★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-18T14:54:28.141Z",
       "htmlUrl": "https://github.com/agentes-chat/agentes-chat"
@@ -917,7 +1026,7 @@
       "owner": "CzzzzzzJ",
       "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
       "language": "JavaScript",
-      "stars": 1731,
+      "stars": 1766,
       "updatedAt": 1795234414000,
       "topics": [
         "automation",
@@ -927,9 +1036,9 @@
         "feishu"
       ],
       "cover": "/covers/viral-czzzzzzj-mdldm-maitian.webp",
-      "sfx": "BANG!",
+      "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~246★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~238★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/CzzzzzzJ/mdldm-maitian"
@@ -940,7 +1049,7 @@
       "owner": "sybil-solutions",
       "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "language": "Python",
-      "stars": 1366,
+      "stars": 1422,
       "updatedAt": 1794854408000,
       "topics": [
         "agent-skill",
@@ -950,9 +1059,9 @@
         "llm"
       ],
       "cover": "/covers/viral-sybil-solutions-inference-optimisation-skill.webp",
-      "sfx": "BOOM!!",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~308★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~296★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T15:19:10.482Z",
       "htmlUrl": "https://github.com/sybil-solutions/inference-optimisation-skill"
@@ -986,14 +1095,14 @@
       "owner": "ZiChuanLan",
       "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
       "language": "TypeScript",
-      "stars": 2007,
+      "stars": 2085,
       "updatedAt": 1795188635000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-zichuanlan-freebie-radar.webp",
-      "sfx": "FIRE!",
+      "sfx": "HOT!!",
       "height": "tall",
       "godMode": "Going viral (~227★/day). Pin it before your AI stack falls behind.",
       "viral": true,
@@ -1029,7 +1138,7 @@
       "owner": "boringmarketer",
       "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
       "language": "Python",
-      "stars": 746,
+      "stars": 762,
       "updatedAt": 1794956038000,
       "topics": [
         "agent-skills",
@@ -1039,9 +1148,9 @@
         "copywriting"
       ],
       "cover": "/covers/viral-boringmarketer-boring-marketing-skills.webp",
-      "sfx": "BANG!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~163★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~154★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-17T01:23:57.948Z",
       "htmlUrl": "https://github.com/boringmarketer/boring-marketing-skills"
@@ -1075,8 +1184,8 @@
       "owner": "FrigadeHQ",
       "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
       "language": "TypeScript",
-      "stars": 2785,
-      "updatedAt": 1795236754000,
+      "stars": 2828,
+      "updatedAt": 1795252382000,
       "topics": [
         "ai-meeting-assistant",
         "ai-notetaker",
@@ -1085,9 +1194,9 @@
         "linux"
       ],
       "cover": "/covers/viral-frigadehq-yogurt.webp",
-      "sfx": "BANG!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~268★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~263★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-16T04:08:57.013Z",
       "htmlUrl": "https://github.com/FrigadeHQ/yogurt"
@@ -1098,16 +1207,16 @@
       "owner": "haziqahmedqasmi",
       "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
       "language": "Python",
-      "stars": 1558,
+      "stars": 1613,
       "updatedAt": 1795182777000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-haziqahmedqasmi-peakcut.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "FIRE!",
       "height": "tall",
-      "godMode": "Going viral (~226★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~222★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-16T14:27:29.389Z",
       "htmlUrl": "https://github.com/haziqahmedqasmi/PeakCut"
@@ -1224,121 +1333,6 @@
       "viral": true,
       "spottedAt": "2026-11-17T01:23:57.948Z",
       "htmlUrl": "https://github.com/edgerunners2/capri-ai-desktop"
-    },
-    {
-      "id": "viral-1458099090",
-      "name": "GitHub-Copilot-app",
-      "owner": "TarantulaCorrect",
-      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-      "language": "Unknown",
-      "stars": 659,
-      "updatedAt": 1794739000000,
-      "topics": [
-        "adminlte",
-        "agent-skills",
-        "ai",
-        "awesome",
-        "chatgpt"
-      ],
-      "cover": "/covers/viral-tarantulacorrect-github-copilot-app.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~886★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-15T13:15:44.604Z",
-      "htmlUrl": "https://github.com/TarantulaCorrect/GitHub-Copilot-app"
-    },
-    {
-      "id": "viral-1459020341",
-      "name": "Gemini-Config-Checker-",
-      "owner": "YellowLaborerMarket",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
-      "stars": 475,
-      "updatedAt": 1794761371000,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
-      ],
-      "cover": "/covers/viral-yellowlaborermarket-gemini-config-checker.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~96★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-15T22:21:15.753Z",
-      "htmlUrl": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-"
-    },
-    {
-      "id": "viral-1459019243",
-      "name": "Gemini-Config-Checker-",
-      "owner": "weightcashiercupola",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
-      "stars": 474,
-      "updatedAt": 1794761286000,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
-      ],
-      "cover": "/covers/viral-weightcashiercupola-gemini-config-checker.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~96★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-15T22:21:15.753Z",
-      "htmlUrl": "https://github.com/weightcashiercupola/Gemini-Config-Checker-"
-    },
-    {
-      "id": "viral-1459020334",
-      "name": "Gemini-Config-Checker-",
-      "owner": "WyrmClimberManacle",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Makefile",
-      "stars": 473,
-      "updatedAt": 1794761369000,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
-      ],
-      "cover": "/covers/viral-wyrmclimbermanacle-gemini-config-checker.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~96★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-15T22:21:15.753Z",
-      "htmlUrl": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-"
-    },
-    {
-      "id": "viral-1459020338",
-      "name": "Gemini-Config-Checker-",
-      "owner": "wisemeadowlarkspike",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "language": "Go",
-      "stars": 473,
-      "updatedAt": 1794761368000,
-      "topics": [
-        "ai",
-        "ai-search",
-        "aichecker",
-        "chatgpt",
-        "cli"
-      ],
-      "cover": "/covers/viral-wisemeadowlarkspike-gemini-config-checker.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~96★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-15T22:21:15.753Z",
-      "htmlUrl": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-"
     }
   ]
 }

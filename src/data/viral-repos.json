@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:22:21.279Z",
+  "updatedAt": "2026-11-27T15:56:03.900Z",
   "source": "github-search-velocity",
   "repos": [
     {
@@ -8,8 +8,8 @@
       "owner": "erkamyaman",
       "description": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.",
       "language": "Rust",
-      "stars": 10226,
-      "updatedAt": 1795730992000,
+      "stars": 10647,
+      "updatedAt": 1795794435000,
       "topics": [
         "agent-skills",
         "claude-code",
@@ -20,7 +20,7 @@
       "cover": "/covers/viral-erkamyaman-rust-anything.webp",
       "sfx": "HOT!!",
       "height": "tall",
-      "godMode": "Going viral (~969★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~954★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-26T01:24:42.237Z",
       "htmlUrl": "https://github.com/erkamyaman/rust-anything"
@@ -31,8 +31,8 @@
       "owner": "EL4CTEO",
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "language": "Rust",
-      "stars": 4240,
-      "updatedAt": 1795733192000,
+      "stars": 4408,
+      "updatedAt": 1795793779000,
       "topics": [
         "agent-skills",
         "ai-agents",
@@ -43,10 +43,33 @@
       "cover": "/covers/viral-el4cteo-fast-anything.webp",
       "sfx": "BANG!",
       "height": "tall",
-      "godMode": "Going viral (~779★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~728★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-26T01:24:42.237Z",
       "htmlUrl": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "id": "viral-1471624301",
+      "name": "opengame",
+      "owner": "nexu-io",
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to ",
+      "language": "TypeScript",
+      "stars": 1957,
+      "updatedAt": 1795791625000,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-game-generator",
+        "claude-code",
+        "codex"
+      ],
+      "cover": "/covers/viral-nexu-io-opengame.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~881★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-26T16:08:40.478Z",
+      "htmlUrl": "https://github.com/nexu-io/opengame"
     },
     {
       "id": "viral-1456590729",
@@ -72,12 +95,35 @@
       "htmlUrl": "https://github.com/opensetlabs/openset-llm"
     },
     {
+      "id": "viral-1471422729",
+      "name": "llm.asm",
+      "owner": "alesha-pro",
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "language": "Assembly",
+      "stars": 1928,
+      "updatedAt": 1795621364000,
+      "topics": [
+        "assembly",
+        "avx2",
+        "bare-metal",
+        "llm",
+        "machine-learning"
+      ],
+      "cover": "/covers/viral-alesha-pro-llm-asm.webp",
+      "sfx": "ZOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~820★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-26T01:24:42.237Z",
+      "htmlUrl": "https://github.com/alesha-pro/llm.asm"
+    },
+    {
       "id": "viral-1463963309",
       "name": "neonclipping",
       "owner": "iamajmeena",
       "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "language": "Python",
-      "stars": 2722,
+      "stars": 2868,
       "updatedAt": 1795526866000,
       "topics": [
         "ai-video-clipper",
@@ -89,33 +135,33 @@
       "cover": "/covers/viral-iamajmeena-neonclipping.webp",
       "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~356★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~348★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-26T16:08:40.478Z",
       "htmlUrl": "https://github.com/iamajmeena/neonclipping"
     },
     {
-      "id": "viral-1471624301",
-      "name": "opengame",
-      "owner": "nexu-io",
-      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to ",
-      "language": "TypeScript",
-      "stars": 935,
-      "updatedAt": 1795717856000,
+      "id": "viral-1468140561",
+      "name": "KuroCat",
+      "owner": "chanke17",
+      "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "language": "C++",
+      "stars": 750,
+      "updatedAt": 1795768429000,
       "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-game-generator",
-        "claude-code",
-        "codex"
+        "bongo-cat",
+        "bongo-cat-alternative",
+        "cpp",
+        "desktop-companion",
+        "desktop-pet"
       ],
-      "cover": "/covers/viral-nexu-io-opengame.webp",
+      "cover": "/covers/viral-chanke17-kurocat.webp",
       "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~579★/day). Pin it before your AI stack falls behind.",
+      "height": "medium",
+      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-26T16:08:40.478Z",
-      "htmlUrl": "https://github.com/nexu-io/opengame"
+      "spottedAt": "2026-11-25T16:36:12.843Z",
+      "htmlUrl": "https://github.com/chanke17/KuroCat"
     },
     {
       "id": "viral-1464795219",
@@ -123,7 +169,7 @@
       "owner": "ThreatDefence",
       "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defende",
       "language": "Python",
-      "stars": 748,
+      "stars": 776,
       "updatedAt": 1795693920000,
       "topics": [
         "agentic-ai",
@@ -146,8 +192,8 @@
       "owner": "gary23w",
       "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
       "language": "Python",
-      "stars": 391,
-      "updatedAt": 1795730514000,
+      "stars": 521,
+      "updatedAt": 1795789633000,
       "topics": [
         "ccpa",
         "cli",
@@ -156,12 +202,152 @@
         "gdpr"
       ],
       "cover": "/covers/viral-gary23w-f-ck-data-brokers.webp",
-      "sfx": "ZOOM!!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~782★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~567★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-27T01:22:21.279Z",
       "htmlUrl": "https://github.com/gary23w/f-ck_data_brokers"
+    },
+    {
+      "id": "viral-1473230635",
+      "name": "focus-clock",
+      "owner": "0x1A6C1A9Y",
+      "description": "Un minuteur web minimal pour se concentrer, faire une pause et avancer une chose à la fois.",
+      "language": "HTML",
+      "stars": 561,
+      "updatedAt": 1795701426000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-0x1a6c1a9y-focus-clock.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~517★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-27T01:22:21.279Z",
+      "htmlUrl": "https://github.com/0x1A6C1A9Y/focus-clock"
+    },
+    {
+      "id": "viral-1472887718",
+      "name": "ps5-fpsunlocker-gta6",
+      "owner": "HSgod",
+      "description": "Unlock FPS on Grand Theft Auto VI for jailbroken PS5",
+      "language": "C",
+      "stars": 407,
+      "updatedAt": 1795785253000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-hsgod-ps5-fpsunlocker-gta6.webp",
+      "sfx": "HOT!!",
+      "height": "tall",
+      "godMode": "Going viral (~312★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-27T01:22:21.279Z",
+      "htmlUrl": "https://github.com/HSgod/ps5-fpsunlocker-gta6"
+    },
+    {
+      "id": "viral-1472292229",
+      "name": "Recursive-Self-Improving-Loopers",
+      "owner": "eelbaz",
+      "description": "Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite) & Banach Fixed-Point Alignment for Looped MoE Transformers",
+      "language": "Python",
+      "stars": 309,
+      "updatedAt": 1795738675000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-eelbaz-recursive-self-improving-loopers.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~170★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-27T15:56:03.900Z",
+      "htmlUrl": "https://github.com/eelbaz/Recursive-Self-Improving-Loopers"
+    },
+    {
+      "id": "viral-1472716428",
+      "name": "kun_zai_tuan_li",
+      "owner": "GenSZZ",
+      "description": "困在团里",
+      "language": "Unknown",
+      "stars": 242,
+      "updatedAt": 1795780072000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-genszz-kun-zai-tuan-li.webp",
+      "sfx": "ZOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~169★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-27T15:56:03.900Z",
+      "htmlUrl": "https://github.com/GenSZZ/kun_zai_tuan_li"
+    },
+    {
+      "id": "viral-1472874299",
+      "name": "mcp",
+      "owner": "es-ine",
+      "description": "MCP server connecting AI assistants to the Spanish National Statistics Institute (INE) public API. Enables access to official demographic, economic and social statistics, making it easy to search, retrieve and analyze re",
+      "language": "Python",
+      "stars": 190,
+      "updatedAt": 1795772572000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-es-ine-mcp.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~145★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-27T01:22:21.279Z",
+      "htmlUrl": "https://github.com/es-ine/mcp"
+    },
+    {
+      "id": "viral-1471583456",
+      "name": "Reach-Project-Emulator-For-GTA-6",
+      "owner": "ReachProject-Git",
+      "description": "For GTA 6 files are not yet released but you can check for updates here : https://x.com/RainReachDetail",
+      "language": "Unknown",
+      "stars": 215,
+      "updatedAt": 1795630164000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-reachproject-git-reach-project-emulator-for-gta-6.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~335★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-25T16:36:12.843Z",
+      "htmlUrl": "https://github.com/ReachProject-Git/Reach-Project-Emulator-For-GTA-6"
+    },
+    {
+      "id": "viral-1467035512",
+      "name": "portwatch-vi",
+      "owner": "4lwayz",
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "language": "JavaScript",
+      "stars": 6413,
+      "updatedAt": 1795790863000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-4lwayz-portwatch-vi.webp",
+      "sfx": "BOOM!!",
+      "height": "tall",
+      "godMode": "Going viral (~1126★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-24T03:40:58.130Z",
+      "htmlUrl": "https://github.com/4lwayz/portwatch-vi"
     },
     {
       "id": "viral-1457362196",
@@ -169,8 +355,8 @@
       "owner": "CzzzzzzJ",
       "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
       "language": "JavaScript",
-      "stars": 2276,
-      "updatedAt": 1795691485000,
+      "stars": 2325,
+      "updatedAt": 1795794461000,
       "topics": [
         "automation",
         "chrome-extension",
@@ -179,9 +365,9 @@
         "feishu"
       ],
       "cover": "/covers/viral-czzzzzzj-mdldm-maitian.webp",
-      "sfx": "BANG!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~177★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~172★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-25T01:48:30.898Z",
       "htmlUrl": "https://github.com/CzzzzzzJ/mdldm-maitian"
@@ -192,7 +378,7 @@
       "owner": "haziqahmedqasmi",
       "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
       "language": "Python",
-      "stars": 1969,
+      "stars": 1987,
       "updatedAt": 1795715107000,
       "topics": [
         "trending",
@@ -201,7 +387,7 @@
       "cover": "/covers/viral-haziqahmedqasmi-peakcut.webp",
       "sfx": "ZOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~155★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~149★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-25T01:48:30.898Z",
       "htmlUrl": "https://github.com/haziqahmedqasmi/PeakCut"
@@ -227,164 +413,13 @@
       "htmlUrl": "https://github.com/ZiChuanLan/freebie-radar"
     },
     {
-      "id": "viral-1471422729",
-      "name": "llm.asm",
-      "owner": "alesha-pro",
-      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-      "language": "Assembly",
-      "stars": 1546,
-      "updatedAt": 1795621364000,
-      "topics": [
-        "assembly",
-        "avx2",
-        "bare-metal",
-        "llm",
-        "machine-learning"
-      ],
-      "cover": "/covers/viral-alesha-pro-llm-asm.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~886★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-26T01:24:42.237Z",
-      "htmlUrl": "https://github.com/alesha-pro/llm.asm"
-    },
-    {
-      "id": "viral-1473230635",
-      "name": "focus-clock",
-      "owner": "0x1A6C1A9Y",
-      "description": "Un minuteur web minimal pour se concentrer, faire une pause et avancer une chose à la fois.",
-      "language": "HTML",
-      "stars": 388,
-      "updatedAt": 1795701426000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-0x1a6c1a9y-focus-clock.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~776★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-27T01:22:21.279Z",
-      "htmlUrl": "https://github.com/0x1A6C1A9Y/focus-clock"
-    },
-    {
-      "id": "viral-1468140561",
-      "name": "KuroCat",
-      "owner": "chanke17",
-      "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
-      "language": "C++",
-      "stars": 674,
-      "updatedAt": 1795711526000,
-      "topics": [
-        "bongo-cat",
-        "bongo-cat-alternative",
-        "cpp",
-        "desktop-companion",
-        "desktop-pet"
-      ],
-      "cover": "/covers/viral-chanke17-kurocat.webp",
-      "sfx": "BOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~168★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-25T16:36:12.843Z",
-      "htmlUrl": "https://github.com/chanke17/KuroCat"
-    },
-    {
-      "id": "viral-1471922480",
-      "name": "rob-run-mod-trainer",
-      "owner": "HoangMinh-sikula",
-      "description": "Rob Run Mod Trainer: Shape Your Run, Bend the Rules, Build the Mod",
-      "language": "HTML",
-      "stars": 335,
-      "updatedAt": 1795740833000,
-      "topics": [
-        "kefir",
-        "robrun-mod",
-        "robrun-radar",
-        "robrun-utility"
-      ],
-      "cover": "/covers/viral-hoangminh-sikula-rob-run-mod-trainer.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~232★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-25T16:36:12.843Z",
-      "htmlUrl": "https://github.com/HoangMinh-sikula/rob-run-mod-trainer"
-    },
-    {
-      "id": "viral-1460417668",
-      "name": "inference-optimisation-skill",
-      "owner": "sybil-solutions",
-      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "language": "Python",
-      "stars": 2822,
-      "updatedAt": 1794854408000,
-      "topics": [
-        "agent-skill",
-        "benchmarking",
-        "claude-code",
-        "inference",
-        "llm"
-      ],
-      "cover": "/covers/viral-sybil-solutions-inference-optimisation-skill.webp",
-      "sfx": "ZOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~275★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-25T16:36:12.843Z",
-      "htmlUrl": "https://github.com/sybil-solutions/inference-optimisation-skill"
-    },
-    {
-      "id": "viral-1467035512",
-      "name": "portwatch-vi",
-      "owner": "4lwayz",
-      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "language": "JavaScript",
-      "stars": 5836,
-      "updatedAt": 1795737472000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-4lwayz-portwatch-vi.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~1147★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-24T03:40:58.130Z",
-      "htmlUrl": "https://github.com/4lwayz/portwatch-vi"
-    },
-    {
-      "id": "viral-1466325515",
-      "name": "xbox-emulator",
-      "owner": "omonkeyz",
-      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "language": "Rust",
-      "stars": 1852,
-      "updatedAt": 1795614476000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-omonkeyz-xbox-emulator.webp",
-      "sfx": "FIRE!",
-      "height": "tall",
-      "godMode": "Going viral (~324★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-25T01:48:30.898Z",
-      "htmlUrl": "https://github.com/omonkeyz/xbox-emulator"
-    },
-    {
       "id": "viral-1465322684",
       "name": "songe",
       "owner": "sous-labs",
       "description": "A training engine for your local model, using your idle compute",
       "language": "Python",
-      "stars": 904,
-      "updatedAt": 1795700334000,
+      "stars": 921,
+      "updatedAt": 1795793607000,
       "topics": [
         "coding-agents",
         "distillation",
@@ -401,13 +436,33 @@
       "htmlUrl": "https://github.com/sous-labs/songe"
     },
     {
+      "id": "viral-1466325515",
+      "name": "xbox-emulator",
+      "owner": "omonkeyz",
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "language": "Rust",
+      "stars": 1852,
+      "updatedAt": 1795614476000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-omonkeyz-xbox-emulator.webp",
+      "sfx": "FIRE!",
+      "height": "tall",
+      "godMode": "Going viral (~293★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-25T01:48:30.898Z",
+      "htmlUrl": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
       "id": "viral-1471379034",
       "name": "rea-games",
       "owner": "erkamyaman",
       "description": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
       "language": "JavaScript",
-      "stars": 308,
-      "updatedAt": 1795730773000,
+      "stars": 386,
+      "updatedAt": 1795792966000,
       "topics": [
         "2048",
         "agent-skills",
@@ -416,12 +471,126 @@
         "claude-code"
       ],
       "cover": "/covers/viral-erkamyaman-rea-games.webp",
-      "sfx": "VIRAL!!",
+      "sfx": "BOOM!!",
       "height": "medium",
-      "godMode": "Going viral (~173★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~162★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-26T01:24:42.237Z",
       "htmlUrl": "https://github.com/erkamyaman/rea-games"
+    },
+    {
+      "id": "viral-1467769720",
+      "name": "safe-anything",
+      "owner": "erkamyaman",
+      "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "language": "Rust",
+      "stars": 816,
+      "updatedAt": 1795793282000,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "cli",
+        "codex"
+      ],
+      "cover": "/covers/viral-erkamyaman-safe-anything.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~164★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-23T17:00:01.271Z",
+      "htmlUrl": "https://github.com/erkamyaman/safe-anything"
+    },
+    {
+      "id": "viral-1466927775",
+      "name": "agent-sim",
+      "owner": "Developing-Gamer",
+      "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "language": "Rust",
+      "stars": 623,
+      "updatedAt": 1795742177000,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "ios",
+        "ios-simulator",
+        "linux"
+      ],
+      "cover": "/covers/viral-developing-gamer-agent-sim.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~127★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-24T16:48:43.323Z",
+      "htmlUrl": "https://github.com/Developing-Gamer/agent-sim"
+    },
+    {
+      "id": "viral-1469549145",
+      "name": "leonida",
+      "owner": "ProjectLeonidaL",
+      "description": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation.",
+      "language": "Rust",
+      "stars": 537,
+      "updatedAt": 1795793879000,
+      "topics": [
+        "community-driven",
+        "gta6",
+        "gta6-pc",
+        "gtavi",
+        "leonida"
+      ],
+      "cover": "/covers/viral-projectleonidal-leonida.webp",
+      "sfx": "FIRE!",
+      "height": "medium",
+      "godMode": "Going viral (~151★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-24T16:48:43.323Z",
+      "htmlUrl": "https://github.com/ProjectLeonidaL/leonida"
+    },
+    {
+      "id": "viral-1471922480",
+      "name": "rob-run-mod-trainer",
+      "owner": "HoangMinh-sikula",
+      "description": "Rob Run Mod Trainer: Shape Your Run, Bend the Rules, Build the Mod",
+      "language": "HTML",
+      "stars": 335,
+      "updatedAt": 1795771107000,
+      "topics": [
+        "kefir",
+        "robrun-mod",
+        "robrun-radar",
+        "robrun-utility"
+      ],
+      "cover": "/covers/viral-hoangminh-sikula-rob-run-mod-trainer.webp",
+      "sfx": "VIRAL!!",
+      "height": "medium",
+      "godMode": "Going viral (~164★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-25T16:36:12.843Z",
+      "htmlUrl": "https://github.com/HoangMinh-sikula/rob-run-mod-trainer"
+    },
+    {
+      "id": "viral-1460417668",
+      "name": "inference-optimisation-skill",
+      "owner": "sybil-solutions",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "language": "Python",
+      "stars": 2865,
+      "updatedAt": 1794854408000,
+      "topics": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm"
+      ],
+      "cover": "/covers/viral-sybil-solutions-inference-optimisation-skill.webp",
+      "sfx": "BANG!",
+      "height": "tall",
+      "godMode": "Going viral (~263★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-25T16:36:12.843Z",
+      "htmlUrl": "https://github.com/sybil-solutions/inference-optimisation-skill"
     },
     {
       "id": "viral-1471546451",
@@ -429,7 +598,7 @@
       "owner": "Moh4696",
       "description": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
       "language": "JavaScript",
-      "stars": 450,
+      "stars": 520,
       "updatedAt": 1795614815000,
       "topics": [
         "3d",
@@ -439,52 +608,35 @@
         "explainer"
       ],
       "cover": "/covers/viral-moh4696-inkworks-skill.webp",
-      "sfx": "BANG!",
+      "sfx": "RISE!!",
       "height": "tall",
-      "godMode": "Going viral (~270★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~229★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-26T01:24:42.237Z",
       "htmlUrl": "https://github.com/Moh4696/inkworks-skill"
     },
     {
-      "id": "viral-1472887718",
-      "name": "ps5-fpsunlocker-gta6",
-      "owner": "HSgod",
-      "description": "Unlock FPS on Grand Theft Auto VI for jailbroken PS5",
-      "language": "C",
-      "stars": 248,
-      "updatedAt": 1795720898000,
+      "id": "viral-1466700014",
+      "name": "KuroCat",
+      "owner": "qianyiai",
+      "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+      "language": "TypeScript",
+      "stars": 1736,
+      "updatedAt": 1795761141000,
       "topics": [
-        "trending",
-        "github"
+        "3d",
+        "ai-companion",
+        "android",
+        "bongo-cat",
+        "bongocat"
       ],
-      "cover": "/covers/viral-hsgod-ps5-fpsunlocker-gta6.webp",
-      "sfx": "HOT!!",
+      "cover": "/covers/viral-qianyiai-kurocat.webp",
+      "sfx": "ZOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~356★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~289★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-27T01:22:21.279Z",
-      "htmlUrl": "https://github.com/HSgod/ps5-fpsunlocker-gta6"
-    },
-    {
-      "id": "viral-1472874299",
-      "name": "mcp",
-      "owner": "es-ine",
-      "description": "MCP server connecting AI assistants to the Spanish National Statistics Institute (INE) public API. Enables access to official demographic, economic and social statistics, making it easy to search, retrieve and analyze re",
-      "language": "Python",
-      "stars": 157,
-      "updatedAt": 1795681743000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-es-ine-mcp.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~222★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-27T01:22:21.279Z",
-      "htmlUrl": "https://github.com/es-ine/mcp"
+      "spottedAt": "2026-11-24T16:48:43.323Z",
+      "htmlUrl": "https://github.com/qianyiai/KuroCat"
     },
     {
       "id": "viral-1468977659",
@@ -492,7 +644,7 @@
       "owner": "EL4CTEO",
       "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
       "language": "Rust",
-      "stars": 336,
+      "stars": 378,
       "updatedAt": 1795622402000,
       "topics": [
         "ai-agents",
@@ -508,6 +660,52 @@
       "viral": true,
       "spottedAt": "2026-11-25T16:36:12.843Z",
       "htmlUrl": "https://github.com/EL4CTEO/shrink-anything"
+    },
+    {
+      "id": "viral-1466772859",
+      "name": "awesome-gta6-reverse-engineering",
+      "owner": "Ahmet-Dedeler",
+      "description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
+      "language": "HTML",
+      "stars": 820,
+      "updatedAt": 1795731965000,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game-preservation",
+        "grand-theft-auto-vi",
+        "gta-6"
+      ],
+      "cover": "/covers/viral-ahmet-dedeler-awesome-gta6-reverse-engineering.webp",
+      "sfx": "BOOM!!",
+      "height": "medium",
+      "godMode": "Going viral (~138★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-24T03:40:58.130Z",
+      "htmlUrl": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering"
+    },
+    {
+      "id": "viral-1466272233",
+      "name": "PiBot",
+      "owner": "w01fb0ss",
+      "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "language": "TypeScript",
+      "stars": 668,
+      "updatedAt": 1795766704000,
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "android"
+      ],
+      "cover": "/covers/viral-w01fb0ss-pibot.webp",
+      "sfx": "RISE!!",
+      "height": "medium",
+      "godMode": "Going viral (~120★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-25T01:48:30.898Z",
+      "htmlUrl": "https://github.com/w01fb0ss/PiBot"
     },
     {
       "id": "viral-1469917410",
@@ -533,26 +731,6 @@
       "htmlUrl": "https://github.com/QakajaVeca60/deadlock-cheat-esp-aimbot-win11"
     },
     {
-      "id": "viral-1471583456",
-      "name": "Reach-Project-Emulator-For-GTA-6",
-      "owner": "ReachProject-Git",
-      "description": "For GTA 6 files are not yet released but you can check for updates here : https://x.com/RainReachDetail",
-      "language": "Unknown",
-      "stars": 215,
-      "updatedAt": 1795630164000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-reachproject-git-reach-project-emulator-for-gta-6.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~335★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-25T16:36:12.843Z",
-      "htmlUrl": "https://github.com/ReachProject-Git/Reach-Project-Emulator-For-GTA-6"
-    },
-    {
       "id": "viral-1472261422",
       "name": "frontend-design-skill",
       "owner": "uxpilot-ai",
@@ -574,6 +752,29 @@
       "viral": true,
       "spottedAt": "2026-11-26T01:24:42.237Z",
       "htmlUrl": "https://github.com/uxpilot-ai/frontend-design-skill"
+    },
+    {
+      "id": "viral-1465531278",
+      "name": "sprite-stacking",
+      "owner": "danielwh2",
+      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "language": "HTML",
+      "stars": 1071,
+      "updatedAt": 1795525928000,
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "cursor",
+        "fake-3d"
+      ],
+      "cover": "/covers/viral-danielwh2-sprite-stacking.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~152★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-24T03:40:58.130Z",
+      "htmlUrl": "https://github.com/danielwh2/sprite-stacking"
     },
     {
       "id": "viral-1470880509",
@@ -645,142 +846,24 @@
       "htmlUrl": "https://github.com/elifbhatia2005/asana-desktop"
     },
     {
-      "id": "viral-1466700014",
-      "name": "KuroCat",
-      "owner": "qianyiai",
-      "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
-      "language": "TypeScript",
-      "stars": 1372,
-      "updatedAt": 1795740652000,
+      "id": "viral-1466075841",
+      "name": "skill-distill",
+      "owner": "sybil-solutions",
+      "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "language": "Python",
+      "stars": 978,
+      "updatedAt": 1795232881000,
       "topics": [
-        "3d",
-        "ai-companion",
-        "android",
-        "bongo-cat",
-        "bongocat"
+        "trending",
+        "github"
       ],
-      "cover": "/covers/viral-qianyiai-kurocat.webp",
-      "sfx": "VIRAL!!",
-      "height": "tall",
-      "godMode": "Going viral (~254★/day). Pin it before your AI stack falls behind.",
+      "cover": "/covers/viral-sybil-solutions-skill-distill.webp",
+      "sfx": "BANG!",
+      "height": "medium",
+      "godMode": "Going viral (~148★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-24T16:48:43.323Z",
-      "htmlUrl": "https://github.com/qianyiai/KuroCat"
-    },
-    {
-      "id": "viral-1466772859",
-      "name": "awesome-gta6-reverse-engineering",
-      "owner": "Ahmet-Dedeler",
-      "description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
-      "language": "HTML",
-      "stars": 794,
-      "updatedAt": 1795731965000,
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "game-preservation",
-        "grand-theft-auto-vi",
-        "gta-6"
-      ],
-      "cover": "/covers/viral-ahmet-dedeler-awesome-gta6-reverse-engineering.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~149★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-24T03:40:58.130Z",
-      "htmlUrl": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering"
-    },
-    {
-      "id": "viral-1466272233",
-      "name": "PiBot",
-      "owner": "w01fb0ss",
-      "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "language": "TypeScript",
-      "stars": 655,
-      "updatedAt": 1795712530000,
-      "topics": [
-        "agent",
-        "ai-agent",
-        "ai-agents",
-        "ai-assistant",
-        "android"
-      ],
-      "cover": "/covers/viral-w01fb0ss-pibot.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~120★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-25T01:48:30.898Z",
-      "htmlUrl": "https://github.com/w01fb0ss/PiBot"
-    },
-    {
-      "id": "viral-1466927775",
-      "name": "agent-sim",
-      "owner": "Developing-Gamer",
-      "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "language": "Rust",
-      "stars": 615,
-      "updatedAt": 1795742177000,
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "ios",
-        "ios-simulator",
-        "linux"
-      ],
-      "cover": "/covers/viral-developing-gamer-agent-sim.webp",
-      "sfx": "VIRAL!!",
-      "height": "medium",
-      "godMode": "Going viral (~127★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-24T16:48:43.323Z",
-      "htmlUrl": "https://github.com/Developing-Gamer/agent-sim"
-    },
-    {
-      "id": "viral-1469549145",
-      "name": "leonida",
-      "owner": "ProjectLeonidaL",
-      "description": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation.",
-      "language": "Rust",
-      "stars": 510,
-      "updatedAt": 1795736293000,
-      "topics": [
-        "community-driven",
-        "gta6",
-        "gta6-pc",
-        "gtavi",
-        "leonida"
-      ],
-      "cover": "/covers/viral-projectleonidal-leonida.webp",
-      "sfx": "RISE!!",
-      "height": "medium",
-      "godMode": "Going viral (~172★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-24T16:48:43.323Z",
-      "htmlUrl": "https://github.com/ProjectLeonidaL/leonida"
-    },
-    {
-      "id": "viral-1465531278",
-      "name": "sprite-stacking",
-      "owner": "danielwh2",
-      "description": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
-      "language": "HTML",
-      "stars": 1035,
-      "updatedAt": 1795525928000,
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "codex",
-        "cursor",
-        "fake-3d"
-      ],
-      "cover": "/covers/viral-danielwh2-sprite-stacking.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~160★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-24T03:40:58.130Z",
-      "htmlUrl": "https://github.com/danielwh2/sprite-stacking"
+      "htmlUrl": "https://github.com/sybil-solutions/skill-distill"
     },
     {
       "id": "viral-1470862470",
@@ -857,7 +940,7 @@
       "owner": "pierridotite",
       "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
       "language": "Python",
-      "stars": 2520,
+      "stars": 2580,
       "updatedAt": 1795703584000,
       "topics": [
         "accessibility-testing",
@@ -867,9 +950,9 @@
         "android-emulator"
       ],
       "cover": "/covers/viral-pierridotite-mobile-agent-testers.webp",
-      "sfx": "RISE!!",
+      "sfx": "VIRAL!!",
       "height": "tall",
-      "godMode": "Going viral (~246★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~237★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-23T17:00:01.271Z",
       "htmlUrl": "https://github.com/pierridotite/mobile-agent-testers"
@@ -880,8 +963,8 @@
       "owner": "INK-Q",
       "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
       "language": "TypeScript",
-      "stars": 1720,
-      "updatedAt": 1795705033000,
+      "stars": 1905,
+      "updatedAt": 1795759443000,
       "topics": [
         "ai-agent",
         "ai-coding",
@@ -890,35 +973,12 @@
         "antigravity-ide"
       ],
       "cover": "/covers/viral-ink-q-agy-fast.webp",
-      "sfx": "FIRE!",
+      "sfx": "BOOM!!",
       "height": "tall",
-      "godMode": "Going viral (~219★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~225★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-23T17:00:01.271Z",
       "htmlUrl": "https://github.com/INK-Q/agy-fast"
-    },
-    {
-      "id": "viral-1467769720",
-      "name": "safe-anything",
-      "owner": "erkamyaman",
-      "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-      "language": "Rust",
-      "stars": 788,
-      "updatedAt": 1795730584000,
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "cli",
-        "codex"
-      ],
-      "cover": "/covers/viral-erkamyaman-safe-anything.webp",
-      "sfx": "ZOOM!!",
-      "height": "medium",
-      "godMode": "Going viral (~181★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-23T17:00:01.271Z",
-      "htmlUrl": "https://github.com/erkamyaman/safe-anything"
     },
     {
       "id": "viral-1457270665",
@@ -926,39 +986,19 @@
       "owner": "duwqijlk",
       "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "language": "Python",
-      "stars": 1844,
+      "stars": 1848,
       "updatedAt": 1795419367000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-duwqijlk-muse-protocol.webp",
-      "sfx": "RISE!!",
+      "sfx": "HOT!!",
       "height": "medium",
-      "godMode": "Going viral (~142★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~136★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-23T17:00:01.271Z",
       "htmlUrl": "https://github.com/duwqijlk/muse-protocol"
-    },
-    {
-      "id": "viral-1466075841",
-      "name": "skill-distill",
-      "owner": "sybil-solutions",
-      "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
-      "language": "Python",
-      "stars": 920,
-      "updatedAt": 1795232881000,
-      "topics": [
-        "trending",
-        "github"
-      ],
-      "cover": "/covers/viral-sybil-solutions-skill-distill.webp",
-      "sfx": "BANG!",
-      "height": "medium",
-      "godMode": "Going viral (~154★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-24T16:48:43.323Z",
-      "htmlUrl": "https://github.com/sybil-solutions/skill-distill"
     },
     {
       "id": "viral-1466035287",
@@ -966,16 +1006,16 @@
       "owner": "xikhar",
       "description": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
       "language": "JavaScript",
-      "stars": 811,
+      "stars": 919,
       "updatedAt": 1795282639000,
       "topics": [
         "trending",
         "github"
       ],
       "cover": "/covers/viral-xikhar-papercraft.webp",
-      "sfx": "HOT!!",
+      "sfx": "RISE!!",
       "height": "medium",
-      "godMode": "Going viral (~134★/day). Pin it before your AI stack falls behind.",
+      "godMode": "Going viral (~138★/day). Pin it before your AI stack falls behind.",
       "viral": true,
       "spottedAt": "2026-11-23T17:00:01.271Z",
       "htmlUrl": "https://github.com/xikhar/papercraft"
@@ -1002,6 +1042,26 @@
       "viral": true,
       "spottedAt": "2026-11-24T03:40:58.130Z",
       "htmlUrl": "https://github.com/Meetsaini/emulator"
+    },
+    {
+      "id": "viral-1465559592",
+      "name": "riemann-hypothesis-lean",
+      "owner": "CocoSgt",
+      "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
+      "language": "Lean",
+      "stars": 589,
+      "updatedAt": 1795187616000,
+      "topics": [
+        "trending",
+        "github"
+      ],
+      "cover": "/covers/viral-cocosgt-riemann-hypothesis-lean.webp",
+      "sfx": "HOT!!",
+      "height": "medium",
+      "godMode": "Going viral (~126★/day). Pin it before your AI stack falls behind.",
+      "viral": true,
+      "spottedAt": "2026-11-23T17:00:01.271Z",
+      "htmlUrl": "https://github.com/CocoSgt/riemann-hypothesis-lean"
     },
     {
       "id": "viral-1466547889",
@@ -1096,24 +1156,27 @@
       "htmlUrl": "https://github.com/official00shivansh-eng/ultra-iso"
     },
     {
-      "id": "viral-1465559592",
-      "name": "riemann-hypothesis-lean",
-      "owner": "CocoSgt",
-      "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
-      "language": "Lean",
-      "stars": 585,
-      "updatedAt": 1795187616000,
+      "id": "viral-1467261008",
+      "name": "monster-hunter-wilds-save-editor-2026",
+      "owner": "mark-miller-code2001y5",
+      "description": "Monster Hunter Wilds Save Editor, Charm/Decoration Injector & Standalone Trainer (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt p",
+      "language": "Jupyter Notebook",
+      "stars": 400,
+      "updatedAt": 1795327166000,
       "topics": [
-        "trending",
-        "github"
+        "cmake",
+        "configuration",
+        "cpp",
+        "directx-11",
+        "directx-12"
       ],
-      "cover": "/covers/viral-cocosgt-riemann-hypothesis-lean.webp",
-      "sfx": "HOT!!",
-      "height": "medium",
-      "godMode": "Going viral (~126★/day). Pin it before your AI stack falls behind.",
+      "cover": "/covers/viral-mark-miller-code2001y5-monster-hunter-wilds-save-editor-2026.webp",
+      "sfx": "RISE!!",
+      "height": "tall",
+      "godMode": "Going viral (~416★/day). Pin it before your AI stack falls behind.",
       "viral": true,
-      "spottedAt": "2026-11-23T17:00:01.271Z",
-      "htmlUrl": "https://github.com/CocoSgt/riemann-hypothesis-lean"
+      "spottedAt": "2026-11-23T05:02:20.132Z",
+      "htmlUrl": "https://github.com/mark-miller-code2001y5/monster-hunter-wilds-save-editor-2026"
     },
     {
       "id": "viral-1469018131",
@@ -1160,29 +1223,6 @@
       "viral": true,
       "spottedAt": "2026-11-24T03:40:58.130Z",
       "htmlUrl": "https://github.com/soderberg65595/jupiter-v6-atomic-arbitrage-bot"
-    },
-    {
-      "id": "viral-1467261008",
-      "name": "monster-hunter-wilds-save-editor-2026",
-      "owner": "mark-miller-code2001y5",
-      "description": "Monster Hunter Wilds Save Editor, Charm/Decoration Injector & Standalone Trainer (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt p",
-      "language": "Jupyter Notebook",
-      "stars": 400,
-      "updatedAt": 1795327166000,
-      "topics": [
-        "cmake",
-        "configuration",
-        "cpp",
-        "directx-11",
-        "directx-12"
-      ],
-      "cover": "/covers/viral-mark-miller-code2001y5-monster-hunter-wilds-save-editor-2026.webp",
-      "sfx": "RISE!!",
-      "height": "tall",
-      "godMode": "Going viral (~416★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-23T05:02:20.132Z",
-      "htmlUrl": "https://github.com/mark-miller-code2001y5/monster-hunter-wilds-save-editor-2026"
     },
     {
       "id": "viral-1469025510",
@@ -1298,52 +1338,6 @@
       "viral": true,
       "spottedAt": "2026-11-24T03:40:58.130Z",
       "htmlUrl": "https://github.com/JamesRodriguez209/deadlock-cheat"
-    },
-    {
-      "id": "viral-1469133079",
-      "name": "windsurf-pro-cursor-trial-reset-unlocker",
-      "owner": "nowak2443",
-      "description": "Cursor Pro Machine ID Reset & Windsurf Pro Trial Reset (2026) — Automated Cursor Free VIP Telemetry Cleaner & Unlocker",
-      "language": "C#",
-      "stars": 236,
-      "updatedAt": 1795461676000,
-      "topics": [
-        "ai-ide",
-        "automation",
-        "cli-utility",
-        "configuration",
-        "csharp"
-      ],
-      "cover": "/covers/viral-nowak2443-windsurf-pro-cursor-trial-reset-unlocker.webp",
-      "sfx": "HOT!!",
-      "height": "tall",
-      "godMode": "Going viral (~472★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-24T03:40:58.130Z",
-      "htmlUrl": "https://github.com/nowak2443/windsurf-pro-cursor-trial-reset-unlocker"
-    },
-    {
-      "id": "viral-1469543790",
-      "name": "gta-5-enhanced-mod-menu-cebamar",
-      "owner": "manukrishnasreeji748-collab",
-      "description": "Cebamar tunes GTA 5 Enhanced sessions with on-screen aids and live game readouts.",
-      "language": "HTML",
-      "stars": 177,
-      "updatedAt": 1795526617000,
-      "topics": [
-        "cmake",
-        "configuration",
-        "cpp",
-        "directx-11",
-        "directx-12"
-      ],
-      "cover": "/covers/viral-manukrishnasreeji748-collab-gta-5-enhanced-mod-menu-cebamar.webp",
-      "sfx": "BOOM!!",
-      "height": "tall",
-      "godMode": "Going viral (~291★/day). Pin it before your AI stack falls behind.",
-      "viral": true,
-      "spottedAt": "2026-11-24T16:48:43.323Z",
-      "htmlUrl": "https://github.com/manukrishnasreeji748-collab/gta-5-enhanced-mod-menu-cebamar"
     }
   ]
 }
